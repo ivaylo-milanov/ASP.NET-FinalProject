@@ -5,8 +5,6 @@
     using HardwareStore.Infrastructure.Common;
     using HardwareStore.Infrastructure.Seed;
     using HardwareStore.Infrastructure.Seed.Contracts;
-    using Newtonsoft.Json;
-    using System.Reflection;
 
     public static class AddServicesExtension
     {
