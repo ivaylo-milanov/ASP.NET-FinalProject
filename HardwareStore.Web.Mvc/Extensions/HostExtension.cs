@@ -1,4 +1,4 @@
-﻿namespace HardwareStore.Extensions
+﻿namespace HardwareStore.Web.Mvc.Extensions
 {
     using HardwareStore.Infrastructure.Data;
     using HardwareStore.Infrastructure.Seed.Contracts;

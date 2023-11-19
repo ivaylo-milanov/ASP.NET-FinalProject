@@ -229,6 +229,7 @@
   <ItemGroup>
     <ProjectReference Include="..\HardwareStore.Core.ViewModels\HardwareStore.Core.ViewModels.csproj" />
     <ProjectReference Include="..\HardwareStore.Core\HardwareStore.Core.csproj" />
+    <ProjectReference Include="..\HardwareStore.Infrastructure.Seed\HardwareStore.Infrastructure.Seed.csproj" />
   </ItemGroup>
 
 </Project>
