@@ -6,6 +6,7 @@
     using HardwareStore.Infrastructure.Seed;
     using HardwareStore.Infrastructure.Seed.Contracts;
     using Newtonsoft.Json;
+    using System.Reflection;
 
     public static class AddServicesExtension
     {
@@ -23,6 +24,8 @@
             services.AddScoped<IAuthenticationService, AuthenticationService>();
             services.AddScoped<IProfileService, ProfileService>();
             services.AddScoped<IDetailsService, DetailsService>();
+
+            services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(IAuthenticationService).Assembly));
 
             services.AddControllers();
             services.AddHttpContextAccessor();
