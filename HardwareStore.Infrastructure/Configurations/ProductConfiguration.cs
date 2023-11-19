@@ -16,30 +16,27 @@
             {
                 builder.HasData(new
                 {
-                    Name = product.Name,
-                    ReferenceNumber = product.ReferenceNumber,
+                    product.Name,
+                    product.ReferenceNumber,
                     AddDate = DateTime.Now,
-                    CategoryId = product.CategoryId,
-                    ManufacturerId = product.ManufacturerId,
-                    Description = product.Description,
-                    Quantity = product.Quantity,
-                    Warranty = product.Warranty,
-                    Model = product.Model,
-                    Price = product.Price
+                    product.CategoryId,
+                    product.ManufacturerId,
+                    product.Description,
+                    product.Quantity,
+                    product.Warranty,
+                    product.Model,
+                    product.Price
                 });
 
-                foreach (var characteristic in product.Characteristics)
+                builder.OwnsMany<Characteristic>("Characteristics", c =>
                 {
-                    builder.OwnsMany<Characteristic>("Characteristics", c =>
+                    c.HasData(product.Characteristics.Select(characteristic => new
                     {
-                        c.HasData(product.Characteristics.Select(characteristic => new
-                        {
-                            ProductId = product.Id,
-                            CharacteristicNameId = characteristic.CharacteristicNameId,
-                            Value = characteristic.Value
-                        }));
-                    });
-                }
+                        ProductId = product.Id,
+                        characteristic.CharacteristicNameId,
+                        characteristic.Value
+                    }));
+                });
             }
 
             builder.HasData(GetProducts());
@@ -63,37 +60,27 @@
 
         private IEnumerable<Product> GetCategoryProducts(IEnumerable<ProductDto> productDtos)
         {
-            var products = new List<Product>();
-
-            foreach (var productDto in productDtos)
-            {
-                var product = new Product
+            var products = productDtos
+                .Select(p => new Product
                 {
-                    Name = productDto.Name,
-                    ReferenceNumber = productDto.ReferenceNumber,
+                    Name = p.Name,
+                    ReferenceNumber = p.ReferenceNumber,
                     AddDate = DateTime.Now,
-                    CategoryId = productDto.CategoryId,
-                    ManufacturerId = productDto.ManufacturerId,
-                    Description = productDto.Description,
-                    Quantity = productDto.Quantity,
-                    Warranty = productDto.Warranty,
-                    Model = productDto.Model,
-                    Price = productDto.Price
-                };
-
-                foreach (var characteristicDto in productDto.Characteristics)
-                {
-                    var characteristic = new Characteristic
-                    {
-                        CharacteristicNameId = characteristicDto.CharacteristicNameId,
-                        Value = characteristicDto.Value
-                    };
-
-                    product.Characteristics.Add(characteristic);
-                }
-
-                products.Add(product);
-            }
+                    CategoryId = p.CategoryId,
+                    ManufacturerId = p.ManufacturerId,
+                    Description = p.Description,
+                    Quantity = p.Quantity,
+                    Warranty = p.Warranty,
+                    Model = p.Model,
+                    Price = p.Price,
+                    Characteristics = p.Characteristics
+                        .Select(chr => new Characteristic
+                        {
+                            CharacteristicNameId = chr.CharacteristicNameId,
+                            Value = chr.Value
+                        })
+                        .ToList()
+                });
 
             return products;
         }
