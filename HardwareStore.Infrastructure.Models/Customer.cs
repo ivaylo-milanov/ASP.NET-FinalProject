@@ -6,7 +6,7 @@
     using System.ComponentModel.DataAnnotations;
 
     [Comment("customer table")]
-    public class Customer : IdentityUser
+    public class Customer : IdentityUser<Guid>
     {
         public Customer()
         {

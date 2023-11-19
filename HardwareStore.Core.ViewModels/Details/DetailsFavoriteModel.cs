@@ -4,6 +4,6 @@
     {
         public bool IsFavorite { get; set; }
 
-        public int ProductId { get; set; }
+        public string ProductId { get; set; } = null!;
     }
 }

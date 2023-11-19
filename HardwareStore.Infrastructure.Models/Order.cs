@@ -71,7 +71,7 @@
 
         [Comment("order customer id")]
         [Required]
-        public string CustomerId { get; set; } = null!;
+        public Guid CustomerId { get; set; }
 
         [Comment("order customer")]
         [ForeignKey(nameof(CustomerId))]

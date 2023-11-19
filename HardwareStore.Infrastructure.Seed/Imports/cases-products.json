@@ -5,77 +5,77 @@
     "quantity": 10,
     "description": "ROG Strix Helios is a premium mid-tower gaming case with three tempered-glass panels, refined aluminum frame and integrated front-panel RGB lighting. Built-in cable management, including a multifunction cover with GPU braces, keeps the interior sharp and tidy. Engineered for expandability and performance, it's ready for an up to EATX motherboard and serious water-cooling setups – making it the perfect choice for a classic ROG showcase build.",
     "warranty": 24,
-    "manufacturer": "ASUS",
+    "manufacturerIdId": 1,
     "model": "ROG STRIX HELIOS",
     "referenceNumber": "ASUS-ROG-STRIX-HELIOS",
-    "category": "Case",
+    "categoryId": 12,
     "characteristics": [
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Mid Tower"
       },
       {
-        "name": "Format",
+        "characteristicNameId": 2,
         "value": "ATX, Micro ATX, Mini ITX, EATX"
       },
       {
-        "name": "Fans included",
+        "characteristicNameId": 3,
         "value": "4x 140mm"
       },
       {
-        "name": "Front panel",
+        "characteristicNameId": 4,
         "value": "Audio In & Out, USB 3.1 Gen1, USB 3.1 Gen 2 (Type-C)"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "565 mm"
       },
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "250 mm"
       },
       {
-        "name": "Height",
+        "characteristicNameId": 8,
         "value": "591 mm"
       },
       {
-        "name": "Maximum height of air cooler",
+        "characteristicNameId": 9,
         "value": "190 mm"
       },
       {
-        "name": "Maximum video card length",
+        "characteristicNameId": 10,
         "value": "450 mm"
       },
       {
-        "name": "Front supported fans",
+        "characteristicNameId": 11,
         "value": "3x 120mm, 3x 140mm"
       },
       {
-        "name": "Rear fans supported",
+        "characteristicNameId": 12,
         "value": "1x 120mm, 1x 140mm"
       },
       {
-        "name": "Supported fans on top",
+        "characteristicNameId": 13,
         "value": "2x 140mm, 3x 120mm"
       },
       {
-        "name": "Supported water coolers in the front",
+        "characteristicNameId": 14,
         "value": "1x 280mm, 1x 120mm, 1x 240mm, 1x 360mm, 1x 140mm, 1x 420mm"
       },
       {
-        "name": "Rear water coolers supported",
+        "characteristicNameId": 15,
         "value": "1x 120mm, 1x 140mm"
       },
       {
-        "name": "Supported water coolers on top",
+        "characteristicNameId": 16,
         "value": "1x 240mm, 1x 120mm, 1x 140mm, 1x 280mm, 1x 360mm"
       },
       {
-        "name": "Mesh front panel",
+        "characteristicNameId": 17,
         "value": "No"
       }
     ]
@@ -86,69 +86,69 @@
     "quantity": 10,
     "description": "Box ASUS TUF Gaming GT502, Mid-Tower, Aura Sync RGB",
     "warranty": 24,
-    "manufacturer": "ASUS",
+    "manufacturerIdId": 1,
     "model": "TUF GAMING GT502",
     "referenceNumber": "ASUS-TUF-GAMING-GT5O2",
-    "category": "Case",
+    "categoryId": 12,
     "characteristics": [
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Mid Tower"
       },
       {
-        "name": "Format",
+        "characteristicNameId": 2,
         "value": "ATX, Micro ATX, Mini ITX"
       },
       {
-        "name": "Fans included",
+        "characteristicNameId": 3,
         "value": "No"
       },
       {
-        "name": "Front panel",
+        "characteristicNameId": 4,
         "value": "Audio In & Out, USB 3.2 Gen1, USB 3.2 (Gen 2) Type-C"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "446 mm"
       },
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "285 mm"
       },
       {
-        "name": "Height",
+        "characteristicNameId": 8,
         "value": "450 mm"
       },
       {
-        "name": "Maximum height of air cooler",
+        "characteristicNameId": 9,
         "value": "163 mm"
       },
       {
-        "name": "Maximum video card length",
+        "characteristicNameId": 10,
         "value": "400 mm"
       },
       {
-        "name": "Rear fans supported",
+        "characteristicNameId": 12,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported fans on top",
+        "characteristicNameId": 13,
         "value": "2x 140mm, 3x 120mm"
       },
       {
-        "name": "Rear water coolers supported",
+        "characteristicNameId": 15,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported water coolers on top",
+        "characteristicNameId": 16,
         "value": "1x 240mm, 1x 120mm, 1x 140mm, 1x 280mm, 1x 360mm"
       },
       {
-        "name": "Mesh front panel",
+        "characteristicNameId": 17,
         "value": "No"
       }
     ]
@@ -159,73 +159,73 @@
     "quantity": 10,
     "description": "Box ASUS TUF Gaming GT301 ARGB, Mid-Tower",
     "warranty": 24,
-    "manufacturer": "ASUS",
+    "manufacturerIdId": 1,
     "model": "TUF GAMING GT301",
     "referenceNumber": "ASUS-TUF-GAMING-GT301",
-    "category": "Case",
+    "categoryId": 12,
     "characteristics": [
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Mid Tower"
       },
       {
-        "name": "Format",
+        "characteristicNameId": 2,
         "value": "ATX, Micro ATX, Mini ITX"
       },
       {
-        "name": "Fans included",
+        "characteristicNameId": 3,
         "value": "4x 120mm"
       },
       {
-        "name": "Front panel",
+        "characteristicNameId": 4,
         "value": "Audio In & Out, USB 3.2 Gen1"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "426 mm"
       },
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "214 mm"
       },
       {
-        "name": "Height",
+        "characteristicNameId": 8,
         "value": "482 mm"
       },
       {
-        "name": "Maximum height of air cooler",
+        "characteristicNameId": 9,
         "value": "160 mm"
       },
       {
-        "name": "Maximum video card length",
+        "characteristicNameId": 10,
         "value": "320 mm"
       },
       {
-        "name": "Front supported fans",
+        "characteristicNameId": 11,
         "value": "3x 120mm, 2x 140mm"
       },
       {
-        "name": "Rear fans supported",
+        "characteristicNameId": 12,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported fans on top",
+        "characteristicNameId": 13,
         "value": "2x 120mm"
       },
       {
-        "name": "Supported water coolers in the front",
+        "characteristicNameId": 14,
         "value": "1x 280mm, 1x 120mm, 1x 240mm, 1x 360mm, 1x 140mm"
       },
       {
-        "name": "Rear water coolers supported",
+        "characteristicNameId": 15,
         "value": "1x 120mm"
       },
       {
-        "name": "Mesh front panel",
+        "characteristicNameId": 17,
         "value": "Yes"
       }
     ]
@@ -236,77 +236,77 @@
     "quantity": 10,
     "description": "Cooler Master CMP 320 Mesh Black ARGB box",
     "warranty": 24,
-    "manufacturer": "Cooler Master",
+    "manufacturerIdId": 4,
     "model": "CMP320",
     "referenceNumber": "COOLER-MASTER-CMP320",
-    "category": "Case",
+    "categoryId": 12,
     "characteristics": [
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Mini Tower"
       },
       {
-        "name": "Format",
+        "characteristicNameId": 2,
         "value": "Micro ATX, Mini ITX"
       },
       {
-        "name": "Fans included",
+        "characteristicNameId": 3,
         "value": "2x 120mm"
       },
       {
-        "name": "Front panel",
+        "characteristicNameId": 4,
         "value": "USB 3.0, Audio In & Out, USB 3.2 Gen1, ARGB Controller"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "446 mm"
       },
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "204 mm"
       },
       {
-        "name": "Height",
+        "characteristicNameId": 8,
         "value": "425 mm"
       },
       {
-        "name": "Maximum height of air cooler",
+        "characteristicNameId": 9,
         "value": "163.5 mm"
       },
       {
-        "name": "Maximum video card length",
+        "characteristicNameId": 10,
         "value": "365 mm"
       },
       {
-        "name": "Front supported fans",
+        "characteristicNameId": 11,
         "value": "3x 120mm"
       },
       {
-        "name": "Rear fans supported",
+        "characteristicNameId": 12,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported fans on top",
+        "characteristicNameId": 13,
         "value": "2x 120mm, 2x 140mm"
       },
       {
-        "name": "Supported water coolers in the front",
+        "characteristicNameId": 14,
         "value": "1x 120mm, 1x 240mm"
       },
       {
-        "name": "Rear water coolers supported",
+        "characteristicNameId": 15,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported water coolers on top",
+        "characteristicNameId": 16,
         "value": "1x 240mm, 1x 120mm, 1x 140mm, 1x 280mm"
       },
       {
-        "name": "Mesh front panel",
+        "characteristicNameId": 17,
         "value": "Yes"
       }
     ]
@@ -317,77 +317,77 @@
     "quantity": 10,
     "description": "Cooler Master MasterBox TD300 Mesh box",
     "warranty": 24,
-    "manufacturer": "Cooler Master",
+    "manufacturerIdId": 4,
     "model": "MasterBox TD300 Mesh",
     "referenceNumber": "COOLER-MASTER-MASTERBOX-TD300-MESH",
-    "category": "Case",
+    "categoryId": 12,
     "characteristics": [
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Mini Tower"
       },
       {
-        "name": "Format",
+        "characteristicNameId": 2,
         "value": "Micro ATX, Mini ITX"
       },
       {
-        "name": "Fans included",
+        "characteristicNameId": 3,
         "value": "2x 120mm"
       },
       {
-        "name": "Front panel",
+        "characteristicNameId": 4,
         "value": "Audio In & Out, USB 3.2 Gen1, ARGB Controller"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "433 mm"
       },
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "210 mm"
       },
       {
-        "name": "Height",
+        "characteristicNameId": 8,
         "value": "421 mm"
       },
       {
-        "name": "Maximum height of air cooler",
+        "characteristicNameId": 9,
         "value": "166 mm"
       },
       {
-        "name": "Maximum video card length",
+        "characteristicNameId": 9,
         "value": "344 mm"
       },
       {
-        "name": "Front supported fans",
+        "characteristicNameId": 11,
         "value": "3x 120mm, 2x 140mm"
       },
       {
-        "name": "Rear fans supported",
+        "characteristicNameId": 12,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported fans on top",
+        "characteristicNameId": 13,
         "value": "2x 120mm, 2x 140mm"
       },
       {
-        "name": "Supported water coolers in the front",
+        "characteristicNameId": 14,
         "value": "1x 280mm, 1x 120mm, 1x 240mm, 1x 140mm"
       },
       {
-        "name": "Rear water coolers supported",
+        "characteristicNameId": 15,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported water coolers on top",
+        "characteristicNameId": 16,
         "value": "1x 240mm, 1x 120mm, 1x 140mm, 1x 280mm"
       },
       {
-        "name": "Mesh front panel",
+        "characteristicNameId": 17,
         "value": "Yes"
       }
     ]
@@ -398,73 +398,73 @@
     "quantity": 10,
     "description": "With the MasterBox MB511 ARGB ATX PC case, systems built for high demand gaming can breathe easily through the Fine Mesh front panel. Along with the aggressive intakes in front, there is also ventilation on the top panel for added thermal support.",
     "warranty": 24,
-    "manufacturer": "Cooler Master",
+    "manufacturerIdId": 4,
     "model": "MasterBox MB511 ARGB",
     "referenceNumber": "COOLER-MASTER-MASTERBOX-MB511-ARGB",
-    "category": "Case",
+    "categoryId": 12,
     "characteristics": [
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Mid Tower"
       },
       {
-        "name": "Format",
+        "characteristicNameId": 2,
         "value": "ATX, Micro ATX, Mini ITX, EATX"
       },
       {
-        "name": "Fans included",
+        "characteristicNameId": 3,
         "value": "3x 120mm"
       },
       {
-        "name": "Front panel",
+        "characteristicNameId": 4,
         "value": "Audio In & Out, USB 3.2 Gen1"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "496 mm"
       },
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "217 mm"
       },
       {
-        "name": "Height",
+        "characteristicNameId": 8,
         "value": "469 mm"
       },
       {
-        "name": "Maximum height of air cooler",
+        "characteristicNameId": 9,
         "value": "165 mm"
       },
       {
-        "name": "Maximum video card length",
+        "characteristicNameId": 9,
         "value": "410 mm"
       },
       {
-        "name": "Front supported fans",
+        "characteristicNameId": 11,
         "value": "3x 120mm, 2x 140mm"
       },
       {
-        "name": "Rear fans supported",
+        "characteristicNameId": 12,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported fans on top",
+        "characteristicNameId": 13,
         "value": "2x 140mm, 3x 120mm"
       },
       {
-        "name": "Supported water coolers in the front",
+        "characteristicNameId": 14,
         "value": "1x 280mm, 1x 120mm, 1x 240mm, 1x 360mm, 1x 140mm"
       },
       {
-        "name": "Supported water coolers on top",
+        "characteristicNameId": 16,
         "value": "1x 240mm, 1x 120mm, 1x 360mm"
       },
       {
-        "name": "Mesh front panel",
+        "characteristicNameId": 17,
         "value": "Yes"
       }
     ]
@@ -475,77 +475,77 @@
     "quantity": 10,
     "description": "Cooler Master HAF 500 case",
     "warranty": 24,
-    "manufacturer": "Cooler Master",
+    "manufacturerIdId": 4,
     "model": "HAF 500",
     "referenceNumber": "COOLER-MASTER-HAF-500",
-    "category": "Case",
+    "categoryId": 12,
     "characteristics": [
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Mid Tower"
       },
       {
-        "name": "Format",
+        "characteristicNameId": 2,
         "value": "ATX, Micro ATX, Mini ITX, EATX"
       },
       {
-        "name": "Fans included",
+        "characteristicNameId": 3,
         "value": "2x 120mm, 2x 200mm"
       },
       {
-        "name": "Front panel",
+        "characteristicNameId": 4,
         "value": "Audio In & Out, USB 3.2 Gen1, ARGB Controller, USB 3.2 (Gen 2) Type-C"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "516 mm"
       },
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "224 mm"
       },
       {
-        "name": "Height",
+        "characteristicNameId": 8,
         "value": "510 mm"
       },
       {
-        "name": "Maximum height of air cooler",
+        "characteristicNameId": 9,
         "value": "167 mm"
       },
       {
-        "name": "Maximum video card length",
+        "characteristicNameId": 9,
         "value": "410 mm"
       },
       {
-        "name": "Front supported fans",
+        "characteristicNameId": 11,
         "value": "3x 120mm, 2x 140mm, 2x 200mm"
       },
       {
-        "name": "Rear fans supported",
+        "characteristicNameId": 12,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported fans on top",
+        "characteristicNameId": 13,
         "value": "2x 140mm, 3x 120mm, 2x 200mm"
       },
       {
-        "name": "Supported water coolers in the front",
+        "characteristicNameId": 14,
         "value": "1x 280mm, 1x 120mm, 1x 240mm, 1x 360mm, 1x 140mm"
       },
       {
-        "name": "Rear water coolers supported",
+        "characteristicNameId": 15,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported water coolers on top",
+        "characteristicNameId": 16,
         "value": "1x 240mm, 1x 120mm, 1x 140mm, 1x 280mm, 1x 360mm"
       },
       {
-        "name": "Mesh front panel",
+        "characteristicNameId": 17,
         "value": "Yes"
       }
     ]
@@ -556,73 +556,73 @@
     "quantity": 10,
     "description": "Corsair 4000D Mid Tower Case, Tempered Glass, White",
     "warranty": 24,
-    "manufacturer": "Corsair",
+    "manufacturerIdId": 5,
     "model": "4000D",
     "referenceNumber": "CORSAIR-4000D",
-    "category": "Case",
+    "categoryId": 12,
     "characteristics": [
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Mid Tower"
       },
       {
-        "name": "Format",
+        "characteristicNameId": 2,
         "value": "ATX, Micro ATX, Mini ITX"
       },
       {
-        "name": "Fans included",
+        "characteristicNameId": 3,
         "value": "2x 120mm"
       },
       {
-        "name": "Front panel",
+        "characteristicNameId": 4,
         "value": "USB 3.0, Audio In & Out, USB 3.1 Gen 2 (Type-C)"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "White, Gray"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "453 mm"
       },
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "230 mm"
       },
       {
-        "name": "Height",
+        "characteristicNameId": 8,
         "value": "466 mm"
       },
       {
-        "name": "Maximum height of air cooler",
+        "characteristicNameId": 9,
         "value": "170 mm"
       },
       {
-        "name": "Maximum video card length",
+        "characteristicNameId": 9,
         "value": "360 mm"
       },
       {
-        "name": "Front supported fans",
+        "characteristicNameId": 11,
         "value": "3x 120mm, 2x 140mm"
       },
       {
-        "name": "Rear fans supported",
+        "characteristicNameId": 12,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported fans on top",
+        "characteristicNameId": 13,
         "value": "2x 120mm, 2x 140mm"
       },
       {
-        "name": "Supported water coolers in the front",
+        "characteristicNameId": 14,
         "value": "1x 280mm, 1x 360mm"
       },
       {
-        "name": "Supported water coolers on top",
+        "characteristicNameId": 16,
         "value": "1x 240mm, 1x 280mm"
       },
       {
-        "name": "Mesh front panel",
+        "characteristicNameId": 17,
         "value": "Yes"
       }
     ]
@@ -633,77 +633,77 @@
     "quantity": 10,
     "description": "Box Corsair iCUE 220T RGB Smart Mid Tower, Tempered Glass, Black",
     "warranty": 24,
-    "manufacturer": "Corsair",
+    "manufacturerIdId": 5,
     "model": "iCUE 220T RGB",
     "referenceNumber": "CORSAIR-ICUE-220T-RGB",
-    "category": "Case",
+    "categoryId": 12,
     "characteristics": [
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Mid Tower"
       },
       {
-        "name": "Format",
+        "characteristicNameId": 2,
         "value": "ATX, Micro ATX, Mini ITX"
       },
       {
-        "name": "Fans included",
+        "characteristicNameId": 3,
         "value": "3x 120mm"
       },
       {
-        "name": "Front panel",
+        "characteristicNameId": 4,
         "value": "USB 3.0, Audio In & Out"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "395 mm"
       },
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "210 mm"
       },
       {
-        "name": "Height",
+        "characteristicNameId": 8,
         "value": "450 mm"
       },
       {
-        "name": "Maximum height of air cooler",
+        "characteristicNameId": 9,
         "value": "160 mm"
       },
       {
-        "name": "Maximum video card length",
+        "characteristicNameId": 9,
         "value": "300 mm"
       },
       {
-        "name": "Front supported fans",
+        "characteristicNameId": 11,
         "value": "3x 120mm, 2x 140mm"
       },
       {
-        "name": "Rear fans supported",
+        "characteristicNameId": 12,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported fans on top",
+        "characteristicNameId": 13,
         "value": "2x 120mm, 2x 140mm"
       },
       {
-        "name": "Supported water coolers in the front",
+        "characteristicNameId": 14,
         "value": "1x 280mm, 1x 360mm"
       },
       {
-        "name": "Rear water coolers supported",
+        "characteristicNameId": 15,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported water coolers on top",
+        "characteristicNameId": 16,
         "value": "1x 240mm"
       },
       {
-        "name": "Mesh front panel",
+        "characteristicNameId": 17,
         "value": "Yes"
       }
     ]
@@ -714,85 +714,85 @@
     "quantity": 10,
     "description": "Corsair 5000D Airflow Mid Tower Case, Tempered Glass, Black",
     "warranty": 24,
-    "manufacturer": "Corsair",
+    "manufacturerIdId": 5,
     "model": "5000D Airflow",
     "referenceNumber": "CORSAIR-5000D-AIRFLOW",
-    "category": "Case",
+    "categoryId": 12,
     "characteristics": [
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Mid Tower"
       },
       {
-        "name": "Format",
+        "characteristicNameId": 2,
         "value": "ATX, Micro ATX, Mini ITX"
       },
       {
-        "name": "Fans included",
+        "characteristicNameId": 3,
         "value": "2x 120mm"
       },
       {
-        "name": "Front panel",
+        "characteristicNameId": 4,
         "value": "SB 3.0, Audio In & Out, USB 3.1 Gen 2 (Type-C)"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "520 mm"
       },
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "245 mm"
       },
       {
-        "name": "Height",
+        "characteristicNameId": 8,
         "value": "520 mm"
       },
       {
-        "name": "Maximum height of air cooler",
+        "characteristicNameId": 9,
         "value": "170 mm"
       },
       {
-        "name": "Maximum video card length",
+        "characteristicNameId": 9,
         "value": "400 mm"
       },
       {
-        "name": "Front supported fans",
+        "characteristicNameId": 11,
         "value": "3x 120mm, 2x 140mm"
       },
       {
-        "name": "Rear fans supported",
+        "characteristicNameId": 12,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported fans on top",
+        "characteristicNameId": 13,
         "value": "2x 140mm, 3x 120mm"
       },
       {
-        "name": "Supported side fans",
+        "characteristicNameId": 18,
         "value": "3x 120mm"
       },
       {
-        "name": "Supported water coolers in the front",
+        "characteristicNameId": 14,
         "value": "1x 360mm"
       },
       {
-        "name": "Rear water coolers supported",
+        "characteristicNameId": 15,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported water coolers on top",
+        "characteristicNameId": 16,
         "value": "1x 280mm, 1x 360mm"
       },
       {
-        "name": "Supported water coolers on the side",
+        "characteristicNameId": 19,
         "value": "1x 280mm, 1x 360mm"
       },
       {
-        "name": "Mesh front panel",
+        "characteristicNameId": 17,
         "value": "Yes"
       }
     ]
@@ -803,81 +803,81 @@
     "quantity": 10,
     "description": "Lian-Li LANCOOL 216 RGB Mid-Tower Box, Tempered Glass, White",
     "warranty": 24,
-    "manufacturer": "Lian-Li",
+    "manufacturerIdId": 3,
     "model": "LANCOOL 216 RGB",
     "referenceNumber": "LIAN-LI-LANCOOL-216-RGB",
-    "category": "Case",
+    "categoryId": 12,
     "characteristics": [
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Mid Tower"
       },
       {
-        "name": "Format",
+        "characteristicNameId": 2,
         "value": "ATX, Micro ATX, Mini ITX, EATX"
       },
       {
-        "name": "Fans included",
+        "characteristicNameId": 3,
         "value": "1x 140mm, 2x 160mm"
       },
       {
-        "name": "Front panel",
+        "characteristicNameId": 4,
         "value": "USB 3.0, Audio In & Out, Type-C, ARGB Controller"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "White"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "480.9 mm"
       },
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "235 mm"
       },
       {
-        "name": "Height",
+        "characteristicNameId": 8,
         "value": "491.7 mm"
       },
       {
-        "name": "Maximum height of air cooler",
+        "characteristicNameId": 9,
         "value": "180.5 mm"
       },
       {
-        "name": "Maximum video card length",
+        "characteristicNameId": 9,
         "value": "392 mm"
       },
       {
-        "name": "Front supported fans",
+        "characteristicNameId": 11,
         "value": "3x 120mm, 2x 140mm, 2x 160mm"
       },
       {
-        "name": "Supported fans below",
+        "characteristicNameId": 20,
         "value": "2x 120mm, 2x 140mm"
       },
       {
-        "name": "Rear fans supported",
+        "characteristicNameId": 12,
         "value": "1x 120mm, 1x 140mm"
       },
       {
-        "name": "Supported fans on top",
+        "characteristicNameId": 13,
         "value": "2x 140mm, 3x 120mm"
       },
       {
-        "name": "Supported water coolers in the front",
+        "characteristicNameId": 14,
         "value": "1x 280mm, 1x 360mm"
       },
       {
-        "name": "Supported water coolers below",
+        "characteristicNameId": 21,
         "value": "1x 240mm"
       },
       {
-        "name": "Supported water coolers on top",
+        "characteristicNameId": 16,
         "value": "1x 280mm, 1x 360mm"
       },
       {
-        "name": "Mesh front panel",
+        "characteristicNameId": 17,
         "value": "Yes"
       }
     ]
@@ -888,77 +888,77 @@
     "quantity": 10,
     "description": "Box Lian Li PC-O11 Dynamic Mid-Tower, Tempered Glass, White",
     "warranty": 24,
-    "manufacturer": "Lian-Li",
+    "manufacturerIdId": 3,
     "model": "PC-O11 Dynamic",
     "referenceNumber": "LIAN-LI-PC-O11-DYNAMIC",
-    "category": "Case",
+    "categoryId": 12,
     "characteristics": [
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Mid Tower"
       },
       {
-        "name": "Format",
+        "characteristicNameId": 2,
         "value": "ATX, Micro ATX, Mini ITX, EATX"
       },
       {
-        "name": "Fans included",
+        "characteristicNameId": 3,
         "value": "No"
       },
       {
-        "name": "Front panel",
+        "characteristicNameId": 4,
         "value": "USB 3.0, Audio In & Out, USB 3.1 Gen 2 (Type-C)"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "White"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "445 mm"
       },
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "272 mm"
       },
       {
-        "name": "Height",
+        "characteristicNameId": 8,
         "value": "446 mm"
       },
       {
-        "name": "Maximum height of air cooler",
+        "characteristicNameId": 9,
         "value": "155 mm"
       },
       {
-        "name": "Maximum video card length",
+        "characteristicNameId": 9,
         "value": "420 mm"
       },
       {
-        "name": "Supported fans below",
+        "characteristicNameId": 20,
         "value": "3x 120mm"
       },
       {
-        "name": "Supported fans on top",
+        "characteristicNameId": 13,
         "value": "2x 140mm, 3x 120mm"
       },
       {
-        "name": "Supported side fans",
+        "characteristicNameId": 18,
         "value": "3x 120mm"
       },
       {
-        "name": "Supported water coolers below",
+        "characteristicNameId": 21,
         "value": "1x 240mm, 1x 280mm, 1x 360mm"
       },
       {
-        "name": "Supported water coolers on top",
+        "characteristicNameId": 16,
         "value": "1x 240mm, 1x 280mm, 1x 360mm"
       },
       {
-        "name": "Supported water coolers on the side",
+        "characteristicNameId": 19,
         "value": "1x 240mm, 1x 280mm, 1x 360mm"
       },
       {
-        "name": "Mesh front panel",
+        "characteristicNameId": 17,
         "value": "No"
       }
     ]
@@ -969,77 +969,77 @@
     "quantity": 10,
     "description": "Case Lian Li PC-O11 Dynamic Razer Edition Mid-Tower, Tempered Glass, Black",
     "warranty": 24,
-    "manufacturer": "Lian-Li",
+    "manufacturerIdId": 3,
     "model": "PC-O11 Dynamic Razer Edition",
     "referenceNumber": "LIAN-LI-PC-O11-DYNAMIC-RAZER-EDITION",
-    "category": "Case",
+    "categoryId": 12,
     "characteristics": [
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Mid Tower"
       },
       {
-        "name": "Format",
+        "characteristicNameId": 2,
         "value": "ATX, Micro ATX, EATX"
       },
       {
-        "name": "Fans included",
+        "characteristicNameId": 3,
         "value": "No"
       },
       {
-        "name": "Front panel",
+        "characteristicNameId": 4,
         "value": "USB 3.0, Audio In & Out, USB 3.1 Gen 2 (Type-C)"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "White"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "446 mm"
       },
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "274 mm"
       },
       {
-        "name": "Height",
+        "characteristicNameId": 8,
         "value": "449 mm"
       },
       {
-        "name": "Maximum height of air cooler",
+        "characteristicNameId": 9,
         "value": "155 mm"
       },
       {
-        "name": "Maximum video card length",
+        "characteristicNameId": 9,
         "value": "420 mm"
       },
       {
-        "name": "Supported fans below",
+        "characteristicNameId": 20,
         "value": "3x 120mm"
       },
       {
-        "name": "Supported fans on top",
+        "characteristicNameId": 13,
         "value": "2x 140mm, 3x 120mm"
       },
       {
-        "name": "Supported side fans",
+        "characteristicNameId": 18,
         "value": "3x 120mm"
       },
       {
-        "name": "Supported water coolers below",
+        "characteristicNameId": 21,
         "value": "1x 240mm, 1x 280mm, 1x 360mm"
       },
       {
-        "name": "Supported water coolers on top",
+        "characteristicNameId": 16,
         "value": "1x 240mm, 1x 280mm, 1x 360mm"
       },
       {
-        "name": "Supported water coolers on the side",
+        "characteristicNameId": 19,
         "value": "1x 240mm, 1x 280mm, 1x 360mm"
       },
       {
-        "name": "Mesh front panel",
+        "characteristicNameId": 17,
         "value": "No"
       }
     ]
@@ -1050,69 +1050,69 @@
     "quantity": 10,
     "description": "Box Kolink Void Midi-Tower black Window ATX",
     "warranty": 24,
-    "manufacturer": "Kolink",
+    "manufacturerIdId": 2,
     "model": "Void",
     "referenceNumber": "KOLING-VOID",
-    "category": "Case",
+    "categoryId": 12,
     "characteristics": [
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Mid Tower"
       },
       {
-        "name": "Format",
+        "characteristicNameId": 2,
         "value": "ATX, Micro ATX, Mini ITX"
       },
       {
-        "name": "Fans included",
+        "characteristicNameId": 3,
         "value": "1x 120mm"
       },
       {
-        "name": "Front panel",
+        "characteristicNameId": 4,
         "value": "USB 3.0, USB 2.0, Audio In & Out"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "400 mm"
       },
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "190 mm"
       },
       {
-        "name": "Height",
+        "characteristicNameId": 8,
         "value": "430 mm"
       },
       {
-        "name": "Maximum height of air cooler",
+        "characteristicNameId": 9,
         "value": "160 mm"
       },
       {
-        "name": "Maximum video card length",
+        "characteristicNameId": 9,
         "value": "310 mm"
       },
       {
-        "name": "Front supported fans",
+        "characteristicNameId": 11,
         "value": "3x 120mm"
       },
       {
-        "name": "Rear fans supported",
+        "characteristicNameId": 12,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported fans on top",
+        "characteristicNameId": 13,
         "value": "2x 120mm"
       },
       {
-        "name": "Supported water coolers in the front",
+        "characteristicNameId": 14,
         "value": "1x 240mm"
       },
       {
-        "name": "Mesh front panel",
+        "characteristicNameId": 17,
         "value": "No"
       }
     ]
@@ -1123,69 +1123,69 @@
     "quantity": 10,
     "description": "Kolink Observatory Lite Mesh RGB Mid-Tower Box, White",
     "warranty": 24,
-    "manufacturer": "Kolink",
+    "manufacturerIdId": 2,
     "model": "Observatory Lite Mesh RGB",
     "referenceNumber": "KOLING-OBSERVATORY-LITE-MESH-RGB",
-    "category": "Case",
+    "categoryId": 12,
     "characteristics": [
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Mid Tower"
       },
       {
-        "name": "Format",
+        "characteristicNameId": 2,
         "value": "ATX, Micro ATX, Mini ITX"
       },
       {
-        "name": "Fans included",
+        "characteristicNameId": 3,
         "value": "4x 120mm"
       },
       {
-        "name": "Front panel",
+        "characteristicNameId": 4,
         "value": "USB 3.0, USB 2.0, Audio In & Out"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "White"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "400 mm"
       },
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "190 mm"
       },
       {
-        "name": "Height",
+        "characteristicNameId": 8,
         "value": "440 mm"
       },
       {
-        "name": "Maximum height of air cooler",
+        "characteristicNameId": 9,
         "value": "160 mm"
       },
       {
-        "name": "Maximum video card length",
+        "characteristicNameId": 9,
         "value": "335 mm"
       },
       {
-        "name": "Front supported fans",
+        "characteristicNameId": 11,
         "value": "3x 120mm, 2x 140mm"
       },
       {
-        "name": "Rear fans supported",
+        "characteristicNameId": 12,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported fans on top",
+        "characteristicNameId": 13,
         "value": "2x 120mm, 2x 140mm"
       },
       {
-        "name": "Supported water coolers in the front",
+        "characteristicNameId": 14,
         "value": "1x 280mm"
       },
       {
-        "name": "Mesh front panel",
+        "characteristicNameId": 17,
         "value": "Yes"
       }
     ]
@@ -1196,77 +1196,77 @@
     "quantity": 10,
     "description": "Box Kolink Void Rift RGB TG Midi-Tower Black Window ATX",
     "warranty": 24,
-    "manufacturer": "Kolink",
+    "manufacturerIdId": 2,
     "model": "Void Rift RGB",
     "referenceNumber": "KOLING-OBSERVATORY-LITE-MESH-RGB",
-    "category": "Case",
+    "categoryId": 12,
     "characteristics": [
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Mid Tower"
       },
       {
-        "name": "Format",
+        "characteristicNameId": 2,
         "value": "ATX, Micro ATX, Mini ITX"
       },
       {
-        "name": "Fans included",
+        "characteristicNameId": 3,
         "value": "1x 120mm"
       },
       {
-        "name": "Front panel",
+        "characteristicNameId": 4,
         "value": "USB 3.0, USB 2.0, Audio In & Out"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "400 mm"
       },
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "200 mm"
       },
       {
-        "name": "Height",
+        "characteristicNameId": 8,
         "value": "485 mm"
       },
       {
-        "name": "Maximum height of air cooler",
+        "characteristicNameId": 9,
         "value": "165 mm"
       },
       {
-        "name": "Maximum video card length",
+        "characteristicNameId": 9,
         "value": "355 mm"
       },
       {
-        "name": "Front supported fans",
+        "characteristicNameId": 11,
         "value": "3x 120mm, 3x 140mm"
       },
       {
-        "name": "Rear fans supported",
+        "characteristicNameId": 12,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported fans on top",
+        "characteristicNameId": 13,
         "value": "2x 120mm, 2x 140mm"
       },
       {
-        "name": "Supported water coolers in the front",
+        "characteristicNameId": 14,
         "value": "1x 280mm, 1x 360mm"
       },
       {
-        "name": "Rear water coolers supported",
+        "characteristicNameId": 15,
         "value": "1x 120mm"
       },
       {
-        "name": "Supported water coolers on top",
+        "characteristicNameId": 16,
         "value": "1x 240mm, 1x 280mm"
       },
       {
-        "name": "Mesh front panel",
+        "characteristicNameId": 17,
         "value": "No"
       }
     ]

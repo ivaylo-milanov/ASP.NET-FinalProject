@@ -4,6 +4,6 @@
 
     public interface ISessionService
     {
-        Task AddToDatabase(string userId, ICollection<int> favorites, ICollection<ShoppingCartExportModel> cart);
+        Task AddToDatabase(string userId, ICollection<string> favorites, ICollection<ShoppingCartExportModel> cart);
     }
 }

@@ -5,49 +5,49 @@
     "quantity": 10,
     "description": "Get the best out of your game with the G102 gaming mouse! It includes LIGHTSYNC technology, an optical sensor (intended for gaming) and a classic design with 6 buttons.",
     "warranty": 24,
-    "manufacturer": "Logitech",
+    "manufacturerId": 12,
     "model": "G102 LIGHTSYNC",
     "referenceNumber": "LOGITECH-G102-LS-BK",
-    "category": "Mouse",
+    "categoryId": 1,
     "characteristics": [
       {
-        "name": "Sensor",
+        "characteristicNameId": 75,
         "value": "Mercury, Optical"
       },
       {
-        "name": "Connectivity",
+        "characteristicNameId": 47,
         "value": "USB"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Weight",
+        "characteristicNameId": 100,
         "value": "85 g"
       },
       {
-        "name": "Cable length",
+        "characteristicNameId": 40,
         "value": "2.1 m"
       },
       {
-        "name": "Programmable buttons",
+        "characteristicNameId": 76,
         "value": "Yes"
       },
       {
-        "name": "Sensitivity",
+        "characteristicNameId": 38,
         "value": "8000 DPI"
       },
       {
-        "name": "Number of buttons",
+        "characteristicNameId": 77,
         "value": "6"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "RGB"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -58,49 +58,49 @@
     "quantity": 12,
     "description": "The Rival 3 uses mechanical switches to sense every click and is built from the most durable materials. The improved TrueMove Core optical sensor is optimized and uses Steelseries true 1-to-1 tracking technology. The new Rival has 3-zone backlighting and a choice of 16.8 million colors.",
     "warranty": 24,
-    "manufacturer": "SteelSeries",
+    "manufacturerId": 14,
     "model": "Rival 3",
     "referenceNumber": "STEELSERIES-RIVAL-3",
-    "category": "Mouse",
+    "categoryId": 1,
     "characteristics": [
       {
-        "name": "Sensor",
+        "characteristicNameId": 75,
         "value": "Optical, TrueMove Core"
       },
       {
-        "name": "Connectivity",
+        "characteristicNameId": 47,
         "value": "USB"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Weight",
+        "characteristicNameId": 100,
         "value": "77 g"
       },
       {
-        "name": "Cable length",
+        "characteristicNameId": 40,
         "value": "1.8 m"
       },
       {
-        "name": "Programmable buttons",
+        "characteristicNameId": 76,
         "value": "Yes"
       },
       {
-        "name": "Sensitivity",
+        "characteristicNameId": 38,
         "value": "8500 DPI"
       },
       {
-        "name": "Number of buttons",
+        "characteristicNameId": 77,
         "value": "6"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "RGB"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -111,49 +111,49 @@
     "quantity": 9,
     "description": "Lightweight construction. Modern components. Unique shape for right hand. The Xtrfy M4 takes the performance, feel and durability of lightweight gaming mice to the next level.",
     "warranty": 24,
-    "manufacturer": "Xtrfy",
+    "manufacturerId": 19,
     "model": "M4 RGB Street",
     "referenceNumber": "XTRFY-M4-RGB-STREET",
-    "category": "Mouse",
+    "categoryId": 1,
     "characteristics": [
       {
-        "name": "Sensor",
+        "characteristicNameId": 75,
         "value": "PixArt 3389, Optical"
       },
       {
-        "name": "Connectivity",
+        "characteristicNameId": 47,
         "value": "USB"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Weight",
+        "characteristicNameId": 100,
         "value": "69 g"
       },
       {
-        "name": "Cable length",
+        "characteristicNameId": 40,
         "value": "1.8 m"
       },
       {
-        "name": "Programmable buttons",
+        "characteristicNameId": 76,
         "value": "No"
       },
       {
-        "name": "Sensitivity",
+        "characteristicNameId": 38,
         "value": "16000 DPI"
       },
       {
-        "name": "Number of buttons",
+        "characteristicNameId": 77,
         "value": "6"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "RGB"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -164,49 +164,49 @@
     "quantity": 6,
     "description": "Pro gamers know that if they don't improve their skills sooner or later someone will beat them, and the same goes for peripherals. Take your mini to the next level with the HyperX Pulsefire FPS Pro RGB Add RGB style and dish out headshots to anyone who has the imprudence to come near you. Pulsefire FPS Pro uses a high-end Pixart 3389 sensor that will give you up to 16,000 DPI without hardware acceleration to have speed and accuracy far superior to your enemies.",
     "warranty": 24,
-    "manufacturer": "HyperX",
+    "manufacturerId": 11,
     "model": "Pulsefire FPS PRO",
     "referenceNumber": "HYPERX-PULSEFIRE-FPS-PRO",
-    "category": "Mouse",
+    "categoryId": 1,
     "characteristics": [
       {
-        "name": "Sensor",
+        "characteristicNameId": 75,
         "value": "PixArt 3389, Optical"
       },
       {
-        "name": "Connectivity",
+        "characteristicNameId": 47,
         "value": "USB"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Weight",
+        "characteristicNameId": 100,
         "value": "95 g"
       },
       {
-        "name": "Cable length",
+        "characteristicNameId": 40,
         "value": "1.8 m"
       },
       {
-        "name": "Programmable buttons",
+        "characteristicNameId": 76,
         "value": "Yes"
       },
       {
-        "name": "Sensitivity",
+        "characteristicNameId": 38,
         "value": "16000 DPI"
       },
       {
-        "name": "Number of buttons",
+        "characteristicNameId": 77,
         "value": "6"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "RGB"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -217,49 +217,49 @@
     "quantity": 17,
     "description": "HyperX Pulsefire Haste is a gaming optical mouse that is the company's first model in the super light segment. It comes equipped with a powerful Pixart PAW3335 optical sensor with a maximum DPI value of 16,000 and a speed of 450 IPS tracking. The shape is symmetrical, but the mouse is designed for right-handed use. Holes help reduce of weight, but also for better airflow and theoretically reduces palm sweating. Haste has an RGB underlay in 16.8 million colors, which you can adjust from the company's software, but unfortunately it is only in one area, when scrolling. Below the main two buttons are mechanical switches with a life of at least 60 million presses.",
     "warranty": 24,
-    "manufacturer": "HyperX",
+    "manufacturerId": 11,
     "model": "Pulsefire Haste",
     "referenceNumber": "HYPERX-PULSEFIRE-HASTE",
-    "category": "Mouse",
+    "categoryId": 1,
     "characteristics": [
       {
-        "name": "Sensor",
+        "characteristicNameId": 75,
         "value": "Optical, PixArt 3335"
       },
       {
-        "name": "Connectivity",
+        "characteristicNameId": 47,
         "value": "USB"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Weight",
+        "characteristicNameId": 100,
         "value": "59 g"
       },
       {
-        "name": "Cable length",
+        "characteristicNameId": 40,
         "value": "1.8 m"
       },
       {
-        "name": "Programmable buttons",
+        "characteristicNameId": 76,
         "value": "Yes"
       },
       {
-        "name": "Sensitivity",
+        "characteristicNameId": 38,
         "value": "16000 DPI"
       },
       {
-        "name": "Number of buttons",
+        "characteristicNameId": 77,
         "value": "6"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "RGB"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "White"
       }
     ]
@@ -270,45 +270,45 @@
     "quantity": 10,
     "description": "The Logitech G305 LIGHTSPEED is a wireless gaming mouse designed to provide excellent performance and the latest technology at an affordable price.",
     "warranty": 24,
-    "manufacturer": "Logitech",
+    "manufacturerId": 12,
     "model": "G305",
     "referenceNumber": "LOGITECH-G305-WHITE",
-    "category": "Mouse",
+    "categoryId": 1,
     "characteristics": [
       {
-        "name": "Sensor",
+        "characteristicNameId": 75,
         "value": "Hero, Optical"
       },
       {
-        "name": "Connectivity",
+        "characteristicNameId": 47,
         "value": "Wireless"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Weight",
+        "characteristicNameId": 100,
         "value": "99 g"
       },
       {
-        "name": "Programmable buttons",
+        "characteristicNameId": 76,
         "value": "Yes"
       },
       {
-        "name": "Sensitivity",
+        "characteristicNameId": 38,
         "value": "12000 DPI"
       },
       {
-        "name": "Number of buttons",
+        "characteristicNameId": 77,
         "value": "6"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "White"
       }
     ]
@@ -319,49 +319,49 @@
     "quantity": 10,
     "description": "Designed and developed by a team of passionate gamers who accept nothing short of perfection, we present the Model O, which aims to elevate your gaming experience to new heights. Designed to offer incredible speed, control and comfort, all wrapped up in an ultra-light and premium mouse to take you to the highest level of E-sport gaming!",
     "warranty": 24,
-    "manufacturer": "Glorious",
+    "manufacturerId": 30,
     "model": "Model O (Glossy Black)",
     "referenceNumber": "GLORIOUS-MODEL-O-GLOSSY-BLACK",
-    "category": "Mouse",
+    "categoryId": 1,
     "characteristics": [
       {
-        "name": "Sensor",
+        "characteristicNameId": 75,
         "value": "PixArt PMW3360, Optical"
       },
       {
-        "name": "Connectivity",
+        "characteristicNameId": 47,
         "value": "USB"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Weight",
+        "characteristicNameId": 100,
         "value": "68 g"
       },
       {
-        "name": "Cable length",
+        "characteristicNameId": 40,
         "value": "2 m"
       },
       {
-        "name": "Programmable buttons",
+        "characteristicNameId": 76,
         "value": "Yes"
       },
       {
-        "name": "Sensitivity",
+        "characteristicNameId": 38,
         "value": "12000 DPI"
       },
       {
-        "name": "Number of buttons",
+        "characteristicNameId": 77,
         "value": "6"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "RGB"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -372,49 +372,49 @@
     "quantity": 10,
     "description": "Tested and developed by a team of passionate gamers who accept nothing short of perfection, we present you the Model D, which aims to elevate your gaming experience to new heights. Designed to offer incredible speed, control and comfort, all wrapped up in an ultra-light and premium mouse to take you to the highest level of E-sport gaming!",
     "warranty": 24,
-    "manufacturer": "Glorious",
+    "manufacturerId": 30,
     "model": "Model D (Matte White)",
     "referenceNumber": "GLORIOUS-MODEL-D-MATTE-WHITE",
-    "category": "Mouse",
+    "categoryId": 1,
     "characteristics": [
       {
-        "name": "Sensor",
+        "characteristicNameId": 75,
         "value": "PixArt PMW3360"
       },
       {
-        "name": "Connectivity",
+        "characteristicNameId": 47,
         "value": "USB"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Weight",
+        "characteristicNameId": 100,
         "value": "68 g"
       },
       {
-        "name": "Cable length",
+        "characteristicNameId": 40,
         "value": "2 m"
       },
       {
-        "name": "Programmable buttons",
+        "characteristicNameId": 76,
         "value": "Yes"
       },
       {
-        "name": "Sensitivity",
+        "characteristicNameId": 38,
         "value": "12000 DPI"
       },
       {
-        "name": "Number of buttons",
+        "characteristicNameId": 77,
         "value": "6"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "RGB"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "White"
       }
     ]
@@ -425,49 +425,49 @@
     "quantity": 10,
     "description": "The Logitech G502 HERO is a gaming mouse that features an advanced optical sensor for maximum tracking accuracy, customizable RGB lighting, custom game profiles, from 200 to 16,000 DPI, and additional weights that can be configured to your feel and comfort.",
     "warranty": 24,
-    "manufacturer": "Logitech",
+    "manufacturerId": 12,
     "model": "G502 HERO",
     "referenceNumber": "LOGITECH-G502-HERO-BLACK",
-    "category": "Mouse",
+    "categoryId": 1,
     "characteristics": [
       {
-        "name": "Sensor",
+        "characteristicNameId": 75,
         "value": "Hero, Optical"
       },
       {
-        "name": "Connectivity",
+        "characteristicNameId": 47,
         "value": "USB"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Weight",
+        "characteristicNameId": 100,
         "value": "120 g"
       },
       {
-        "name": "Cable length",
+        "characteristicNameId": 40,
         "value": "2.1 m"
       },
       {
-        "name": "Programmable buttons",
+        "characteristicNameId": 76,
         "value": "Yes"
       },
       {
-        "name": "Sensitivity",
+        "characteristicNameId": 38,
         "value": "16000 DPI"
       },
       {
-        "name": "Number of buttons",
+        "characteristicNameId": 77,
         "value": "11"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "RGB"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -478,49 +478,49 @@
     "quantity": 10,
     "description": "Ergonomic design, fully intended for right-handed users. Offers users room for wrist movements. The right side of the mouse has a well-rounded shape. This allows the user's fingers to hold/cover the mouse and provides smooth movement. And now with Paracord cable and reduced weight.",
     "warranty": 24,
-    "manufacturer": "ZOWIE",
+    "manufacturerId": 25,
     "model": "EC3-C",
     "referenceNumber": "ZOWEI-EC3-C-BLACK",
-    "category": "Mouse",
+    "categoryId": 1,
     "characteristics": [
       {
-        "name": "Sensor",
+        "characteristicNameId": 75,
         "value": "PixArt PMW3360, Optical"
       },
       {
-        "name": "Connectivity",
+        "characteristicNameId": 47,
         "value": "USB"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Weight",
+        "characteristicNameId": 100,
         "value": "70 g"
       },
       {
-        "name": "Cable length",
+        "characteristicNameId": 40,
         "value": "2 m"
       },
       {
-        "name": "Programmable buttons",
+        "characteristicNameId": 76,
         "value": "No"
       },
       {
-        "name": "Sensitivity",
+        "characteristicNameId": 38,
         "value": "3200 DPI"
       },
       {
-        "name": "Number of buttons",
+        "characteristicNameId": 77,
         "value": "5"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -531,49 +531,49 @@
     "quantity": 10,
     "description": "The icon in racing gaming - Sensei Ten, improved with a new sensor and keeping the legendary shape. One of the most preferred shapes equipped with TrueMove Pro, a new high-quality polymer coating and improved switches to give you clarity with every click.",
     "warranty": 24,
-    "manufacturer": "SteelSeries",
+    "manufacturerId": 14,
     "model": "Sensei Ten",
     "referenceNumber": "STEELSERIES-SENSEI-TEN-BLACK",
-    "category": "Mouse",
+    "categoryId": 1,
     "characteristics": [
       {
-        "name": "Sensor",
+        "characteristicNameId": 75,
         "value": "Optical, TrueMove Pro"
       },
       {
-        "name": "Connectivity",
+        "characteristicNameId": 47,
         "value": "USB"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Weight",
+        "characteristicNameId": 100,
         "value": "92 g"
       },
       {
-        "name": "Cable length",
+        "characteristicNameId": 40,
         "value": "2 m"
       },
       {
-        "name": "Programmable buttons",
+        "characteristicNameId": 76,
         "value": "Yes"
       },
       {
-        "name": "Sensitivity",
+        "characteristicNameId": 38,
         "value": "18000 DPI"
       },
       {
-        "name": "Number of buttons",
+        "characteristicNameId": 77,
         "value": "8"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "RGB"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -584,49 +584,49 @@
     "quantity": 10,
     "description": "The MM730 retains Cooler Master's innovative spirit while retaining the familiar aesthetics of classic gaming mice. Every professional feature is designed to give you light-speed responsiveness in the blink of an eye: genuine PTFE feet for unmatched glide, an adjustable 16,000 DPI optical sensor, and optical micro switches for superior durability and input. All housed in a super light, revolutionary new ergonomic housing design that reduces weight to 48g, the MM730 truly is less than the sum of its parts.",
     "warranty": 24,
-    "manufacturer": "Cooler Master",
+    "manufacturerId": 4,
     "model": "MM730",
     "referenceNumber": "COOLER-MASTER-MM730-BLACK",
-    "category": "Mouse",
+    "categoryId": 1,
     "characteristics": [
       {
-        "name": "Sensor",
+        "characteristicNameId": 75,
         "value": "Optical"
       },
       {
-        "name": "Connectivity",
+        "characteristicNameId": 47,
         "value": "USB"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Weight",
+        "characteristicNameId": 100,
         "value": "48 g"
       },
       {
-        "name": "Cable length",
+        "characteristicNameId": 40,
         "value": "1.8 m"
       },
       {
-        "name": "Programmable buttons",
+        "characteristicNameId": 76,
         "value": "Yes"
       },
       {
-        "name": "Sensitivity",
+        "characteristicNameId": 38,
         "value": "16000 DPI"
       },
       {
-        "name": "Number of buttons",
+        "characteristicNameId": 77,
         "value": "6"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "RGB"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -637,49 +637,49 @@
     "quantity": 10,
     "description": "The Logitech G502 X is an amazing gaming mouse that helps you crush your opponents on the virtual battlefield. It features the most innovative gaming functionalities, including the first-of-its-kind LIGHTFORCE hybrid optical-mechanical switches. This mouse guarantees you incredible speed and reliability, and its ultra-light weight of 89 grams guarantees you optimal comfort, even during prolonged use.",
     "warranty": 24,
-    "manufacturer": "Logitech",
+    "manufacturerId": 12,
     "model": "G502X",
     "referenceNumber": "LOGITECH-G502X-BLACK",
-    "category": "Mouse",
+    "categoryId": 1,
     "characteristics": [
       {
-        "name": "Sensor",
+        "characteristicNameId": 75,
         "value": "Hero, Optical"
       },
       {
-        "name": "Connectivity",
+        "characteristicNameId": 47,
         "value": "USB"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Weight",
+        "characteristicNameId": 100,
         "value": "89 g"
       },
       {
-        "name": "Cable length",
+        "characteristicNameId": 40,
         "value": "2 m"
       },
       {
-        "name": "Programmable buttons",
+        "characteristicNameId": 76,
         "value": "Yes"
       },
       {
-        "name": "Sensitivity",
+        "characteristicNameId": 38,
         "value": "25600 DPI"
       },
       {
-        "name": "Number of buttons",
+        "characteristicNameId": 77,
         "value": "13"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -690,45 +690,45 @@
     "quantity": 10,
     "description": "The G703 LIGHTSPEED takes precision to another level. Get ready for unique tracking and precision from our latest sensor, which is 10 times more battery-efficient than the previous model. Add POWERPLAY and you'll never think about the battery again.",
     "warranty": 24,
-    "manufacturer": "Logitech",
+    "manufacturerId": 12,
     "model": "G703",
     "referenceNumber": "LOGITECH-G703-BLACK",
-    "category": "Mouse",
+    "categoryId": 1,
     "characteristics": [
       {
-        "name": "Sensor",
+        "characteristicNameId": 75,
         "value": "Hero, Optical"
       },
       {
-        "name": "Connectivity",
+        "characteristicNameId": 47,
         "value": "USB, Wireless"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Weight",
+        "characteristicNameId": 100,
         "value": "95 g"
       },
       {
-        "name": "Programmable buttons",
+        "characteristicNameId": 76,
         "value": "Yes"
       },
       {
-        "name": "Sensitivity",
+        "characteristicNameId": 38,
         "value": "16000 DPI"
       },
       {
-        "name": "Number of buttons",
+        "characteristicNameId": 77,
         "value": "6"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "RGB"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -739,45 +739,45 @@
     "quantity": 10,
     "description": "Lightweight wired gaming mouse with 16,000 dpi sensor, six programmable buttons, ultralight Air Shell, IPX6 water resistance, ASUS Antibacterial Guard, TUF Gaming Paracord and PTFE feet.",
     "warranty": 24,
-    "manufacturer": "ASUS",
+    "manufacturerId": 1,
     "model": "TUF GAMING M4 AIR",
     "referenceNumber": "ASUS-TUF-GAMING-M4-AIR-BLACK",
-    "category": "Mouse",
+    "categoryId": 1,
     "characteristics": [
       {
-        "name": "Sensor",
+        "characteristicNameId": 75,
         "value": "Optical"
       },
       {
-        "name": "Connectivity",
+        "characteristicNameId": 47,
         "value": "USB"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Weight",
+        "characteristicNameId": 100,
         "value": "47 g"
       },
       {
-        "name": "Programmable buttons",
+        "characteristicNameId": 76,
         "value": "No"
       },
       {
-        "name": "Sensitivity",
+        "characteristicNameId": 38,
         "value": "16000 DPI"
       },
       {
-        "name": "Number of buttons",
+        "characteristicNameId": 77,
         "value": "6"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -788,45 +788,45 @@
     "quantity": 10,
     "description": "The PRO Wireless is designed to be the ultimate mouse for professional esports players! For 2 years, Logitech has partnered with more than 50 professional gamers to find the perfect shape, weight and feel, which is combined with wireless LIGHTSPEED technology and their HERO sensor. The result is a gaming mouse with unmatched performance and precision to give you the confidence you need to win.",
     "warranty": 24,
-    "manufacturer": "Logitech",
+    "manufacturerId": 12,
     "model": "G PRO",
     "referenceNumber": "LOGITECH-G-PRO-BLACK",
-    "category": "Mouse",
+    "categoryId": 1,
     "characteristics": [
       {
-        "name": "Sensor",
+        "characteristicNameId": 75,
         "value": "Hero, Optical"
       },
       {
-        "name": "Connectivity",
+        "characteristicNameId": 47,
         "value": "USB, Wireless"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Weight",
+        "characteristicNameId": 100,
         "value": "85 g"
       },
       {
-        "name": "Programmable buttons",
+        "characteristicNameId": 76,
         "value": "Yes"
       },
       {
-        "name": "Sensitivity",
+        "characteristicNameId": 38,
         "value": "16000 DPI"
       },
       {
-        "name": "Number of buttons",
+        "characteristicNameId": 77,
         "value": "8"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "RGB"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]

@@ -3,7 +3,6 @@
     using HardwareStore.Core.Services.Contracts;
     using HardwareStore.Core.ViewModels.Favorite;
     using HardwareStore.Extensions;
-    using Microsoft.AspNetCore.Authorization;
     using Microsoft.AspNetCore.Http;
     using Microsoft.AspNetCore.Mvc;
 
@@ -41,7 +40,7 @@
             return View(favorites);
         }
 
-        public async Task<IActionResult> AddToFavorite([FromBody] int productId)
+        public async Task<IActionResult> AddToFavorite([FromBody] string productId)
         {
             try
             {
@@ -64,7 +63,7 @@
             return RedirectToAction(nameof(Index));
         }
 
-        public async Task<IActionResult> RemoveFromFavorite([FromBody] int productId)
+        public async Task<IActionResult> RemoveFromFavorite([FromBody] string productId)
         {
             try
             {
@@ -86,10 +85,10 @@
             return RedirectToAction(nameof(Index));
         }
 
-        private void SetFavorites(ICollection<int> favorites)
+        private void SetFavorites(ICollection<string> favorites)
             => HttpContext.Session.Set("Favorite", favorites);
 
-        private ICollection<int> GetFavorites()
-            => HttpContext.Session.Get<ICollection<int>>("Favorite") ?? new List<int>();
+        private ICollection<string> GetFavorites()
+            => HttpContext.Session.Get<ICollection<string>>("Favorite") ?? new List<string>();
     }
 }

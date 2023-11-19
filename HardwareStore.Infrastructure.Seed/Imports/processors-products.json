@@ -5,41 +5,41 @@
     "quantity": 10,
     "description": "Processor Intel Pentium Gold G5600F, 3.9GHz, 4MB, 54W, LGA1151, BOX",
     "warranty": 36,
-    "manufacturer": "Intel",
+    "manufacturerId": 37,
     "model": "Pentium Gold G5600F",
     "referenceNumber": "INTEL-PENTIUM-GOLD-G5600F",
-    "category": "Processor",
+    "categoryId": 6,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "LGA1151"
       },
       {
-        "name": "Physical cores",
+        "characteristicNameId": 82,
         "value": "2"
       },
       {
-        "name": "Threads",
+        "characteristicNameId": 83,
         "value": "4"
       },
       {
-        "name": "Base frequency",
+        "characteristicNameId": 84,
         "value": "3.9 GHz"
       },
       {
-        "name": "Cache memory",
+        "characteristicNameId": 86,
         "value": "4 MB"
       },
       {
-        "name": "Box cooler",
+        "characteristicNameId": 87,
         "value": "Yes"
       },
       {
-        "name": "Series",
+        "characteristicNameId": 88,
         "value": "Intel Pentium"
       },
       {
-        "name": "Generation",
+        "characteristicNameId": 89,
         "value": "Intel 8th Gen"
       }
     ]
@@ -50,45 +50,45 @@
     "quantity": 10,
     "description": "Processor Intel Comet Lake-S Core I3-10100F 4 cores 3.6Ghz (Up to 4.30Ghz) 6MB, 65W LGA1200 BOX",
     "warranty": 36,
-    "manufacturer": "Intel",
+    "manufacturerId": 37,
     "model": "Core I3-10100F",
     "referenceNumber": "INTEL-CORE-I3-10100F",
-    "category": "Processor",
+    "categoryId": 6,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "LGA1200"
       },
       {
-        "name": "Physical cores",
+        "characteristicNameId": 82,
         "value": "4"
       },
       {
-        "name": "Threads",
+        "characteristicNameId": 83,
         "value": "8"
       },
       {
-        "name": "Base frequency",
+        "characteristicNameId": 84,
         "value": "3.6 GHz"
       },
       {
-        "name": "Boost frequency",
+        "characteristicNameId": 85,
         "value": "4.3 GHz"
       },
       {
-        "name": "Cache memory",
+        "characteristicNameId": 86,
         "value": "6 MB"
       },
       {
-        "name": "Box cooler",
+        "characteristicNameId": 87,
         "value": "Yes"
       },
       {
-        "name": "Series",
+        "characteristicNameId": 88,
         "value": "Intel Core i3"
       },
       {
-        "name": "Generation",
+        "characteristicNameId": 89,
         "value": "Intel 10th Gen"
       }
     ]
@@ -99,45 +99,45 @@
     "quantity": 10,
     "description": "Processor AMD Ryzen 5 5500, AM4 Socket, 6 Cores, 12 Threads, 3.6GHz(Up to 4.2GHz), 19MB Cache, 65W, BOX",
     "warranty": 36,
-    "manufacturer": "AMD",
+    "manufacturerId": 38,
     "model": "Ryzen 5 5500",
     "referenceNumber": "AMD-RYZEN-5-5500",
-    "category": "Processor",
+    "categoryId": 6,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "AM4"
       },
       {
-        "name": "Physical cores",
+        "characteristicNameId": 82,
         "value": "6"
       },
       {
-        "name": "Threads",
+        "characteristicNameId": 83,
         "value": "12"
       },
       {
-        "name": "Base frequency",
+        "characteristicNameId": 84,
         "value": "3.6 GHz"
       },
       {
-        "name": "Boost frequency",
+        "characteristicNameId": 85,
         "value": "4.2 GHz"
       },
       {
-        "name": "Cache memory",
+        "characteristicNameId": 86,
         "value": "19 MB"
       },
       {
-        "name": "Box cooler",
+        "characteristicNameId": 87,
         "value": "Yes"
       },
       {
-        "name": "Series",
+        "characteristicNameId": 88,
         "value": "AMD Ryzen 5"
       },
       {
-        "name": "Generation",
+        "characteristicNameId": 89,
         "value": "AMD 5th Gen"
       }
     ]
@@ -148,45 +148,45 @@
     "quantity": 10,
     "description": "Processor Intel Raptor Lake Core i3-13100F, 4 Cores, 8 Threads (3.4GHz Up to 4.6Ghz, 12MB, LGA1700), 60W, BOX",
     "warranty": 36,
-    "manufacturer": "Intel",
+    "manufacturerId": 37,
     "model": "Core I3-13100F",
     "referenceNumber": "INTEL-CORE-I3-13100F",
-    "category": "Processor",
+    "categoryId": 6,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "LGA1700"
       },
       {
-        "name": "Physical cores",
+        "characteristicNameId": 82,
         "value": "4"
       },
       {
-        "name": "Threads",
+        "characteristicNameId": 83,
         "value": "8"
       },
       {
-        "name": "Base frequency",
+        "characteristicNameId": 84,
         "value": "3.4 GHz"
       },
       {
-        "name": "Boost frequency",
+        "characteristicNameId": 85,
         "value": "4.5 GHz"
       },
       {
-        "name": "Cache memory",
+        "characteristicNameId": 86,
         "value": "5 MB"
       },
       {
-        "name": "Box cooler",
+        "characteristicNameId": 87,
         "value": "Yes"
       },
       {
-        "name": "Series",
+        "characteristicNameId": 88,
         "value": "Intel Core i3"
       },
       {
-        "name": "Generation",
+        "characteristicNameId": 89,
         "value": "Intel 13th Gen"
       }
     ]
@@ -197,45 +197,45 @@
     "quantity": 10,
     "description": "Processor Intel Rocket Lake Core i5-11400F, 6 Cores, 2.60Ghz (Up to 4.40Ghz), 12MB, 65W, LGA1200, BOX",
     "warranty": 36,
-    "manufacturer": "Intel",
+    "manufacturerId": 37,
     "model": "Core I5-11400F",
     "referenceNumber": "INTEL-CORE-I5-11400F",
-    "category": "Processor",
+    "categoryId": 6,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "LGA1200"
       },
       {
-        "name": "Physical cores",
+        "characteristicNameId": 82,
         "value": "6"
       },
       {
-        "name": "Threads",
+        "characteristicNameId": 83,
         "value": "12"
       },
       {
-        "name": "Base frequency",
+        "characteristicNameId": 84,
         "value": "2.6 GHz"
       },
       {
-        "name": "Boost frequency",
+        "characteristicNameId": 85,
         "value": "4.4 GHz"
       },
       {
-        "name": "Cache memory",
+        "characteristicNameId": 86,
         "value": "12 MB"
       },
       {
-        "name": "Box cooler",
+        "characteristicNameId": 87,
         "value": "Yes"
       },
       {
-        "name": "Series",
+        "characteristicNameId": 88,
         "value": "Intel Core i5"
       },
       {
-        "name": "Generation",
+        "characteristicNameId": 89,
         "value": "Intel 11th Gen"
       }
     ]
@@ -246,45 +246,45 @@
     "quantity": 10,
     "description": "Processor AMD Ryzen 5 5600G, 3.9GHz(Up to 4.4GHz), 65W, AM4",
     "warranty": 36,
-    "manufacturer": "AMD",
+    "manufacturerId": 38,
     "model": "Ryzen 5 5600G",
     "referenceNumber": "AMD-RYZEN-5-5600G",
-    "category": "Processor",
+    "categoryId": 6,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "AM4"
       },
       {
-        "name": "Physical cores",
+        "characteristicNameId": 82,
         "value": "6"
       },
       {
-        "name": "Threads",
+        "characteristicNameId": 83,
         "value": "12"
       },
       {
-        "name": "Base frequency",
+        "characteristicNameId": 84,
         "value": "3.9 GHz"
       },
       {
-        "name": "Boost frequency",
+        "characteristicNameId": 85,
         "value": "4.4 GHz"
       },
       {
-        "name": "Cache memory",
+        "characteristicNameId": 86,
         "value": "19 MB"
       },
       {
-        "name": "Box cooler",
+        "characteristicNameId": 87,
         "value": "Yes"
       },
       {
-        "name": "Series",
+        "characteristicNameId": 88,
         "value": "AMD Ryzen 5"
       },
       {
-        "name": "Generation",
+        "characteristicNameId": 89,
         "value": "AMD 5th Gen"
       }
     ]
@@ -295,45 +295,45 @@
     "quantity": 10,
     "description": "Processor Intel Alder Lake Core i5-12400F, 6 Cores, 12 Threads (2.50 GHz Up to 4.40 GHz, 18MB, LGA1700), 65W, BOX",
     "warranty": 36,
-    "manufacturer": "Intel",
+    "manufacturerId": 37,
     "model": "Core I5-12400F",
     "referenceNumber": "INTEL-CORE-I5-12400F",
-    "category": "Processor",
+    "categoryId": 6,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "LGA1700"
       },
       {
-        "name": "Physical cores",
+        "characteristicNameId": 82,
         "value": "6"
       },
       {
-        "name": "Threads",
+        "characteristicNameId": 83,
         "value": "12"
       },
       {
-        "name": "Base frequency",
+        "characteristicNameId": 84,
         "value": "2.5 GHz"
       },
       {
-        "name": "Boost frequency",
+        "characteristicNameId": 85,
         "value": "4.4 GHz"
       },
       {
-        "name": "Cache memory",
+        "characteristicNameId": 86,
         "value": "18 MB"
       },
       {
-        "name": "Box cooler",
+        "characteristicNameId": 87,
         "value": "Yes"
       },
       {
-        "name": "Series",
+        "characteristicNameId": 88,
         "value": "Intel Core i5"
       },
       {
-        "name": "Generation",
+        "characteristicNameId": 89,
         "value": "Intel 12th Gen"
       }
     ]
@@ -344,45 +344,45 @@
     "quantity": 10,
     "description": "Processor AMD Ryzen 7 5700G, 3.8GHz(Up to 4.6GHz), 65W, AM4",
     "warranty": 36,
-    "manufacturer": "AMD",
+    "manufacturerId": 38,
     "model": "Ryzen 7 5700G",
     "referenceNumber": "AMD RYZEN 7 5700G",
-    "category": "Processor",
+    "categoryId": 6,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "AM4"
       },
       {
-        "name": "Physical cores",
+        "characteristicNameId": 82,
         "value": "8"
       },
       {
-        "name": "Threads",
+        "characteristicNameId": 83,
         "value": "16"
       },
       {
-        "name": "Base frequency",
+        "characteristicNameId": 84,
         "value": "3.8 GHz"
       },
       {
-        "name": "Boost frequency",
+        "characteristicNameId": 85,
         "value": "4.6 GHz"
       },
       {
-        "name": "Cache memory",
+        "characteristicNameId": 86,
         "value": "20 MB"
       },
       {
-        "name": "Box cooler",
+        "characteristicNameId": 87,
         "value": "Yes"
       },
       {
-        "name": "Series",
+        "characteristicNameId": 88,
         "value": "AMD Ryzen 7"
       },
       {
-        "name": "Generation",
+        "characteristicNameId": 89,
         "value": "AMD 5th Gen"
       }
     ]
@@ -393,45 +393,45 @@
     "quantity": 10,
     "description": "Processor Intel Alder Lake Core i5-12600KF, 10 Cores, 16 Threads (3.7GHz Up to 4.9GHz, 20MB, LGA1700), BOX",
     "warranty": 36,
-    "manufacturer": "Intel",
+    "manufacturerId": 37,
     "model": "Core I5-12600KF",
     "referenceNumber": "INTEL-CORE-I5-12600KF",
-    "category": "Processor",
+    "categoryId": 6,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "LGA1700"
       },
       {
-        "name": "Physical cores",
+        "characteristicNameId": 82,
         "value": "10"
       },
       {
-        "name": "Threads",
+        "characteristicNameId": 83,
         "value": "16"
       },
       {
-        "name": "Base frequency",
+        "characteristicNameId": 84,
         "value": "3.7 GHz"
       },
       {
-        "name": "Boost frequency",
+        "characteristicNameId": 85,
         "value": "4.9 GHz"
       },
       {
-        "name": "Cache memory",
+        "characteristicNameId": 86,
         "value": "20 MB"
       },
       {
-        "name": "Box cooler",
+        "characteristicNameId": 87,
         "value": "No"
       },
       {
-        "name": "Series",
+        "characteristicNameId": 88,
         "value": "Intel Core i5"
       },
       {
-        "name": "Generation",
+        "characteristicNameId": 89,
         "value": "Intel 12th Gen"
       }
     ]
@@ -442,45 +442,45 @@
     "quantity": 10,
     "description": "Processor AMD RYZEN 5 7600 6-Core 3.8 GHz (5.1 GHz Turbo) 32MB/65W/AM5/BOX",
     "warranty": 36,
-    "manufacturer": "AMD",
+    "manufacturerId": 38,
     "model": "Ryzen 5 7600",
     "referenceNumber": "AMD-RYZEN-5-7600",
-    "category": "Processor",
+    "categoryId": 6,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "АМ5"
       },
       {
-        "name": "Physical cores",
+        "characteristicNameId": 82,
         "value": "6"
       },
       {
-        "name": "Threads",
+        "characteristicNameId": 83,
         "value": "12"
       },
       {
-        "name": "Base frequency",
+        "characteristicNameId": 84,
         "value": "3.8 GHz"
       },
       {
-        "name": "Boost frequency",
+        "characteristicNameId": 85,
         "value": "5.1 GHz"
       },
       {
-        "name": "Cache memory",
+        "characteristicNameId": 86,
         "value": "32 MB"
       },
       {
-        "name": "Box cooler",
+        "characteristicNameId": 87,
         "value": "Yes"
       },
       {
-        "name": "Series",
+        "characteristicNameId": 88,
         "value": "AMD Ryzen 5"
       },
       {
-        "name": "Generation",
+        "characteristicNameId": 89,
         "value": "AMD 7th Gen"
       }
     ]
@@ -491,45 +491,45 @@
     "quantity": 10,
     "description": "Processor AMD RYZEN 9 5900X 12-Core 3.7 GHz (4.8 GHz Turbo) 70MB/105W/AM4",
     "warranty": 10,
-    "manufacturer": "AMD",
+    "manufacturerId": 38,
     "model": "Ryzen 9 5900X",
     "referenceNumber": "AMD-RYZEN-9-5900X",
-    "category": "Processor",
+    "categoryId": 6,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "AM4"
       },
       {
-        "name": "Physical cores",
+        "characteristicNameId": 82,
         "value": "12"
       },
       {
-        "name": "Threads",
+        "characteristicNameId": 83,
         "value": "24"
       },
       {
-        "name": "Base frequency",
+        "characteristicNameId": 84,
         "value": "3.7 GHz"
       },
       {
-        "name": "Boost frequency",
+        "characteristicNameId": 85,
         "value": "4.8 GHz"
       },
       {
-        "name": "Cache memory",
+        "characteristicNameId": 86,
         "value": "70 MB"
       },
       {
-        "name": "Box cooler",
+        "characteristicNameId": 87,
         "value": "No"
       },
       {
-        "name": "Series",
+        "characteristicNameId": 88,
         "value": "AMD Ryzen 9"
       },
       {
-        "name": "Generation",
+        "characteristicNameId": 89,
         "value": "AMD 5th Gen"
       }
     ]
@@ -540,45 +540,45 @@
     "quantity": 10,
     "description": "Processor AMD RYZEN 7 7700 8-Core 3.8 GHz (5.3 GHz Turbo) 32MB/65W/AM5/BOX",
     "warranty": 36,
-    "manufacturer": "AMD",
+    "manufacturerId": 38,
     "model": "Ryzen 7 7700",
     "referenceNumber": "AMD-RYZEN-7-7700",
-    "category": "Processor",
+    "categoryId": 6,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "АМ5"
       },
       {
-        "name": "Physical cores",
+        "characteristicNameId": 82,
         "value": "8"
       },
       {
-        "name": "Threads",
+        "characteristicNameId": 83,
         "value": "16"
       },
       {
-        "name": "Base frequency",
+        "characteristicNameId": 84,
         "value": "3.8 GHz"
       },
       {
-        "name": "Boost frequency",
+        "characteristicNameId": 85,
         "value": "5.3 GHz"
       },
       {
-        "name": "Cache memory",
+        "characteristicNameId": 86,
         "value": "32 MB"
       },
       {
-        "name": "Box cooler",
+        "characteristicNameId": 87,
         "value": "Yes"
       },
       {
-        "name": "Series",
+        "characteristicNameId": 88,
         "value": "AMD Ryzen 7"
       },
       {
-        "name": "Generation",
+        "characteristicNameId": 89,
         "value": "AMD 7th Gen"
       }
     ]
@@ -589,46 +589,46 @@
     "quantity": 10,
     "description": "Processor Intel Raptor Lake i7-13700F 8P+8E Cores 2.10 GHz (Up to 5.2GHz) 30MB, 65W, LGA1700, BOX, No Graphics",
     "warranty": 36,
-    "manufacturer": "Intel",
+    "manufacturerId": 37,
     "model": "Core I7-13700F",
     "referenceNumber": "INTEL-CORE-I7-13700F",
-    "category": "Processor",
+    "categoryId": 6,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "LGA1700"
       },
       {
-        "name": "Physical cores",
+        "characteristicNameId": 82,
         "value": "16"
       },
 
       {
-        "name": "Threads",
+        "characteristicNameId": 83,
         "value": "24"
       },
       {
-        "name": "Base frequency",
+        "characteristicNameId": 84,
         "value": "2.1 GHz"
       },
       {
-        "name": "Boost frequency",
+        "characteristicNameId": 85,
         "value": "5.2 GHz"
       },
       {
-        "name": "Cache memory",
+        "characteristicNameId": 86,
         "value": "30 MB"
       },
       {
-        "name": "Box cooler",
+        "characteristicNameId": 87,
         "value": "Yes"
       },
       {
-        "name": "Series",
+        "characteristicNameId": 88,
         "value": "Intel Core i7"
       },
       {
-        "name": "Generation",
+        "characteristicNameId": 89,
         "value": "Intel 13th Gen"
       }
     ]
@@ -639,45 +639,45 @@
     "quantity": 10,
     "description": "Processor Intel Alder Lake Core i9-12900K, 16 Cores, 24 Threads (3.20 GHz Up to 5.20 GHz, 30MB, LGA1700), 125W, Intel UHD Graphics 770, BOX",
     "warranty": 36,
-    "manufacturer": "Intel",
+    "manufacturerId": 37,
     "model": "Core I9-12900K",
     "referenceNumber": "INTEL-CORE-I9-12900K",
-    "category": "Processor",
+    "categoryId": 6,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "LGA1700"
       },
       {
-        "name": "Physical cores",
+        "characteristicNameId": 82,
         "value": "16"
       },
       {
-        "name": "Threads",
+        "characteristicNameId": 83,
         "value": "24"
       },
       {
-        "name": "Base frequency",
+        "characteristicNameId": 84,
         "value": "3 GHz"
       },
       {
-        "name": "Boost frequency",
+        "characteristicNameId": 85,
         "value": "5.2 GHz"
       },
       {
-        "name": "Cache memory",
+        "characteristicNameId": 86,
         "value": "30 MB"
       },
       {
-        "name": "Box cooler",
+        "characteristicNameId": 87,
         "value": "No"
       },
       {
-        "name": "Series",
+        "characteristicNameId": 88,
         "value": "Intel Core i9"
       },
       {
-        "name": "Generation",
+        "characteristicNameId": 89,
         "value": "Intel 12th Gen"
       }
     ]
@@ -688,45 +688,45 @@
     "quantity": 10,
     "description": "Processor Intel Raptor Lake i9-13900KF 24 Cores 4.3 GHz (Up to 5.8GHz) 36MB, 125W, LGA1700, BOX, No Graphics",
     "warranty": 36,
-    "manufacturer": "Intel",
+    "manufacturerId": 37,
     "model": "Core I9-13900KF",
     "referenceNumber": "INTEL-CORE-I9-13900KF",
-    "category": "Processor",
+    "categoryId": 6,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "LGA1700"
       },
       {
-        "name": "Physical cores",
+        "characteristicNameId": 82,
         "value": "24"
       },
       {
-        "name": "Threads",
+        "characteristicNameId": 83,
         "value": "32"
       },
       {
-        "name": "Base frequency",
+        "characteristicNameId": 84,
         "value": "3 GHz"
       },
       {
-        "name": "Boost frequency",
+        "characteristicNameId": 85,
         "value": "5.8 GHz"
       },
       {
-        "name": "Cache memory",
+        "characteristicNameId": 86,
         "value": "36 MB"
       },
       {
-        "name": "Box cooler",
+        "characteristicNameId": 87,
         "value": "No"
       },
       {
-        "name": "Series",
+        "characteristicNameId": 88,
         "value": "Intel Core i9"
       },
       {
-        "name": "Generation",
+        "characteristicNameId": 89,
         "value": "Intel 13th Gen"
       }
     ]
@@ -737,45 +737,45 @@
     "quantity": 10,
     "description": "Processor AMD Ryzen Threadripper PRO 5965WX, 24 Cores / 48 Threads 3.8GHz (up to 4.5Ghz), Socket WRX8, 280W, 7nm",
     "warranty": 36,
-    "manufacturer": "Intel",
+    "manufacturerId": 37,
     "model": "Ryzen Threadripper PRO 5965WX",
     "referenceNumber": "AMD-RYZEN-THREADRIPPER-PRO-5965WX",
-    "category": "Processor",
+    "categoryId": 6,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "sWRX8"
       },
       {
-        "name": "Physical cores",
+        "characteristicNameId": 82,
         "value": "24"
       },
       {
-        "name": "Threads",
+        "characteristicNameId": 83,
         "value": "48"
       },
       {
-        "name": "Base frequency",
+        "characteristicNameId": 84,
         "value": "3.8 GHz"
       },
       {
-        "name": "Boost frequency",
+        "characteristicNameId": 85,
         "value": "4.5 GHz"
       },
       {
-        "name": "Cache memory",
+        "characteristicNameId": 86,
         "value": "140 MB"
       },
       {
-        "name": "Box cooler",
+        "characteristicNameId": 87,
         "value": "No"
       },
       {
-        "name": "Series",
+        "characteristicNameId": 88,
         "value": "AMD Ryzen Threadripper"
       },
       {
-        "name": "Generation",
+        "characteristicNameId": 89,
         "value": "AMD 5th Gen"
       }
     ]

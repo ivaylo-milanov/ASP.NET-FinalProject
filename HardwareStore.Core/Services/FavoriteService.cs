@@ -7,6 +7,7 @@
     using HardwareStore.Infrastructure.Models;
     using Microsoft.EntityFrameworkCore;
     using System.Collections.Generic;
+    using System.Linq;
     using System.Threading.Tasks;
 
     public class FavoriteService : IFavoriteService
@@ -18,22 +19,27 @@
             this.repository = repository;
         }
 
-        public async Task AddToDatabaseFavoriteAsync(int productId, string userId)
+        public async Task AddToDatabaseFavoriteAsync(string productId, string userId)
         {
+            if (!Guid.TryParse(productId, out Guid guidProductId))
+            {
+
+            }
+
             var customer = await GetFavoritesCustomer(userId);
 
-            if (!await this.repository.AnyAsync<Product>(p => p.Id == productId))
+            if (!await this.repository.AnyAsync<Product>(p => p.Id == guidProductId))
             {
                 throw new ArgumentNullException(ExceptionMessages.ProductNotFound);
             }
 
-            var cartItem = customer.Favorites.FirstOrDefault(p => p.ProductId == productId);
+            var cartItem = customer.Favorites.FirstOrDefault(p => p.ProductId == guidProductId);
 
             if (cartItem == null)
             {
                 Favorite favorite = new Favorite
                 {
-                    ProductId = productId
+                    ProductId = guidProductId
                 };
 
                 customer.Favorites.Add(favorite);
@@ -41,9 +47,14 @@
             }
         }
 
-        public async Task<ICollection<int>> AddToSessionFavoriteAsync(int productId, ICollection<int> favorites)
+        public async Task<ICollection<string>> AddToSessionFavoriteAsync(string productId, ICollection<string> favorites)
         {
-            if (!await this.repository.AnyAsync<Product>(p => p.Id == productId))
+            if (!Guid.TryParse(productId, out Guid guidProductId))
+            {
+
+            }
+
+            if (!await this.repository.AnyAsync<Product>(p => p.Id == guidProductId))
             {
                 throw new ArgumentNullException(ExceptionMessages.ProductNotFound);
             }
@@ -56,16 +67,21 @@
             return favorites;
         }
 
-        public async Task RemoveFromDatabaseFavoriteAsync(int productId, string userId)
+        public async Task RemoveFromDatabaseFavoriteAsync(string productId, string userId)
         {
             var customer = await GetFavoritesCustomer(userId);
 
-            if (!await this.repository.AnyAsync<Product>(p => p.Id == productId))
+            if (!Guid.TryParse(productId, out Guid guidProductId))
+            {
+
+            }
+
+            if (!await this.repository.AnyAsync<Product>(p => p.Id == guidProductId))
             {
                 throw new ArgumentNullException(ExceptionMessages.ProductNotFound);
             }
 
-            var cartItem = customer.Favorites.FirstOrDefault(p => p.ProductId == productId);
+            var cartItem = customer.Favorites.FirstOrDefault(p => p.ProductId == guidProductId);
 
             if (cartItem != null)
             {
@@ -74,9 +90,14 @@
             }
         }
 
-        public async Task<ICollection<int>> RemoveFromSessionFavoriteAsync(int productId, ICollection<int> favorites)
+        public async Task<ICollection<string>> RemoveFromSessionFavoriteAsync(string productId, ICollection<string> favorites)
         {
-            if (!await this.repository.AnyAsync<Product>(p => p.Id == productId))
+            if (!Guid.TryParse(productId, out Guid guidProductId))
+            {
+
+            }
+
+            if (!await this.repository.AnyAsync<Product>(p => p.Id == guidProductId))
             {
                 throw new ArgumentNullException(ExceptionMessages.ProductNotFound);
             }
@@ -107,12 +128,17 @@
             return favoritesModels;
         }
 
-        public async Task<ICollection<FavoriteExportModel>> GetSessionFavoriteAsync(ICollection<int> favorites)
+        public async Task<ICollection<FavoriteExportModel>> GetSessionFavoriteAsync(ICollection<string> favorites)
         {
             ICollection<FavoriteExportModel> favoriteItems = new List<FavoriteExportModel>();
 
             foreach (var favoriteId in favorites)
             {
+                if (!Guid.TryParse(favoriteId, out Guid guidProductId))
+                {
+
+                }
+
                 var product = await this.repository.FindAsync<Product>(favoriteId);
 
                 if (product == null)
@@ -122,7 +148,7 @@
 
                 var favoriteItem = new FavoriteExportModel
                 {
-                    Id = favoriteId,
+                    Id = guidProductId,
                     Name = product.Name,
                     Price = product.Price
                 };
@@ -135,11 +161,16 @@
 
         private async Task<Customer> GetFavoritesCustomer(string userId)
         {
+            if (!Guid.TryParse(userId, out Guid guidUserId))
+            {
+
+            }
+
             var customer = await this.repository
                 .All<Customer>()
                 .Include(c => c.Favorites)
                 .ThenInclude(c => c.Product)
-                .FirstOrDefaultAsync(c => c.Id == userId);
+                .FirstOrDefaultAsync(c => c.Id == guidUserId);
 
             if (customer == null)
             {

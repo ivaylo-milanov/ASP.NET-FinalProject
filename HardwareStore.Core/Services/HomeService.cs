@@ -38,7 +38,7 @@
                 .Take(4)
                 .Select(p => new ProductViewModel
                 {
-                    Id = p.Id,
+                    Id = p.Id.ToString(),
                     Name = p.Name,
                     Price = p.Price
                 })
@@ -49,7 +49,7 @@
                 .OrderByDescending(p => p.AddDate)
                 .Select(p => new ProductViewModel
                 {
-                    Id = p.Id,
+                    Id = p.Id.ToString(),
                     Name = p.Name,
                     Price= p.Price
                 })

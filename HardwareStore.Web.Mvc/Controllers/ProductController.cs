@@ -16,7 +16,7 @@
             this.detailsService = detailsService;
         }
 
-        public async Task<IActionResult> Details(int productId)
+        public async Task<IActionResult> Details(string productId)
         {
             ProductDetailsModel model;
             try

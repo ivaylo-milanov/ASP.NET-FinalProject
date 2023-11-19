@@ -12,7 +12,7 @@
     {
         [Comment("characteristic product id")]
         [ForeignKey(nameof(Product))]
-        public int ProductId { get; set; }
+        public Guid ProductId { get; set; }
 
         [Comment("characteristic product")]
         public virtual Product Product { get; set; } = null!;

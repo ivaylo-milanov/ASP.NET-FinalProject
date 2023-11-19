@@ -12,6 +12,7 @@
     {
         public Product()
         {
+            this.Id = Guid.NewGuid();
             this.Characteristics = new HashSet<Characteristic>();
             this.ProductsOrders = new HashSet<ProductOrder>();
             this.ShoppingCartItems = new HashSet<ShoppingCartItem>();
@@ -20,7 +21,7 @@
 
         [Comment("product id")]
         [Key]
-        public int Id { get; set; }
+        public Guid Id { get; set; }
 
         [Comment("product price")]
         [Required]

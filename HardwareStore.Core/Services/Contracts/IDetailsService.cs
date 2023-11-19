@@ -4,10 +4,10 @@
 
     public interface IDetailsService
     {
-        Task<ProductDetailsModel> GetProductDetails(int productId);
+        Task<ProductDetailsModel> GetProductDetails(string productId);
 
-        Task<bool> IsProductInDbFavorites(string customerId, int productId);
+        Task<bool> IsProductInDbFavorites(string customerId, string productId);
 
-        Task<bool> IsProductInSessionFavorites(ICollection<int> sessionFavorites, int productId);
+        Task<bool> IsProductInSessionFavorites(ICollection<string> sessionFavorites, string productId);
     }
 }

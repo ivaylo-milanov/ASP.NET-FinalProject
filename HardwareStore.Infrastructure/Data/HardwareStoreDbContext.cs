@@ -1,11 +1,12 @@
 ﻿namespace HardwareStore.Infrastructure.Data
 {
-    using Infrastructure.Configurations;
+    using Microsoft.AspNetCore.Identity;
     using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore;
+    using Microsoft.Extensions.Options;
     using Models;
 
-    public class HardwareStoreDbContext : IdentityDbContext<Customer>
+    public class HardwareStoreDbContext : IdentityDbContext<Customer, IdentityRole<Guid>, Guid>
     {
         public HardwareStoreDbContext(DbContextOptions<HardwareStoreDbContext> options)
             : base(options)
@@ -22,13 +23,14 @@
 
         public DbSet<CharacteristicName> CharacteristicsNames { get; set; } = null!;
 
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.EnableSensitiveDataLogging();
+        }
+
         protected override void OnModelCreating(ModelBuilder builder)
         {
-            builder.ApplyConfiguration(new ProductOrderConfiguration());
-            builder.ApplyConfiguration(new CustomerConfiguration());
-            builder.ApplyConfiguration(new ShoppingCartItemConfiguration());
-            builder.ApplyConfiguration(new FavoriteConfiguration());
-            builder.ApplyConfiguration(new CharacteristicConfiguraion());
+            builder.ApplyConfigurationsFromAssembly(typeof(HardwareStoreDbContext).Assembly);
             
             base.OnModelCreating(builder);
         }

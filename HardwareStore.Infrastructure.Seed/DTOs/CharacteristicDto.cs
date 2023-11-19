@@ -4,8 +4,8 @@
 
     public class CharacteristicDto
     {
-        [JsonProperty("name")]
-        public string Name { get; set; } = null!;
+        [JsonProperty("characteristicNameId")]
+        public int CharacteristicNameId { get; set; }
 
         [JsonProperty("value")]
         public string Value { get; set; } = null!;

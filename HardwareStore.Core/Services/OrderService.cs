@@ -57,6 +57,11 @@
 
         public async Task OrderAsync(OrderFormModel model, string userId)
         {
+            if (!Guid.TryParse(userId, out Guid guidUserId))
+            {
+
+            }
+
             var customer = await GetOrdersCustomer(userId);
 
             var totalAmount = GetTotalAmount(customer.ShoppingCartItems);
@@ -70,7 +75,7 @@
                 Address = model.Address,
                 AdditionalNotes = model.AdditionalNotes,
                 TotalAmount = totalAmount,
-                CustomerId = userId,
+                CustomerId = guidUserId,
                 OrderStatus = OrderStatus.Pending,
                 PaymentMethod = model.PaymentMethod,
                 OrderDate = DateTime.Now,
@@ -110,12 +115,17 @@
 
         private async Task<Customer> GetOrdersCustomer(string userId)
         {
+            if (!Guid.TryParse(userId, out Guid guidUserId))
+            {
+
+            }
+
             var customer = await this.repository
                 .All<Customer>()
                 .Include(c => c.Orders)
                 .Include(c => c.ShoppingCartItems)
                 .ThenInclude(sc => sc.Product)
-                .FirstOrDefaultAsync(c => c.Id == userId);
+                .FirstOrDefaultAsync(c => c.Id == guidUserId);
 
             if (customer == null)
             {

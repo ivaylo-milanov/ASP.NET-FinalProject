@@ -15,25 +15,35 @@
         {
             this.repository = repository;
         }
-        private async Task AddToFavoritesAsync(string userId, ICollection<int> favorites)
+        private async Task AddToFavoritesAsync(string userId, ICollection<string> favorites)
         {
+            if (!Guid.TryParse(userId, out Guid guidUserId))
+            {
+
+            }
+
             ICollection<Favorite> dbFavorites = new List<Favorite>();
             foreach (var productId in favorites)
             {
-                if (!await this.repository.AnyAsync<Product>(p => p.Id == productId))
+                if (!Guid.TryParse(productId, out Guid guidProductId))
+                {
+
+                }
+
+                if (!await this.repository.AnyAsync<Product>(p => p.Id == guidProductId))
                 {
                     throw new ArgumentNullException(ExceptionMessages.ProductNotFound);
                 }
 
                 var existingFavorite = await this.repository
-                    .FirstOrDefaultAsync<Favorite>(f => f.ProductId == productId && f.CustomerId == userId);
+                    .FirstOrDefaultAsync<Favorite>(f => f.ProductId == guidProductId && f.CustomerId == guidUserId);
 
                 if (existingFavorite == null)
                 {
                     var favoriteProduct = new Favorite
                     {
-                        ProductId = productId,
-                        CustomerId = userId
+                        ProductId = guidProductId,
+                        CustomerId = guidUserId
                     };
 
                     dbFavorites.Add(favoriteProduct);
@@ -43,24 +53,29 @@
             this.repository.AddRange(dbFavorites);
         }
 
-        private async Task AddToShoppingCartAsync(string userId, ICollection<ShoppingCartExportModel> cart)
+        private async Task AddToShoppingCartAsync(Guid userId, ICollection<ShoppingCartExportModel> cart)
         {
             ICollection<ShoppingCartItem> shoppings = new List<ShoppingCartItem>();
             foreach (var item in cart)
             {
-                if (!await this.repository.AnyAsync<Product>(p => p.Id == item.ProductId))
+                if (!Guid.TryParse(item.ProductId, out Guid guidProductId))
+                {
+
+                }
+
+                if (!await this.repository.AnyAsync<Product>(p => p.Id == guidProductId))
                 {
                     throw new ArgumentNullException(ExceptionMessages.ProductNotFound);
                 }
 
                 var existingCartItem = await this.repository
-                    .FirstOrDefaultAsync<ShoppingCartItem>(f => f.ProductId == item.ProductId && f.CustomerId == userId);
+                    .FirstOrDefaultAsync<ShoppingCartItem>(f => f.ProductId == guidProductId && f.CustomerId == userId);
 
                 if (existingCartItem == null)
                 {
                     var dbCartItem = new ShoppingCartItem
                     {
-                        ProductId = item.ProductId,
+                        ProductId = guidProductId,
                         Quantity = item.Quantity,
                         CustomerId = userId
                     };
@@ -76,9 +91,14 @@
             this.repository.AddRange(shoppings);
         }
 
-        public async Task AddToDatabase(string userId, ICollection<int> favorites, ICollection<ShoppingCartExportModel> cart)
+        public async Task AddToDatabase(string userId, ICollection<string> favorites, ICollection<ShoppingCartExportModel> cart)
         {
-            if (!await this.repository.AnyAsync<Customer>(c => c.Id == userId))
+            if (!Guid.TryParse(userId, out Guid guidUserId))
+            {
+
+            }
+
+            if (!await this.repository.AnyAsync<Customer>(c => c.Id == guidUserId))
             {
                 throw new ArgumentNullException(ExceptionMessages.UserNotFound);
             }
@@ -90,7 +110,7 @@
 
             if (cart != null && cart.Count > 0)
             {
-                await this.AddToShoppingCartAsync(userId, cart);
+                await this.AddToShoppingCartAsync(guidUserId, cart);
             }
 
             await this.repository.SaveChangesAsync();

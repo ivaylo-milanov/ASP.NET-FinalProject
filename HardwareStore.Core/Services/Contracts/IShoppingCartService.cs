@@ -4,28 +4,28 @@
 
     public interface IShoppingCartService
     {
-        Task AddToDatabaseShoppingCartAsync(int productId, int quantity, string userId);
+        Task AddToDatabaseShoppingCartAsync(string productId, int quantity, string userId);
 
-        Task<ICollection<ShoppingCartExportModel>> AddToSessionShoppingCartAsync(int productId, int quantity, ICollection<ShoppingCartExportModel> cart);
+        Task<ICollection<ShoppingCartExportModel>> AddToSessionShoppingCartAsync(string productId, int quantity, ICollection<ShoppingCartExportModel> cart);
 
-        Task RemoveFromDatabaseShoppingCartAsync(int productId, string userId);
+        Task RemoveFromDatabaseShoppingCartAsync(string productId, string userId);
 
-        Task<ICollection<ShoppingCartExportModel>> RemoveFromSessionShoppingCartAsync(int productId, ICollection<ShoppingCartExportModel> cart);
+        Task<ICollection<ShoppingCartExportModel>> RemoveFromSessionShoppingCartAsync(string productId, ICollection<ShoppingCartExportModel> cart);
 
         Task<ShoppingCartViewModel> GetDatabaseShoppingCartAsync(string userId);
 
         Task<ShoppingCartViewModel> GetSessionShoppingCartAsync(ICollection<ShoppingCartExportModel> cart);
 
-        Task DecreaseDatabaseItemQuantityAsync(int productId, string userId);
+        Task DecreaseDatabaseItemQuantityAsync(string productId, string userId);
 
-        Task<ICollection<ShoppingCartExportModel>> DecreaseSessionItemQuantityAsync(int productId, ICollection<ShoppingCartExportModel> cart);
+        Task<ICollection<ShoppingCartExportModel>> DecreaseSessionItemQuantityAsync(string productId, ICollection<ShoppingCartExportModel> cart);
 
-        Task IncreaseDatabaseItemQuantityAsync(int productId, string userId);
+        Task IncreaseDatabaseItemQuantityAsync(string productId, string userId);
 
-        Task<ICollection<ShoppingCartExportModel>> IncreaseSessionItemQuantityAsync(int productId, ICollection<ShoppingCartExportModel> cart);
+        Task<ICollection<ShoppingCartExportModel>> IncreaseSessionItemQuantityAsync(string productId, ICollection<ShoppingCartExportModel> cart);
 
-        Task UpdateDatabaseItemQuantityAsync(int quantity, int productId, string userId);
+        Task UpdateDatabaseItemQuantityAsync(int quantity, string productId, string userId);
 
-        Task<ICollection<ShoppingCartExportModel>> UpdateSessionItemQuantityAsync(int quantity, int productId, ICollection<ShoppingCartExportModel> cart);
+        Task<ICollection<ShoppingCartExportModel>> UpdateSessionItemQuantityAsync(int quantity, string productId, ICollection<ShoppingCartExportModel> cart);
     }
 }

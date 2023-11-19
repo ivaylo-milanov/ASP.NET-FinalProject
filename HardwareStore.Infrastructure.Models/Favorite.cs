@@ -9,7 +9,7 @@
     {
         [Comment("favorite user id")]
         [Required]
-        public string CustomerId { get; set; } = null!;
+        public Guid CustomerId { get; set; }
 
         [Comment("favorite user")]
         [ForeignKey(nameof(CustomerId))]
@@ -17,7 +17,7 @@
 
         [Comment("favorite product id")]
         [Required]
-        public int ProductId { get; set; }
+        public Guid ProductId { get; set; }
 
         [Comment("favorite product")]
         [ForeignKey(nameof(ProductId))]

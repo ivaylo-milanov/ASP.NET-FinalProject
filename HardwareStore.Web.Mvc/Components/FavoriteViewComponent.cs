@@ -16,7 +16,7 @@
             this.logger = logger;
         }
 
-        public async Task<IViewComponentResult> InvokeAsync(int productId)
+        public async Task<IViewComponentResult> InvokeAsync(string productId)
         {
             DetailsFavoriteModel model = new DetailsFavoriteModel
             {
@@ -42,7 +42,7 @@
             return View(model);
         }
 
-        private ICollection<int> GetFavorites()
-            => HttpContext.Session.Get<ICollection<int>>("Favorite") ?? new List<int>();
+        private ICollection<string> GetFavorites()
+            => HttpContext.Session.Get<ICollection<string>>("Favorite") ?? new List<string>();
     }
 }

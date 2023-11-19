@@ -5,37 +5,37 @@
     "quantity": 10,
     "description": "Meet the soft, smooth and anti-slip mouse pad that takes your workplace to new heights. Made of high-quality materials, the Logitech mouse pad gives you the glide and comfort you need for your favorite Logitech mouse.",
     "warranty": 24,
-    "manufacturer": "Logitech",
+    "manufacturerId": 12,
     "model": "MOUSE PAD STUDIO SERIES",
     "referenceNumber": "LOGITECH-MOUSE-PAD-STUDIO-SERIES-BLUE",
-    "category": "Mouse Pad",
+    "categoryId": 4,
     "characteristics": [
       {
-        "name": "Width",
-        "value": "230 mm" 
+        "characteristicNameId": 7,
+        "value": "230 mm"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "200 mm"
       },
       {
-        "name": "Thickness",
+        "characteristicNameId": 72,
         "value": "2 mm"
       },
       {
-        "name": "Surface",
+        "characteristicNameId": 73,
         "value": "Textile"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Cover",
+        "characteristicNameId": 74,
         "value": "Yes"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Blue"
       }
     ]
@@ -46,37 +46,37 @@
     "quantity": 10,
     "description": "The Bloody BP-50L gaming pad combines both types of speed/control surface, providing exceptional accuracy and comfort. The precise, consistent surface senses every mouse movement so you can hold every action yourself!",
     "warranty": 24,
-    "manufacturer": "A4Tech",
+    "manufacturerId": 8,
     "model": "Bloody BP-50L",
     "referenceNumber": "A4TECH-BLOODY-BP-50L-BLACK",
-    "category": "Mouse Pad",
+    "categoryId": 4,
     "characteristics": [
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "750 mm"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "300 mm"
       },
       {
-        "name": "Thickness",
+        "characteristicNameId": 72,
         "value": "3 mm"
       },
       {
-        "name": "Surface",
+        "characteristicNameId": 73,
         "value": "Textile"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Cover",
+        "characteristicNameId": 74,
         "value": "Tes"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -87,37 +87,37 @@
     "quantity": 10,
     "description": "Made from high-quality fabric and a rubber base, the SteelSeries QcK mini is the perfect mouse pad for any gamer who likes textile pads.",
     "warranty": 24,
-    "manufacturer": "SteelSeries",
+    "manufacturerId": 14,
     "model": "Qck S",
     "referenceNumber": "STEELSERIES-QCK-S-BLACK",
-    "category": "Mouse Pad",
+    "categoryId": 4,
     "characteristics": [
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "250 mm"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "210 mm"
       },
       {
-        "name": "Thickness",
+        "characteristicNameId": 72,
         "value": "2 mm"
       },
       {
-        "name": "Surface",
+        "characteristicNameId": 73,
         "value": "Textile"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Cover",
+        "characteristicNameId": 74,
         "value": "No"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -128,37 +128,37 @@
     "quantity": 10,
     "description": "Meet the soft, smooth and anti-slip mouse pad that takes your workplace to new heights. Made of high-quality materials, the Logitech mouse pad gives you the glide and comfort you need for your favorite Logitech mouse.",
     "warranty": 24,
-    "manufacturer": "Logitech",
+    "manufacturerId": 12,
     "model": "Desk Mat Studio Series",
     "referenceNumber": "LOGITECH-DESK-MAT-STUDIO-SERIES-PURPLE",
-    "category": "Mouse Pad",
+    "categoryId": 4,
     "characteristics": [
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "700 mm"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "300 mm"
       },
       {
-        "name": "Thickness",
+        "characteristicNameId": 72,
         "value": "2 mm"
       },
       {
-        "name": "Surface",
+        "characteristicNameId": 73,
         "value": "Textile"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Cover",
+        "characteristicNameId": 74,
         "value": "Yes"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Purple"
       }
     ]
@@ -169,37 +169,37 @@
     "quantity": 10,
     "description": "HyperX Fury - the textile addition to the HyperX pad portfolio. Fury will provide you with a smooth texture allowing you to move your mouse feet perfectly.",
     "warranty": 24,
-    "manufacturer": "HyperX",
+    "manufacturerId": 11,
     "model": "Fury S Speed M",
     "referenceNumber": "HYPERX-FURY-S-SPEED-M-RED",
-    "category": "Mouse Pad",
+    "categoryId": 4,
     "characteristics": [
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "360 mm"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "300 mm"
       },
       {
-        "name": "Thickness",
+        "characteristicNameId": 72,
         "value": "3.5 mm"
       },
       {
-        "name": "Surface",
+        "characteristicNameId": 73,
         "value": "Textile"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Cover",
+        "characteristicNameId": 74,
         "value": "Yes"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Red"
       }
     ]
@@ -210,37 +210,37 @@
     "quantity": 10,
     "description": "Spartan Gear Ares RGB Gaming Pad",
     "warranty": 24,
-    "manufacturer": "Spartan Gear",
+    "manufacturerId": 29,
     "model": "Ares RGB",
     "referenceNumber": "SPARTAN-GEAR-ARES-RGB-BLACK",
-    "category": "Mouse Pad",
+    "categoryId": 4,
     "characteristics": [
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "350 mm"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "250 mm"
       },
       {
-        "name": "Thickness",
+        "characteristicNameId": 72,
         "value": "3 mm"
       },
       {
-        "name": "Surface",
+        "characteristicNameId": 73,
         "value": "Textile"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "Yes"
       },
       {
-        "name": "Cover",
+        "characteristicNameId": 74,
         "value": "No"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -251,37 +251,37 @@
     "quantity": 10,
     "description": "Our mouse pads are used by both professionals and enthusiasts around the world. The special surface provides a unique combination of speed and control, making the pads ideal for any situation. All of our mouse pads also feature stitched edges that prevent wear and tear, greatly increasing aesthetics and lifespan. Thanks to our high-quality workmanship, these pads are also washable.",
     "warranty": 24,
-    "manufacturer": "Glorious",
+    "manufacturerId": 30,
     "model": "L White",
     "referenceNumber": "GLORIOUS-L-WHITE",
-    "category": "Mouse Pad",
+    "categoryId": 4,
     "characteristics": [
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "330 mm"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "280 mm"
       },
       {
-        "name": "Thickness",
+        "characteristicNameId": 72,
         "value": "2 mm"
       },
       {
-        "name": "Surface",
+        "characteristicNameId": 73,
         "value": "Textile"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Cover",
+        "characteristicNameId": 74,
         "value": "Yes"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "White"
       }
     ]
@@ -292,37 +292,37 @@
     "quantity": 10,
     "description": "The SR is for gamers who love the comfort of a fabric pad on a soft rubber base. The base is 100% flat which provides comfort and maintains a consistent glide to ensure the best performance.",
     "warranty": 24,
-    "manufacturer": "ZOWIE",
+    "manufacturerId": 25,
     "model": "P-SR",
     "referenceNumber": "ZOWIE-P-SR-BLACK",
-    "category": "Mouse Pad",
+    "categoryId": 4,
     "characteristics": [
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "355 mm"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "315 mm"
       },
       {
-        "name": "Thickness",
+        "characteristicNameId": 72,
         "value": "3.5 mm"
       },
       {
-        "name": "Surface",
+        "characteristicNameId": 73,
         "value": "Textile"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Cover",
+        "characteristicNameId": 74,
         "value": "Yes"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -333,37 +333,37 @@
     "quantity": 10,
     "description": "The MP511 mouse pad is an upgrade in every sense of the word, featuring the legendary CORDURA® fabric for enhanced durability, impeccable splash resistance and smooth performance for generations of battles to come.",
     "warranty": 24,
-    "manufacturer": "Cooler Master",
+    "manufacturerId": 4,
     "model": "MP511 XL",
     "referenceNumber": "COOLER-MASTER-MP511-XL",
-    "category": "Mouse Pad",
+    "categoryId": 4,
     "characteristics": [
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "900 mm"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "400 mm"
       },
       {
-        "name": "Thickness",
+        "characteristicNameId": 72,
         "value": "3 mm"
       },
       {
-        "name": "Surface",
+        "characteristicNameId": 73,
         "value": "Textile"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Cover",
+        "characteristicNameId": 74,
         "value": "Yes"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -374,37 +374,37 @@
     "quantity": 10,
     "description": "Built for your victory, the Logitech G440 is a hard pad suitable for anyone using a high-sensitivity mouse. Compatible with optical and laser sensors",
     "warranty": 24,
-    "manufacturer": "Logitech",
+    "manufacturerId": 12,
     "model": "G440",
     "referenceNumber": "LOGITECH-G440-BLACK",
-    "category": "Mouse Pad",
+    "categoryId": 4,
     "characteristics": [
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "340 mm"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "280 mm"
       },
       {
-        "name": "Thickness",
+        "characteristicNameId": 72,
         "value": "3 mm"
       },
       {
-        "name": "Surface",
+        "characteristicNameId": 73,
         "value": "Hard"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Cover",
+        "characteristicNameId": 74,
         "value": "No"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -415,37 +415,37 @@
     "quantity": 10,
     "description": "Blizzard Diablo Gaming Pad - Lilith",
     "warranty": 24,
-    "manufacturer": "Blizzard",
+    "manufacturerId": 31,
     "model": "Diablo - Lilith",
     "referenceNumber": "BLIZZARD-DIABLO-LILITH",
-    "category": "Mouse Pad",
+    "categoryId": 4,
     "characteristics": [
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "900 mm"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "420 mm"
       },
       {
-        "name": "Thickness",
+        "characteristicNameId": 72,
         "value": "3 mm"
       },
       {
-        "name": "Surface",
+        "characteristicNameId": 73,
         "value": "Textile"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Cover",
+        "characteristicNameId": 74,
         "value": "Yes"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Diablo"
       }
     ]
@@ -456,37 +456,37 @@
     "quantity": 10,
     "description": "World of WarCraft Shadowlands Gaming Pad - Bolvar, XL",
     "warranty": 24,
-    "manufacturer": "Blizzard",
+    "manufacturerId": 31,
     "model": "World of WarCraft Shadowlands - Bolvar, XL",
     "referenceNumber": "BLIZZARD-WORLD-OF-WARCRAFT-SHADOWLANDS-BOLVAR",
-    "category": "Mouse Pad",
+    "categoryId": 4,
     "characteristics": [
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "900 mm"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "420 mm"
       },
       {
-        "name": "Thickness",
+        "characteristicNameId": 72,
         "value": "4 mm"
       },
       {
-        "name": "Surface",
+        "characteristicNameId": 73,
         "value": "Textile"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Cover",
+        "characteristicNameId": 74,
         "value": "Yes"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "WarCraft"
       }
     ]
@@ -497,37 +497,37 @@
     "quantity": 10,
     "description": "World of WarCraft Classic Gaming Pad - Ragnaros, XL",
     "warranty": 24,
-    "manufacturer": "Blizzard",
+    "manufacturerId": 31,
     "model": "World of WarCraft Classic - Ragnaros, XL",
     "referenceNumber": "BLIZZARD-WORLD-OF-WARCRAFT-CLASSIC-RAGNAROS",
-    "category": "Mouse Pad",
+    "categoryId": 4,
     "characteristics": [
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "900 mm"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "420 mm"
       },
       {
-        "name": "Thickness",
+        "characteristicNameId": 72,
         "value": "4 mm"
       },
       {
-        "name": "Surface",
+        "characteristicNameId": 73,
         "value": "Textile"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Cover",
+        "characteristicNameId": 74,
         "value": "Yes"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "WarCraft"
       }
     ]
@@ -538,37 +538,37 @@
     "quantity": 10,
     "description": "Place your keyboard in many more positions without having to consider the mouse pad or mouse. At 900x400mm, the G840 provides the area to bring together the aesthetics of a gaming desktop while adding additional options for comfort and configuration.",
     "warranty": 24,
-    "manufacturer": "Logitech",
+    "manufacturerId": 12,
     "model": "G840 XL K/DA",
     "referenceNumber": "LOGITECH-G840-XL-K/DA",
-    "category": "Mouse Pad",
+    "categoryId": 4,
     "characteristics": [
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "900 mm"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "420 mm"
       },
       {
-        "name": "Thickness",
+        "characteristicNameId": 72,
         "value": "3 mm"
       },
       {
-        "name": "Surface",
+        "characteristicNameId": 73,
         "value": "Textile"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Cover",
+        "characteristicNameId": 74,
         "value": "Yes"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "League of Legends"
       }
     ]
@@ -579,37 +579,37 @@
     "quantity": 10,
     "description": "Control for precision shooting or speed? Rocket Jump Ninja's specially selected materials are a good mix between the two extremes and strike the right balance.",
     "warranty": 24,
-    "manufacturer": "Xtrfy",
+    "manufacturerId": 19,
     "model": "GPZ1",
     "referenceNumber": "XTRFY-GPZ1-BLACK",
-    "category": "Mouse Pad",
+    "categoryId": 4,
     "characteristics": [
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "460 mm"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "400 mm"
       },
       {
-        "name": "Thickness",
+        "characteristicNameId": 72,
         "value": "4 mm"
       },
       {
-        "name": "Surface",
+        "characteristicNameId": 73,
         "value": "Textile"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Cover",
+        "characteristicNameId": 74,
         "value": "Yes"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]
@@ -620,37 +620,37 @@
     "quantity": 10,
     "description": "Brilliant 2-zone RGB dynamic lighting Easy and intuitive lighting notification setup during gameplay",
     "warranty": 24,
-    "manufacturer": "SteelSeries",
+    "manufacturerId": 14,
     "model": "Qck Prism Cloth XL",
     "referenceNumber": "STEELSERIES-QCK-PRISM-CLOTH-XL-BLACK",
-    "category": "Mouse Pad",
+    "categoryId": 4,
     "characteristics": [
       {
-        "name": "Width",
+        "characteristicNameId": 7,
         "value": "900 mm"
       },
       {
-        "name": "Length",
+        "characteristicNameId": 6,
         "value": "300 mm"
       },
       {
-        "name": "Thickness",
+        "characteristicNameId": 72,
         "value": "4 mm"
       },
       {
-        "name": "Surface",
+        "characteristicNameId": 73,
         "value": "Textile"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "Yes"
       },
       {
-        "name": "Cover",
+        "characteristicNameId": 74,
         "value": "Yes"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       }
     ]

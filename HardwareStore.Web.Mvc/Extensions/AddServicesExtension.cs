@@ -3,8 +3,6 @@
     using Core.Services;
     using Core.Services.Contracts;
     using HardwareStore.Infrastructure.Common;
-    using HardwareStore.Infrastructure.Seed;
-    using HardwareStore.Infrastructure.Seed.Contracts;
 
     public static class AddServicesExtension
     {
@@ -16,8 +14,6 @@
             services.AddScoped<IFavoriteService, FavoriteService>();
             services.AddScoped<IShoppingCartService, ShoppingCartService>();
             services.AddScoped<ISessionService, SessionService>();
-            services.AddScoped<IFileReader, FileReader>();
-            services.AddScoped<IDataSeeder, DataSeeder>();
             services.AddScoped<IOrderService, OrderService>();
             services.AddScoped<IAuthenticationService, AuthenticationService>();
             services.AddScoped<IProfileService, ProfileService>();

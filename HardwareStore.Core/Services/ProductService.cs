@@ -107,7 +107,7 @@
                 .Where(p => p.Category.Name == categoryNameAttribute.CategoryName)
                 .Select(p => new ProductExportModel
                 {
-                    Id = p.Id,
+                    Id = p.Id.ToString(),
                     Price = p.Price,
                     Name = p.Name,
                     AddDate = p.AddDate,
@@ -181,7 +181,7 @@
                     .Include(p => p.Manufacturer)
                     .Select(p => new SearchViewModel
                     {
-                        Id = p.Id,
+                        Id = p.Id.ToString(),
                         Name = p.Name,
                         Price = p.Price,
                         Manufacturer = p.Manufacturer.Name,
@@ -213,7 +213,7 @@
             var finalResult = filtered
                 .Select(p => new SearchViewModel
                 {
-                    Id = p.Id,
+                    Id = p.Id.ToString(),
                     Name = p.Name,
                     Price = p.Price,
                     Manufacturer = p.ManufacturerId.HasValue && manufacturers.ContainsKey(p.ManufacturerId.Value) ? manufacturers[p.ManufacturerId.Value] : null,

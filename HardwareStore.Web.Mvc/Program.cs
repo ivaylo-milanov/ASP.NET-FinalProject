@@ -43,7 +43,4 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 app.MapRazorPages();
 
-//Uncomment this to seed the data into the database
-//await app.MigrateDatabase();
-
 await app.RunAsync();

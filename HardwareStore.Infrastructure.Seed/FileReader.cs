@@ -1,11 +1,10 @@
 ﻿namespace HardwareStore.Infrastructure.Seed
 {
-    using HardwareStore.Infrastructure.Seed.Contracts;
     using Newtonsoft.Json;
 
-    public class FileReader : IFileReader
+    public static class FileReader
     {
-        public IEnumerable<T> LoadJson<T>(string fileName)
+        public static IEnumerable<T> LoadJson<T>(string fileName)
         {
             using (StreamReader r = new StreamReader(fileName))
             {
@@ -14,9 +13,9 @@
             }
         }
 
-        public string[] GetFilesNames(string jsonFileTemplate)
+        public static string[] GetFilesNames(string jsonFileTemplate)
         {
-            var importsPath = Path.Combine(Environment.CurrentDirectory, "..", "HardwareStore.Infrastructure", "Imports");
+            var importsPath = Path.Combine(Environment.CurrentDirectory, "..", "HardwareStore.Infrastructure.Seed", "Imports");
             var fileNames = Directory.GetFiles(importsPath, jsonFileTemplate);
 
             return fileNames.ToArray();

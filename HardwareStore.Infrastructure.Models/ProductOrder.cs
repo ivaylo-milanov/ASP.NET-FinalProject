@@ -10,7 +10,7 @@
     {
         [Comment("product order product id")]
         [Required]
-        public int ProductId { get; set; }
+        public Guid ProductId { get; set; }
 
         [Comment("product order product")]
         [ForeignKey(nameof(ProductId))]

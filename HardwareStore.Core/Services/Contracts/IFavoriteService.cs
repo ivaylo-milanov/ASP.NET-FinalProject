@@ -6,14 +6,14 @@
     {
         Task<ICollection<FavoriteExportModel>> GetDatabaseFavoriteAsync(string userId);
 
-        Task<ICollection<FavoriteExportModel>> GetSessionFavoriteAsync(ICollection<int> favorites);
+        Task<ICollection<FavoriteExportModel>> GetSessionFavoriteAsync(ICollection<string> favorites);
 
-        Task<ICollection<int>> AddToSessionFavoriteAsync(int productId, ICollection<int> favorites);
+        Task<ICollection<string>> AddToSessionFavoriteAsync(string productId, ICollection<string> favorites);
 
-        Task AddToDatabaseFavoriteAsync(int productId, string userId);
+        Task AddToDatabaseFavoriteAsync(string productId, string userId);
 
-        Task<ICollection<int>> RemoveFromSessionFavoriteAsync(int productId, ICollection<int> favorites);
+        Task<ICollection<string>> RemoveFromSessionFavoriteAsync(string productId, ICollection<string> favorites);
 
-        Task RemoveFromDatabaseFavoriteAsync(int productId, string userId);
+        Task RemoveFromDatabaseFavoriteAsync(string productId, string userId);
     }
 }

@@ -36,8 +36,8 @@
         private ICollection<ShoppingCartExportModel> GetShoppingCart()
             => HttpContext.Session.Get<ICollection<ShoppingCartExportModel>>("Shopping Cart") ?? new List<ShoppingCartExportModel>();
 
-        private ICollection<int> GetFavorites()
-            => HttpContext.Session.Get<ICollection<int>>("Favorite") ?? new List<int>();
+        private ICollection<string> GetFavorites()
+            => HttpContext.Session.Get<ICollection<string>>("Favorite") ?? new List<string>();
 
         private void RemoveFromSession()
         {

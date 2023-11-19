@@ -50,7 +50,7 @@
             return View(shoppingCart);
         }
 
-        public async Task<IActionResult> AddToShoppingCart(int productId, int quantity)
+        public async Task<IActionResult> AddToShoppingCart(string productId, int quantity)
         {
             try
             {
@@ -79,7 +79,7 @@
             return RedirectToAction(nameof(Index));
         }
 
-        public async Task<IActionResult> RemoveFromShoppingCart([FromBody] int productId)
+        public async Task<IActionResult> RemoveFromShoppingCart([FromBody] string productId)
         {
             try
             {
@@ -102,7 +102,7 @@
             return RedirectToAction(nameof(Index));
         }
 
-        public async Task<IActionResult> DecreaseItemQuantity([FromBody] int productId)
+        public async Task<IActionResult> DecreaseItemQuantity([FromBody] string productId)
         {
             try
             {
@@ -125,7 +125,7 @@
             return RedirectToAction(nameof(Index));
         }
 
-        public async Task<IActionResult> IncreaseItemQuantity([FromBody] int productId)
+        public async Task<IActionResult> IncreaseItemQuantity([FromBody] string productId)
         {
             try
             {

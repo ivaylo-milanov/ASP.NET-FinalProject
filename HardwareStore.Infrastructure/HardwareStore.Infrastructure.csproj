@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HardwareStore.Infrastructure.Models\HardwareStore.Infrastructure.Models.csproj" />
+    <ProjectReference Include="..\HardwareStore.Infrastructure.Seed\HardwareStore.Infrastructure.Seed.csproj" />
   </ItemGroup>
 
   <ItemGroup>

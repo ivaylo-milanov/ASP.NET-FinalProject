@@ -5,45 +5,45 @@
     "quantity": 10,
     "description": "ASROCK B450M-HDV R4.0 motherboard",
     "warranty": 36,
-    "manufacturer": "ASRock",
+    "manufacturerId": 26,
     "model": "B450M-HDV R4.0",
     "referenceNumber": "ASROCK-B450M-HDV-R4.0",
-    "category": "Motherboard",
+    "categoryId": 7,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "AMD AM4"
       },
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Micro ATX"
       },
       {
-        "name": "Chipset",
+        "characteristicNameId": 66,
         "value": "AMD B450"
       },
       {
-        "name": "Number of memory slots",
+        "characteristicNameId": 67,
         "value": "2"
       },
       {
-        "name": "RAM capacity",
+        "characteristicNameId": 68,
         "value": "64 GB"
       },
       {
-        "name": "Memory frequency",
+        "characteristicNameId": 69,
         "value": "3200 MHz"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Supported memory",
+        "characteristicNameId": 70,
         "value": "DDR4"
       },
       {
-        "name": "Built-in Wi-Fi",
+        "characteristicNameId": 71,
         "value": "Yes"
       }
     ]
@@ -54,45 +54,45 @@
     "quantity": 10,
     "description": "Motherboard GIGABYTE A520M K V2, Socket AM4, mATX, 2xDDR4, M.2 NVMe",
     "warranty": 36,
-    "manufacturer": "Gigabyte",
+    "manufacturerId": 15,
     "model": "A520M K V2",
     "referenceNumber": "GIGABYTE-A520M-K-V2",
-    "category": "Motherboard",
+    "categoryId": 7,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "AMD AM4"
       },
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Micro ATX"
       },
       {
-        "name": "Chipset",
+        "characteristicNameId": 66,
         "value": "AMD A520"
       },
       {
-        "name": "Number of memory slots",
+        "characteristicNameId": 67,
         "value": "2"
       },
       {
-        "name": "RAM capacity",
+        "characteristicNameId": 68,
         "value": "64 GB"
       },
       {
-        "name": "Memory frequency",
+        "characteristicNameId": 69,
         "value": "5100 MHz"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Supported memory",
+        "characteristicNameId": 70,
         "value": "DDR4"
       },
       {
-        "name": "Built-in Wi-Fi",
+        "characteristicNameId": 71,
         "value": "No"
       }
     ]
@@ -103,45 +103,45 @@
     "quantity": 10,
     "description": "ASROCK B450 Steel Legend motherboard",
     "warranty": 36,
-    "manufacturer": "ASRock",
+    "manufacturerId": 26,
     "model": "B450 Steel Legend",
     "referenceNumber": "ASROCK-B450-STEEL-LEGEND",
-    "category": "Motherboard",
+    "categoryId": 7,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "AMD AM4"
       },
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "ATX"
       },
       {
-        "name": "Chipset",
+        "characteristicNameId": 66,
         "value": "AMD B450"
       },
       {
-        "name": "Number of memory slots",
+        "characteristicNameId": 67,
         "value": "4"
       },
       {
-        "name": "RAM capacity",
+        "characteristicNameId": 68,
         "value": "64 GB"
       },
       {
-        "name": "Memory frequency",
+        "characteristicNameId": 69,
         "value": "3533 MHz"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "Yes"
       },
       {
-        "name": "Supported memory",
+        "characteristicNameId": 70,
         "value": "DDR4"
       },
       {
-        "name": "Built-in Wi-Fi",
+        "characteristicNameId": 71,
         "value": "No"
       }
     ]
@@ -152,45 +152,45 @@
     "quantity": 10,
     "description": "ASRock B550 PRO4 motherboard",
     "warranty": 36,
-    "manufacturer": "ASRock",
+    "manufacturerId": 26,
     "model": "B550 PRO4",
     "referenceNumber": "ASROCK-B550-PRO4",
-    "category": "Motherboard",
+    "categoryId": 7,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "AMD AM4"
       },
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "ATX"
       },
       {
-        "name": "Chipset",
+        "characteristicNameId": 66,
         "value": "AMD B550"
       },
       {
-        "name": "Number of memory slots",
+        "characteristicNameId": 67,
         "value": "4"
       },
       {
-        "name": "RAM capacity",
+        "characteristicNameId": 68,
         "value": "128 GB"
       },
       {
-        "name": "Memory frequency",
+        "characteristicNameId": 69,
         "value": "4733 MHz"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "Yes"
       },
       {
-        "name": "Supported memory",
+        "characteristicNameId": 70,
         "value": "DDR4"
       },
       {
-        "name": "Built-in Wi-Fi",
+        "characteristicNameId": 71,
         "value": "No"
       }
     ]
@@ -201,45 +201,45 @@
     "quantity": 10,
     "description": "ASUS Prime series is expertly engineered to unleash the full potential of the 3rd Generation AMD Ryzen platform. Boasting a robust power design, comprehensive cooling solutions and intelligent tuning options, Prime B550 series motherboards provide daily users and DIY PC builders a range of performance tuning options via intuitive software and firmware features.",
     "warranty": 36,
-    "manufacturer": "ASUS",
+    "manufacturerId": 1,
     "model": "PRIME B550-PLUS",
     "referenceNumber": "ASUS-PRIME-B550-PLUS",
-    "category": "Motherboard",
+    "categoryId": 7,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "AMD AM4"
       },
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "ATX"
       },
       {
-        "name": "Chipset",
+        "characteristicNameId": 66,
         "value": "AMD B550"
       },
       {
-        "name": "Number of memory slots",
+        "characteristicNameId": 67,
         "value": "4"
       },
       {
-        "name": "RAM capacity",
+        "characteristicNameId": 68,
         "value": "128 GB"
       },
       {
-        "name": "Memory frequency",
+        "characteristicNameId": 69,
         "value": "4600 MHz"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Supported memory",
+        "characteristicNameId": 70,
         "value": "DDR4"
       },
       {
-        "name": "Built-in Wi-Fi",
+        "characteristicNameId": 71,
         "value": "No"
       }
     ]
@@ -250,45 +250,45 @@
     "quantity": 10,
     "description": "Motherboard GIGABYTE B650M GAMING X AX WiFi 6E socket AM5, 4xDDR5",
     "warranty": 36,
-    "manufacturer": "Gigabyte",
+    "manufacturerId": 15,
     "model": "B650M GAMING X AX WiFi",
     "referenceNumber": "GIGABYTE-B650M-GAMING-X-AX",
-    "category": "Motherboard",
+    "categoryId": 7,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "AMD AM5"
       },
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Micro ATX"
       },
       {
-        "name": "Chipset",
+        "characteristicNameId": 66,
         "value": "AMD B650"
       },
       {
-        "name": "Number of memory slots",
+        "characteristicNameId": 67,
         "value": "4"
       },
       {
-        "name": "RAM capacity",
+        "characteristicNameId": 68,
         "value": "128 GB"
       },
       {
-        "name": "Memory frequency",
+        "characteristicNameId": 69,
         "value": "6400 MHz"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Supported memory",
+        "characteristicNameId": 70,
         "value": "DDR5"
       },
       {
-        "name": "Built-in Wi-Fi",
+        "characteristicNameId": 71,
         "value": "No"
       }
     ]
@@ -299,45 +299,45 @@
     "quantity": 10,
     "description": "Motherboard ASROCK B650E Steel Legend WiFi, Socket AM5, ATX, 4xDDR5",
     "warranty": 36,
-    "manufacturer": "ASRock",
+    "manufacturerId": 26,
     "model": "B650E Steel Legend WiFi",
     "referenceNumber": "ASROCK-B650E-STEEL-SERIES-WIFI",
-    "category": "Motherboard",
+    "categoryId": 7,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "AMD AM5"
       },
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "ATX"
       },
       {
-        "name": "Chipset",
+        "characteristicNameId": 66,
         "value": "AMD B650"
       },
       {
-        "name": "Number of memory slots",
+        "characteristicNameId": 67,
         "value": "4"
       },
       {
-        "name": "RAM capacity",
+        "characteristicNameId": 68,
         "value": "128 GB"
       },
       {
-        "name": "Memory frequency",
+        "characteristicNameId": 69,
         "value": "6400 MHz"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "Yes"
       },
       {
-        "name": "Supported memory",
+        "characteristicNameId": 70,
         "value": "DDR5"
       },
       {
-        "name": "Built-in Wi-Fi",
+        "characteristicNameId": 71,
         "value": "Yes"
       }
     ]
@@ -348,45 +348,45 @@
     "quantity": 10,
     "description": "Motherboard ASUS Prime X570-Pro socket AM4, 4xDDR4, Aura Sync, PCIe 4.0",
     "warranty": 36,
-    "manufacturer": "ASUS",
+    "manufacturerId": 1,
     "model": "Prime X570-Pro",
     "referenceNumber": "ASUS-PRIME-X570-PRO",
-    "category": "Motherboard",
+    "categoryId": 7,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "AMD AM4"
       },
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "ATX"
       },
       {
-        "name": "Chipset",
+        "characteristicNameId": 66,
         "value": "AMD X570"
       },
       {
-        "name": "Number of memory slots",
+        "characteristicNameId": 67,
         "value": "4"
       },
       {
-        "name": "RAM capacity",
+        "characteristicNameId": 68,
         "value": "128 GB"
       },
       {
-        "name": "Memory frequency",
+        "characteristicNameId": 69,
         "value": "4400 MHz"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "Yes"
       },
       {
-        "name": "Supported memory",
+        "characteristicNameId": 70,
         "value": "DDR4"
       },
       {
-        "name": "Built-in Wi-Fi",
+        "characteristicNameId": 71,
         "value": "No"
       }
     ]
@@ -397,45 +397,45 @@
     "quantity": 10,
     "description": "Motherboard GIGABYTE H410M S2H 1.0, Socket 1200 (400 Series), 2 x DDR4",
     "warranty": 36,
-    "manufacturer": "Gigabyte",
+    "manufacturerId": 15,
     "model": "H410M S2H 1.0",
     "referenceNumber": "GIGABYTE-H410M-S2H-1.0",
-    "category": "Motherboard",
+    "categoryId": 7,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "Intel 1200"
       },
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Micro ATX"
       },
       {
-        "name": "Chipset",
+        "characteristicNameId": 66,
         "value": "Intel H410"
       },
       {
-        "name": "Number of memory slots",
+        "characteristicNameId": 67,
         "value": "2"
       },
       {
-        "name": "RAM capacity",
+        "characteristicNameId": 68,
         "value": "64 GB"
       },
       {
-        "name": "Memory frequency",
+        "characteristicNameId": 69,
         "value": "2933 MHz"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Supported memory",
+        "characteristicNameId": 70,
         "value": "DDR4"
       },
       {
-        "name": "Built-in Wi-Fi",
+        "characteristicNameId": 71,
         "value": "No"
       }
     ]
@@ -446,45 +446,45 @@
     "quantity": 10,
     "description": "Motherboard GIGABYTE H510M-K V2, socket 1200, Micro ATX",
     "warranty": 36,
-    "manufacturer": "Gigabyte",
+    "manufacturerId": 15,
     "model": "H510M-K V2",
     "referenceNumber": "GIGABYTE-H510M-K-V2",
-    "category": "Motherboard",
+    "categoryId": 7,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "Intel 1200"
       },
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Micro ATX"
       },
       {
-        "name": "Chipset",
+        "characteristicNameId": 66,
         "value": "Intel H510"
       },
       {
-        "name": "Number of memory slots",
+        "characteristicNameId": 67,
         "value": "2"
       },
       {
-        "name": "RAM capacity",
+        "characteristicNameId": 68,
         "value": "64 GB"
       },
       {
-        "name": "Memory frequency",
+        "characteristicNameId": 69,
         "value": "3200 MHz"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Supported memory",
+        "characteristicNameId": 70,
         "value": "DDR4"
       },
       {
-        "name": "Built-in Wi-Fi",
+        "characteristicNameId": 71,
         "value": "No"
       }
     ]
@@ -495,45 +495,45 @@
     "quantity": 10,
     "description": "Motherboard GIGABYTE B760M GAMING, socket 1700, ATX 2xDDR4, PCIe 4.0",
     "warranty": 36,
-    "manufacturer": "Gigabyte",
+    "manufacturerId": 15,
     "model": "B760M GAMING",
     "referenceNumber": "GIGABYTE-B760M-GAMING",
-    "category": "Motherboard",
+    "categoryId": 7,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "Intel 1700"
       },
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Micro ATX"
       },
       {
-        "name": "Chipset",
+        "characteristicNameId": 66,
         "value": "Intel B760"
       },
       {
-        "name": "Number of memory slots",
+        "characteristicNameId": 67,
         "value": "2"
       },
       {
-        "name": "RAM capacity",
+        "characteristicNameId": 68,
         "value": "64 GB"
       },
       {
-        "name": "Memory frequency",
+        "characteristicNameId": 69,
         "value": "5333 MHz"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Supported memory",
+        "characteristicNameId": 70,
         "value": "DDR4"
       },
       {
-        "name": "Built-in Wi-Fi",
+        "characteristicNameId": 71,
         "value": "No"
       }
     ]
@@ -544,45 +544,45 @@
     "quantity": 10,
     "description": "Motherboard ASUS PRIME H670-PLUS D4, LGA 1700 ATX, 4x DDR4, 3x M.2, Aura Sync RGB",
     "warranty": 36,
-    "manufacturer": "ASUS",
+    "manufacturerId": 1,
     "model": "PRIME H670-PLUS D4",
     "referenceNumber": "ASUS-PRIME-H670-PLUS-D4",
-    "category": "Motherboard",
+    "categoryId": 7,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "Intel 1700"
       },
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "ATX"
       },
       {
-        "name": "Chipset",
+        "characteristicNameId": 66,
         "value": "Intel H670"
       },
       {
-        "name": "Number of memory slots",
+        "characteristicNameId": 67,
         "value": "4"
       },
       {
-        "name": "RAM capacity",
+        "characteristicNameId": 68,
         "value": "128 GB"
       },
       {
-        "name": "Memory frequency",
+        "characteristicNameId": 69,
         "value": "5066 MHz"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Supported memory",
+        "characteristicNameId": 70,
         "value": "DDR4"
       },
       {
-        "name": "Built-in Wi-Fi",
+        "characteristicNameId": 71,
         "value": "No"
       }
     ]
@@ -593,45 +593,45 @@
     "quantity": 10,
     "description": "Motherboard ASUS ROG STRIX B660-A GAMING WIFI D4, LGA 1700 ATX, 4x DDR4, WiFi 6, 3x M.2, Aura Sync RGB",
     "warranty": 36,
-    "manufacturer": "ASUS",
+    "manufacturerId": 1,
     "model": "ROG STRIX B660-A GAMING WIFI D4",
     "referenceNumber": "ASUS-ROG-STRIX-B660-A-GAMING-WIFI-D4",
-    "category": "Motherboard",
+    "categoryId": 7,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "Intel 1700"
       },
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "ATX"
       },
       {
-        "name": "Chipset",
+        "characteristicNameId": 66,
         "value": "Intel B660"
       },
       {
-        "name": "Number of memory slots",
+        "characteristicNameId": 67,
         "value": "4"
       },
       {
-        "name": "RAM capacity",
+        "characteristicNameId": 68,
         "value": "128 GB"
       },
       {
-        "name": "Memory frequency",
+        "characteristicNameId": 69,
         "value": "5333 MHz"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "Yes"
       },
       {
-        "name": "Supported memory",
+        "characteristicNameId": 70,
         "value": "DDR4"
       },
       {
-        "name": "Built-in Wi-Fi",
+        "characteristicNameId": 71,
         "value": "Yes"
       }
     ]
@@ -642,45 +642,45 @@
     "quantity": 10,
     "description": "Motherboard MSI Z590 PRO, 4xDDR4, Socket 1200",
     "warranty": 36,
-    "manufacturer": "MSI",
+    "manufacturerId": 28,
     "model": "Z590 PRO",
     "referenceNumber": "MSI-Z590-PRO",
-    "category": "Motherboard",
+    "categoryId": 7,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "Intel 1200"
       },
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "ATX"
       },
       {
-        "name": "Chipset",
+        "characteristicNameId": 66,
         "value": "Intel Z590"
       },
       {
-        "name": "Number of memory slots",
+        "characteristicNameId": 67,
         "value": "4"
       },
       {
-        "name": "RAM capacity",
+        "characteristicNameId": 68,
         "value": "128 GB"
       },
       {
-        "name": "Memory frequency",
+        "characteristicNameId": 69,
         "value": "5333 MHz"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "No"
       },
       {
-        "name": "Supported memory",
+        "characteristicNameId": 70,
         "value": "DDR4"
       },
       {
-        "name": "Built-in Wi-Fi",
+        "characteristicNameId": 71,
         "value": "No"
       }
     ]
@@ -691,45 +691,45 @@
     "quantity": 10,
     "description": "Motherboard ASROCK Z790 PRO RS, LGA 1700, DDR5, PCIe 5.0",
     "warranty": 36,
-    "manufacturer": "ASRock",
+    "manufacturerId": 26,
     "model": "Z790 PRO RS",
     "referenceNumber": "ASROCK-Z790-PRO-RS",
-    "category": "Motherboard",
+    "categoryId": 7,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "Intel 1700"
       },
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "ATX"
       },
       {
-        "name": "Chipset",
+        "characteristicNameId": 66,
         "value": "Intel Z790"
       },
       {
-        "name": "Number of memory slots",
+        "characteristicNameId": 67,
         "value": "4"
       },
       {
-        "name": "RAM capacity",
+        "characteristicNameId": 68,
         "value": "128 GB"
       },
       {
-        "name": "Memory frequency",
+        "characteristicNameId": 69,
         "value": "6800 MHz"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "Yes"
       },
       {
-        "name": "Supported memory",
+        "characteristicNameId": 70,
         "value": "DDR5"
       },
       {
-        "name": "Built-in Wi-Fi",
+        "characteristicNameId": 71,
         "value": "No"
       }
     ]
@@ -740,45 +740,45 @@
     "quantity": 10,
     "description": "Motherboard ASROCK Z790 TAICHI Wi-Fi 6E, LGA 1700, DDR5, PCIe 5.0",
     "warranty": 36,
-    "manufacturer": "ASRock",
+    "manufacturerId": 26,
     "model": "Z790 TAICHI Wi-Fi 6E",
     "referenceNumber": "ASROCK-Z790-TAICHI",
-    "category": "Motherboard",
+    "categoryId": 7,
     "characteristics": [
       {
-        "name": "Socket",
+        "characteristicNameId": 23,
         "value": "Intel 1700"
       },
       {
-        "name": "Form Factor",
+        "characteristicNameId": 1,
         "value": "Extended ATX"
       },
       {
-        "name": "Chipset",
+        "characteristicNameId": 66,
         "value": "Intel Z790"
       },
       {
-        "name": "Number of memory slots",
+        "characteristicNameId": 67,
         "value": "4"
       },
       {
-        "name": "RAM capacity",
+        "characteristicNameId": 68,
         "value": "128 GB"
       },
       {
-        "name": "Memory frequency",
+        "characteristicNameId": 69,
         "value": "7000 MHz"
       },
       {
-        "name": "Backlight",
+        "characteristicNameId": 28,
         "value": "Yes"
       },
       {
-        "name": "Supported memory",
+        "characteristicNameId": 70,
         "value": "DDR5"
       },
       {
-        "name": "Built-in Wi-Fi",
+        "characteristicNameId": 71,
         "value": "Yes"
       }
     ]

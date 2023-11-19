@@ -19,8 +19,8 @@
         [JsonProperty("warranty")]
         public int Warranty { get; set; }
 
-        [JsonProperty("manufacturer")]
-        public string Manufacturer { get; set; } = null!;
+        [JsonProperty("manufacturerId")]
+        public int ManufacturerId { get; set; }
 
         [JsonProperty("model")]
         public string Model { get; set; } = null!;
@@ -28,8 +28,8 @@
         [JsonProperty("referenceNumber")]
         public string ReferenceNumber { get; set; } = null!;
 
-        [JsonProperty("category")]
-        public string Category { get; set; } = null!;
+        [JsonProperty("categoryId")]
+        public int CategoryId { get; set; }
 
         [JsonProperty("characteristics")]
         public IEnumerable<CharacteristicDto> Characteristics { get; set; } = null!;

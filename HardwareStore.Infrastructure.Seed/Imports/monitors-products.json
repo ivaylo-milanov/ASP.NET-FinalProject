@@ -5,114 +5,114 @@
     "quantity": 10,
     "description": "With 1ms GTG response time, 75Hz refresh rate, dynamic ratio and HDMI connectivity, BenQ's GL2480 LED gaming monitor brings you every detail of the image with the best viewing quality.",
     "warranty": 36,
-    "manufacturer": "BenQ",
+    "manufacturerId": 22,
     "model": "GL2480",
     "referenceNumber": "BENQ-GL2480",
-    "category": "Monitor",
+    "categoryId": 5,
     "characteristics": [
       {
-        "name": "Screen size",
+        "characteristicNameId": 55,
         "value": "24 inch"
       },
       {
-        "name": "Resolution",
+        "characteristicNameId": 56,
         "value": "1920 x 1080"
       },
       {
-        "name": "Matrix",
+        "characteristicNameId": 57,
         "value": "TN"
       },
       {
-        "name": "Refresh rate",
+        "characteristicNameId": 58,
         "value": "75 Hz"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Ports",
+        "characteristicNameId": 60,
         "value": "D-Sub (VGA), 3.5mm Audio jack, DVI, HDMI"
       },
       {
-        "name": "Stand adjustment",
+        "characteristicNameId": 61,
         "value": "No"
       },
       {
-        "name": "Touch screen",
+        "characteristicNameId": 62,
         "value": "No"
       },
       {
-        "name": "VESA",
+        "characteristicNameId": 63,
         "value": "Yes"
       },
       {
-        "name": "Brightness",
+        "characteristicNameId": 64,
         "value": "250 cd/㎡"
       }
     ]
   },
   {
-    "name": "ASUS TUF GAMING VG246H1A",
+    "namevvv": "ASUS TUF GAMING VG246H1A",
     "price": 309.00,
     "quantity": 10,
     "description": "Monitor ASUS TUF GAMING VG246H1A 23.8\" IPS Full HD 1920 x 1080, Frameless, 0.5 ms MPRT, 100Hz FreeSync, ELMB",
     "warranty": 36,
-    "manufacturer": "ASUS",
+    "manufacturerId": 1,
     "model": "TUF GAMING VG246H1A",
     "referenceNumber": "ASUS-TUF-GAMING-VG246H1A",
-    "category": "Monitor",
+    "categoryId": 5,
     "characteristics": [
       {
-        "name": "Screen size",
+        "characteristicNameId": 55,
         "value": "23.8 inch"
       },
       {
-        "name": "Resolution",
+        "characteristicNameId": 56,
         "value": "1920 x 1080"
       },
       {
-        "name": "Matrix",
+        "characteristicNameId": 57,
         "value": "IPS"
       },
       {
-        "name": "Refresh rate",
+        "characteristicNameId": 58,
         "value": "100 Hz"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Ports",
+        "characteristicNameId": 60,
         "value": "3.5mm Audio jack, HDMI"
       },
       {
-        "name": "Technology",
+        "characteristicNameId": 65,
         "value": "FreeSync"
       },
       {
-        "name": "Stand adjustment",
+        "characteristicNameId": 61,
         "value": "No"
       },
       {
-        "name": "Touch screen",
+        "characteristicNameId": 62,
         "value": "No"
       },
       {
-        "name": "VESA",
+        "characteristicNameId": 63,
         "value": "Yes"
       },
       {
-        "name": "Brightness",
+        "characteristicNameId": 64,
         "value": "300 cd/㎡"
       }
     ]
@@ -123,57 +123,57 @@
     "quantity": 10,
     "description": "Minimalist design for maximum concentration. The frameless display on 3 sides gives a modern and uncluttered aesthetic touch to any work environment.",
     "warranty": 36,
-    "manufacturer": "Samsung",
+    "manufacturerId": 17,
     "model": "S31C",
     "referenceNumber": "SAMSUNG-S31C-27",
-    "category": "Monitor",
+    "categoryId": 5,
     "characteristics": [
       {
-        "name": "Screen size",
+        "characteristicNameId": 55,
         "value": "27 inch"
       },
       {
-        "name": "Resolution",
+        "characteristicNameId": 56,
         "value": "1920 x 1080"
       },
       {
-        "name": "Matrix",
+        "characteristicNameId": 57,
         "value": "IPS"
       },
       {
-        "name": "Refresh rate",
+        "characteristicNameId": 58,
         "value": "75 Hz"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "5 ms"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Ports",
+        "characteristicNameId": 60,
         "value": "D-Sub (VGA), HDMI"
       },
       {
-        "name": "Technology",
+        "characteristicNameId": 65,
         "value": "FreeSync"
       },
       {
-        "name": "Stand adjustment",
+        "characteristicNameId": 61,
         "value": "No"
       },
       {
-        "name": "Touch screen",
+        "characteristicNameId": 62,
         "value": "No"
       },
       {
-        "name": "VESA",
+        "characteristicNameId": 63,
         "value": "Yes"
       },
       {
-        "name": "Brightness",
+        "characteristicNameId": 64,
         "value": "250 cd/㎡"
       }
     ]
@@ -184,57 +184,57 @@
     "quantity": 10,
     "description": "Monitor 24\" Samsung 24AG320 Odyssey - LS24AG320NUXEN",
     "warranty": 36,
-    "manufacturer": "Samsung",
+    "manufacturerId": 17,
     "model": "24AG320 ODYSSEY G3",
     "referenceNumber": "SAMSING-24AG320-ODYSSEY-G3",
-    "category": "Monitor",
+    "categoryId": 5,
     "characteristics": [
       {
-        "name": "Screen size",
+        "characteristicNameId": 55,
         "value": "24 inch"
       },
       {
-        "name": "Resolution",
+        "characteristicNameId": 56,
         "value": "1920 x 1080"
       },
       {
-        "name": "Matrix",
+        "characteristicNameId": 57,
         "value": "VA"
       },
       {
-        "name": "Refresh rate",
+        "characteristicNameId": 58,
         "value": "165 Hz"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Ports",
+        "characteristicNameId": 60,
         "value": "3.5mm Audio jack, HDMI, Display Port"
       },
       {
-        "name": "Technology",
+        "characteristicNameId": 65,
         "value": "FreeSync"
       },
       {
-        "name": "Stand adjustment",
+        "characteristicNameId": 61,
         "value": "Yes"
       },
       {
-        "name": "Touch screen",
+        "characteristicNameId": 62,
         "value": "No"
       },
       {
-        "name": "VESA",
+        "characteristicNameId": 63,
         "value": "Yes"
       },
       {
-        "name": "Brightness",
+        "characteristicNameId": 64,
         "value": "250 cd/㎡"
       }
     ]
@@ -245,57 +245,57 @@
     "quantity": 10,
     "description": "Monitor 32\" LG 32MP60G-B",
     "warranty": 36,
-    "manufacturer": "LG",
+    "manufacturerId": 23,
     "model": "32MP60G-B",
     "referenceNumber": "LG-32MP60G-B",
-    "category": "Monitor",
+    "categoryId": 5,
     "characteristics": [
       {
-        "name": "Screen size",
+        "characteristicNameId": 55,
         "value": "31.5 inch"
       },
       {
-        "name": "Resolution",
+        "characteristicNameId": 56,
         "value": "1920 x 1080"
       },
       {
-        "name": "Matrix",
+        "characteristicNameId": 57,
         "value": "IPS"
       },
       {
-        "name": "Refresh rate",
+        "characteristicNameId": 58,
         "value": "75 Hz"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "5 ms"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Ports",
+        "characteristicNameId": 60,
         "value": "D-Sub (VGA), 3.5mm Audio jack, HDMI, Display Port"
       },
       {
-        "name": "Technology",
+        "characteristicNameId": 65,
         "value": "FreeSync"
       },
       {
-        "name": "Stand adjustment",
+        "characteristicNameId": 61,
         "value": "No"
       },
       {
-        "name": "Touch screen",
+        "characteristicNameId": 62,
         "value": "No"
       },
       {
-        "name": "VESA",
+        "characteristicNameId": 63,
         "value": "Yes"
       },
       {
-        "name": "Brightness",
+        "characteristicNameId": 64,
         "value": "300 cd/㎡"
       }
     ]
@@ -306,53 +306,53 @@
     "quantity": 10,
     "description": "The new generation of the XL series is already a fact! DyAc technology can now be with you at a much more affordable price, and in addition - an improved stand, smoother movements and software for easier control of monitor settings.",
     "warranty": 36,
-    "manufacturer": "ZOWIE",
+    "manufacturerId": 25,
     "model": "XL2411K",
     "referenceNumber": "ZOWIE-XL2411K",
-    "category": "Monitor",
+    "categoryId": 5,
     "characteristics": [
       {
-        "name": "Screen size",
+        "characteristicNameId": 55,
         "value": "24 inch"
       },
       {
-        "name": "Resolution",
+        "characteristicNameId": 56,
         "value": "1920 x 1080"
       },
       {
-        "name": "Matrix",
+        "characteristicNameId": 57,
         "value": "TN"
       },
       {
-        "name": "Refresh rate",
+        "characteristicNameId": 58,
         "value": "144 Hz"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Ports",
+        "characteristicNameId": 60,
         "value": "3.5mm Audio jack, HDMI, Display Port"
       },
       {
-        "name": "Stand adjustment",
+        "characteristicNameId": 61,
         "value": "Yes"
       },
       {
-        "name": "Touch screen",
+        "characteristicNameId": 62,
         "value": "No"
       },
       {
-        "name": "VESA",
+        "characteristicNameId": 63,
         "value": "Yes"
       },
       {
-        "name": "Brightness",
+        "characteristicNameId": 64,
         "value": "320 cd/㎡"
       }
     ]
@@ -363,53 +363,53 @@
     "quantity": 10,
     "description": "Gaming Monitor Gigabyte M27F-A SS IPS, 1920 x 1080 (FHD), KVM, 165hz, 1ms",
     "warranty": 36,
-    "manufacturer": "Gigabyte",
+    "manufacturerId": 15,
     "model": "M27F A",
     "referenceNumber": "GIGABYTE-M27F-A",
-    "category": "Monitor",
+    "categoryId": 5,
     "characteristics": [
       {
-        "name": "Screen size",
+        "characteristicNameId": 55,
         "value": "27 inch"
       },
       {
-        "name": "Resolution",
+        "characteristicNameId": 56,
         "value": "1920 x 1080"
       },
       {
-        "name": "Matrix",
+        "characteristicNameId": 57,
         "value": "IPS"
       },
       {
-        "name": "Refresh rate",
+        "characteristicNameId": 58,
         "value": "165 Hz"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Ports",
+        "characteristicNameId": 60,
         "value": "3.5mm Audio jack, HDMI, Display Port, USB-A, USB-C"
       },
       {
-        "name": "Stand adjustment",
+        "characteristicNameId": 61,
         "value": "No"
       },
       {
-        "name": "Touch screen",
+        "characteristicNameId": 62,
         "value": "No"
       },
       {
-        "name": "VESA",
+        "characteristicNameId": 63,
         "value": "Yes"
       },
       {
-        "name": "Brightness",
+        "characteristicNameId": 64,
         "value": "400 cd/㎡"
       }
     ]
@@ -420,57 +420,57 @@
     "quantity": 10,
     "description": "Gaming Monitor ASRock PG32QF2B 32\" QHD (2560X1440) Flat VA, 165Hz, 1ms , 92% DCI-P3 , 2xHDMI, 1xDP, WiFi Antena, Freesync Premium",
     "warranty": 36,
-    "manufacturer": "ASRock",
+    "manufacturerId": 26,
     "model": "PG32QF2B",
     "referenceNumber": "ASROCK-PG32QF2B",
-    "category": "Monitor",
+    "categoryId": 5,
     "characteristics": [
       {
-        "name": "Screen size",
+        "characteristicNameId": 55,
         "value": "31.5 inch"
       },
       {
-        "name": "Resolution",
+        "characteristicNameId": 56,
         "value": "2560 x 1440"
       },
       {
-        "name": "Matrix",
+        "characteristicNameId": 57,
         "value": "VA"
       },
       {
-        "name": "Refresh rate",
+        "characteristicNameId": 58,
         "value": "165 Hz"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Ports",
+        "characteristicNameId": 60,
         "value": "3.5mm Audio jack, HDMI, Display Port"
       },
       {
-        "name": "Technology",
+        "characteristicNameId": 65,
         "value": "FreeSync"
       },
       {
-        "name": "Stand adjustment",
+        "characteristicNameId": 61,
         "value": "Yes"
       },
       {
-        "name": "Touch screen",
+        "characteristicNameId": 62,
         "value": "No"
       },
       {
-        "name": "VESA",
+        "characteristicNameId": 63,
         "value": "Yes"
       },
       {
-        "name": "Brightness",
+        "characteristicNameId": 64,
         "value": "550 cd/㎡"
       }
     ]
@@ -481,53 +481,53 @@
     "quantity": 10,
     "description": "Gaming monitor ROG Strix XG249CM – 23.8\" inches Full HD (1920 x 1080), 270Hz, 1ms GTG, Extreme Low Motion Blur Sync, 105% sRGB, FreeSync Premium, HDR",
     "warranty": 36,
-    "manufacturer": "ASUS",
+    "manufacturerId": 1,
     "model": "ROG Strix XG249CM",
     "referenceNumber": "ASUS-ROG-STRIX-XG249CM",
-    "category": "Monitor",
+    "categoryId": 5,
     "characteristics": [
       {
-        "name": "Screen size",
+        "characteristicNameId": 55,
         "value": "23.8 inch"
       },
       {
-        "name": "Resolution",
+        "characteristicNameId": 56,
         "value": "1920 x 1080"
       },
       {
-        "name": "Matrix",
+        "characteristicNameId": 57,
         "value": "IPS"
       },
       {
-        "name": "Refresh rate",
+        "characteristicNameId": 58,
         "value": "270 Hz"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Ports",
+        "characteristicNameId": 60,
         "value": "3.5mm Audio jack, HDMI, Display Port, USB-A, USB-C"
       },
       {
-        "name": "Stand adjustment",
+        "characteristicNameId": 61,
         "value": "Yes"
       },
       {
-        "name": "Touch screen",
+        "characteristicNameId": 62,
         "value": "No"
       },
       {
-        "name": "VESA",
+        "characteristicNameId": 63,
         "value": "Yes"
       },
       {
-        "name": "Brightness",
+        "characteristicNameId": 64,
         "value": "350 cd/㎡"
       }
     ]
@@ -538,57 +538,57 @@
     "quantity": 10,
     "description": "Monitor HyperX ARMADA 25 240Hz, IPS, 24.5 inch, Wide, Full HD, HDMI, DP, Black",
     "warranty": 36,
-    "manufacturer": "HyperX",
+    "manufacturerId": 11,
     "model": "ARMADA 25\"",
     "referenceNumber": "HYPERX-ARMADA-25",
-    "category": "Monitor",
+    "categoryId": 5,
     "characteristics": [
       {
-        "name": "Screen size",
+        "characteristicNameId": 55,
         "value": "24.5 inch"
       },
       {
-        "name": "Resolution",
+        "characteristicNameId": 56,
         "value": "1920 x 1080"
       },
       {
-        "name": "Matrix",
+        "characteristicNameId": 57,
         "value": "IPS"
       },
       {
-        "name": "Refresh rate",
+        "characteristicNameId": 58,
         "value": "240 Hz"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Ports",
+        "characteristicNameId": 60,
         "value": "HDMI, Display Port"
       },
       {
-        "name": "Technology",
+        "characteristicNameId": 65,
         "value": "G-Sync"
       },
       {
-        "name": "Stand adjustment",
+        "characteristicNameId": 61,
         "value": "Yes"
       },
       {
-        "name": "Touch screen",
+        "characteristicNameId": 62,
         "value": "No"
       },
       {
-        "name": "VESA",
+        "characteristicNameId": 63,
         "value": "Yes"
       },
       {
-        "name": "Brightness",
+        "characteristicNameId": 64,
         "value": "400 cd/㎡"
       }
     ]
@@ -599,53 +599,53 @@
     "quantity": 10,
     "description": "Monitor ASUS ProArt PA278QV Professional 27\" IPS, WQHD (2560 x 1440), 100% sRGB, 100% Rec. 709, Color Accuracy ΔE < 2, Calman Verified, ProArt Preset, ProArt Palette",
     "warranty": 36,
-    "manufacturer": "ASUS",
+    "manufacturerId": 1,
     "model": "ProArt PA278QV",
     "referenceNumber": "ASUS-PROART-PA278QV",
-    "category": "Monitor",
+    "categoryId": 5,
     "characteristics": [
       {
-        "name": "Screen size",
+        "characteristicNameId": 55,
         "value": "27 inch"
       },
       {
-        "name": "Resolution",
+        "characteristicNameId": 56,
         "value": "2560 x 1440"
       },
       {
-        "name": "Matrix",
+        "characteristicNameId": 57,
         "value": "IPS"
       },
       {
-        "name": "Refresh rate",
+        "characteristicNameId": 58,
         "value": "60 Hz"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "5 ms"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Ports",
+        "characteristicNameId": 60,
         "value": "3.5mm Audio jack, DVI, HDMI, Display Port, USB-A, Mini Display Port"
       },
       {
-        "name": "Stand adjustment",
+        "characteristicNameId": 61,
         "value": "Yes"
       },
       {
-        "name": "Touch screen",
+        "characteristicNameId": 62,
         "value": "No"
       },
       {
-        "name": "VESA",
+        "characteristicNameId": 63,
         "value": "Yes"
       },
       {
-        "name": "Brightness",
+        "characteristicNameId": 64,
         "value": "300 cd/㎡"
       }
     ]
@@ -656,53 +656,53 @@
     "quantity": 10,
     "description": "Monitor EIZO FlexScan EV2460, IPS, 23.8\" inch, Wide, Full HD, D-Sub, DVI, HDMI, DisplayPort, USB Hub, Black",
     "warranty": 36,
-    "manufacturer": "EIZO",
+    "manufacturerId": 24,
     "model": "FlexScan EV2460",
     "referenceNumber": "EIZO-FLEXSCAN-EV2460",
-    "category": "Monitor",
+    "categoryId": 5,
     "characteristics": [
       {
-        "name": "Screen size",
+        "characteristicNameId": 55,
         "value": "23.8 inch"
       },
       {
-        "name": "Resolution",
+        "characteristicNameId": 56,
         "value": "1920 x 1080"
       },
       {
-        "name": "Matrix",
+        "characteristicNameId": 57,
         "value": "IPS"
       },
       {
-        "name": "Refresh rate",
+        "characteristicNameId": 58,
         "value": "60 Hz"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "5 ms"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Ports",
+        "characteristicNameId": 60,
         "value": "3.5mm Audio jack, DVI, HDMI, Display Port, USB-A"
       },
       {
-        "name": "Stand adjustment",
+        "characteristicNameId": 61,
         "value": "Yes"
       },
       {
-        "name": "Touch screen",
+        "characteristicNameId": 62,
         "value": "No"
       },
       {
-        "name": "VESA",
+        "characteristicNameId": 63,
         "value": "Yes"
       },
       {
-        "name": "Brightness",
+        "characteristicNameId": 64,
         "value": "250 cd/㎡"
       }
     ]
@@ -713,53 +713,53 @@
     "quantity": 10,
     "description": "NEC MultiSync EA271F monitor",
     "warranty": 36,
-    "manufacturer": "NEC",
+    "manufacturerId": 27,
     "model": "EA271F",
     "referenceNumber": "NEC-EA271F",
-    "category": "Monitor",
+    "categoryId": 5,
     "characteristics": [
       {
-        "name": "Screen size",
+        "characteristicNameId": 55,
         "value": "27 inch"
       },
       {
-        "name": "Resolution",
+        "characteristicNameId": 56,
         "value": "1920 x 1080"
       },
       {
-        "name": "Matrix",
+        "characteristicNameId": 57,
         "value": "IPS"
       },
       {
-        "name": "Refresh rate",
+        "characteristicNameId": 58,
         "value": "60 Hz"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "6 ms"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Ports",
+        "characteristicNameId": 60,
         "value": "D-Sub (VGA), 3.5mm Audio jack, DVI, HDMI, Display Port, USB-A"
       },
       {
-        "name": "Stand adjustment",
+        "characteristicNameId": 61,
         "value": "Yes"
       },
       {
-        "name": "Touch screen",
+        "characteristicNameId": 62,
         "value": "No"
       },
       {
-        "name": "VESA",
+        "characteristicNameId": 63,
         "value": "Yes"
       },
       {
-        "name": "Brightness",
+        "characteristicNameId": 64,
         "value": "250 cd/㎡"
       }
     ]
@@ -770,53 +770,53 @@
     "quantity": 10,
     "description": "Monitor ASUS ZenScreen MQ16AH – 15.6\", FHD (1920 x 1080) OLED, 1ms, USB-C, Mini HDMI, HDR-10",
     "warranty": 36,
-    "manufacturer": "ASUS",
+    "manufacturerId": 1,
     "model": "ZENSCREEN OLED MQ16AH",
     "referenceNumber": "ASUS-ZENSCREEN-OLED-MQ16AH",
-    "category": "Monitor",
+    "categoryId": 5,
     "characteristics": [
       {
-        "name": "Screen size",
+        "characteristicNameId": 55,
         "value": "15.6 inch"
       },
       {
-        "name": "Resolution",
+        "characteristicNameId": 56,
         "value": "1920 x 1080"
       },
       {
-        "name": "Matrix",
+        "characteristicNameId": 57,
         "value": "OLED"
       },
       {
-        "name": "Refresh rate",
+        "characteristicNameId": 58,
         "value": "60 Hz"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "1 ms"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Grey"
       },
       {
-        "name": "Ports",
+        "characteristicNameId": 60,
         "value": "USB-C, Mini HDMI"
       },
       {
-        "name": "Stand adjustment",
+        "characteristicNameId": 61,
         "value": "No"
       },
       {
-        "name": "Touch screen",
+        "characteristicNameId": 62,
         "value": "No"
       },
       {
-        "name": "VESA",
+        "characteristicNameId": 63,
         "value": "No"
       },
       {
-        "name": "Brightness",
+        "characteristicNameId": 64,
         "value": "360 cd/㎡"
       }
     ]
@@ -827,53 +827,53 @@
     "quantity": 10,
     "description": "Monitor ZOWIE XL2746K 240Hz DyAc+™, TN, 27 inch, Wide, Full HD, DP, DVI-DL, HDMI, Black",
     "warranty": 36,
-    "manufacturer": "ZOWIE",
+    "manufacturerId": 25,
     "model": "XL2746K",
     "referenceNumber": "ZOWIE-XL2746K",
-    "category": "Monitor",
+    "categoryId": 5,
     "characteristics": [
       {
-        "name": "Screen size",
+        "characteristicNameId": 55,
         "value": "27 inch"
       },
       {
-        "name": "Resolution",
+        "characteristicNameId": 56,
         "value": "1920 x 1080"
       },
       {
-        "name": "Matrix",
+        "characteristicNameId": 57,
         "value": "TN"
       },
       {
-        "name": "Refresh rate",
+        "characteristicNameId": 58,
         "value": "240 Hz"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "0.5 ms"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Ports",
+        "characteristicNameId": 60,
         "value": "3.5mm Audio jack, HDMI, Display Port"
       },
       {
-        "name": "Stand adjustment",
+        "characteristicNameId": 61,
         "value": "Yes"
       },
       {
-        "name": "Touch screen",
+        "characteristicNameId": 62,
         "value": "No"
       },
       {
-        "name": "VESA",
+        "characteristicNameId": 63,
         "value": "Yes"
       },
       {
-        "name": "Brightness",
+        "characteristicNameId": 64,
         "value": "320 cd/㎡"
       }
     ]
@@ -884,57 +884,57 @@
     "quantity": 10,
     "description": "Monitor ASUS ROG Swift OLED PG27AQDM - 27 inch WQHD (2560 x 1440), OLED, 240Hz, 0.3ms, HDR10, G-SYNC Compatible",
     "warranty": 36,
-    "manufacturer": "ASUS",
+    "manufacturerId": 1,
     "model": "ROG Swift OLED PG27AQDM",
     "referenceNumber": "ASUS-ROG-SWIFT-OLED-PG27AQDM",
-    "category": "Monitor",
+    "categoryId": 5,
     "characteristics": [
       {
-        "name": "Screen size",
+        "characteristicNameId": 55,
         "value": "26.5"
       },
       {
-        "name": "Resolution",
+        "characteristicNameId": 56,
         "value": "2560 x 1440"
       },
       {
-        "name": "Matrix",
+        "characteristicNameId": 57,
         "value": "OLED"
       },
       {
-        "name": "Refresh rate",
+        "characteristicNameId": 58,
         "value": "240 Hz"
       },
       {
-        "name": "Reaction time",
+        "characteristicNameId": 59,
         "value": "0.03 ms"
       },
       {
-        "name": "Color",
+        "characteristicNameId": 5,
         "value": "Black"
       },
       {
-        "name": "Ports",
+        "characteristicNameId": 60,
         "value": "3.5mm Audio jack, HDMI, Display Port, USB-A"
       },
       {
-        "name": "Technology",
+        "characteristicNameId": 65,
         "value": "G-Sync"
       },
       {
-        "name": "Stand adjustment",
+        "characteristicNameId": 61,
         "value": "Yes"
       },
       {
-        "name": "Touch screen",
+        "characteristicNameId": 62,
         "value": "No"
       },
       {
-        "name": "VESA",
+        "characteristicNameId": 63,
         "value": "Yes"
       },
       {
-        "name": "Brightness",
+        "characteristicNameId": 64,
         "value": "450 cd/㎡"
       }
     ]

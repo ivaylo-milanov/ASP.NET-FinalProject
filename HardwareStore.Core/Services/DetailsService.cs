@@ -20,14 +20,19 @@
             this.repository = repository;
         }
 
-        public async Task<ProductDetailsModel> GetProductDetails(int productId)
+        public async Task<ProductDetailsModel> GetProductDetails(string productId)
         {
+            if (!Guid.TryParse(productId, out Guid guidProductId))
+            {
+
+            }
+
             var product = await this.repository
                 .All<Product>()
                 .Include(p => p.Manufacturer)
                 .Include(p => p.Characteristics)
                 .ThenInclude(p => p.CharacteristicName)
-                .Where(p => p.Id == productId)
+                .Where(p => p.Id == guidProductId)
                 .FirstOrDefaultAsync();
 
             if (product == null)
@@ -37,7 +42,7 @@
 
             var model = new ProductDetailsModel
             {
-                Id = product.Id,
+                Id = productId,
                 Price = product.Price,
                 Name = product.Name,
                 AddDate = product.AddDate,
@@ -57,8 +62,18 @@
             return model;
         }
 
-        public async Task<bool> IsProductInDbFavorites(string customerId, int productId)
+        public async Task<bool> IsProductInDbFavorites(string customerId, string productId)
         {
+            if (!Guid.TryParse(customerId, out Guid guidCustomerId))
+            {
+
+            }
+
+            if (!Guid.TryParse(productId, out Guid guidProductId))
+            {
+
+            }
+
             var customer = await this.repository.FindAsync<Customer>(customerId);
 
             if (customer == null)
@@ -66,17 +81,22 @@
                 throw new ArgumentNullException(ExceptionMessages.UserNotFound);
             }
 
-            if (!await this.repository.AnyAsync<Product>(p => p.Id == productId))
+            if (!await this.repository.AnyAsync<Product>(p => p.Id == guidProductId))
             {
                 throw new ArgumentNullException(ExceptionMessages.ProductNotFound);
             }
 
-            return await this.repository.AnyAsync<Favorite>(f => f.CustomerId == customerId && f.ProductId == productId);
+            return await this.repository.AnyAsync<Favorite>(f => f.CustomerId == guidCustomerId && f.ProductId == guidProductId);
         }
 
-        public async Task<bool> IsProductInSessionFavorites(ICollection<int> sessionFavorites, int productId)
+        public async Task<bool> IsProductInSessionFavorites(ICollection<string> sessionFavorites, string productId)
         {
-            if (!await this.repository.AnyAsync<Product>(p => p.Id == productId))
+            if (!Guid.TryParse(productId, out Guid guidProductId))
+            {
+
+            }
+
+            if (!await this.repository.AnyAsync<Product>(p => p.Id == guidProductId))
             {
                 throw new ArgumentNullException(ExceptionMessages.ProductNotFound);
             }
