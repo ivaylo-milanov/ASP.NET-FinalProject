@@ -1,6 +1,7 @@
 ﻿namespace HardwareStore.Core.Services
 {
     using HardwareStore.Common;
+    using HardwareStore.Core.Infrastructure.Exceptions;
     using HardwareStore.Core.Services.Contracts;
     using HardwareStore.Core.ViewModels.Favorite;
     using HardwareStore.Infrastructure.Common;
@@ -23,7 +24,7 @@
         {
             if (!Guid.TryParse(productId, out Guid guidProductId))
             {
-
+                throw new InvalidGuidFormatException();
             }
 
             var customer = await GetFavoritesCustomer(userId);
@@ -51,7 +52,7 @@
         {
             if (!Guid.TryParse(productId, out Guid guidProductId))
             {
-
+                throw new InvalidGuidFormatException();
             }
 
             if (!await this.repository.AnyAsync<Product>(p => p.Id == guidProductId))
@@ -73,7 +74,7 @@
 
             if (!Guid.TryParse(productId, out Guid guidProductId))
             {
-
+                throw new InvalidGuidFormatException();
             }
 
             if (!await this.repository.AnyAsync<Product>(p => p.Id == guidProductId))
@@ -94,7 +95,7 @@
         {
             if (!Guid.TryParse(productId, out Guid guidProductId))
             {
-
+                throw new InvalidGuidFormatException();
             }
 
             if (!await this.repository.AnyAsync<Product>(p => p.Id == guidProductId))
@@ -136,7 +137,7 @@
             {
                 if (!Guid.TryParse(favoriteId, out Guid guidProductId))
                 {
-
+                    throw new InvalidGuidFormatException();
                 }
 
                 var product = await this.repository.FindAsync<Product>(favoriteId);
@@ -163,7 +164,7 @@
         {
             if (!Guid.TryParse(userId, out Guid guidUserId))
             {
-
+                throw new InvalidGuidFormatException();
             }
 
             var customer = await this.repository

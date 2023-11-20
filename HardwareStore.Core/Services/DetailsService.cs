@@ -1,6 +1,7 @@
 ﻿namespace HardwareStore.Core.Services
 {
     using HardwareStore.Common;
+    using HardwareStore.Core.Infrastructure.Exceptions;
     using HardwareStore.Core.Services.Contracts;
     using HardwareStore.Core.ViewModels.Details;
     using HardwareStore.Core.ViewModels.Product;
@@ -24,7 +25,7 @@
         {
             if (!Guid.TryParse(productId, out Guid guidProductId))
             {
-
+                throw new InvalidGuidFormatException();
             }
 
             var product = await this.repository
@@ -66,12 +67,12 @@
         {
             if (!Guid.TryParse(customerId, out Guid guidCustomerId))
             {
-
+                throw new InvalidGuidFormatException();
             }
 
             if (!Guid.TryParse(productId, out Guid guidProductId))
             {
-
+                throw new InvalidGuidFormatException();
             }
 
             var customer = await this.repository.FindAsync<Customer>(customerId);
@@ -93,7 +94,7 @@
         {
             if (!Guid.TryParse(productId, out Guid guidProductId))
             {
-
+                throw new InvalidGuidFormatException();
             }
 
             if (!await this.repository.AnyAsync<Product>(p => p.Id == guidProductId))

@@ -1,6 +1,7 @@
 ﻿namespace HardwareStore.Core.Services
 {
     using HardwareStore.Common;
+    using HardwareStore.Core.Infrastructure.Exceptions;
     using HardwareStore.Core.Services.Contracts;
     using HardwareStore.Core.ViewModels.ShoppingCart;
     using HardwareStore.Infrastructure.Common;
@@ -15,19 +16,14 @@
         {
             this.repository = repository;
         }
-        private async Task AddToFavoritesAsync(string userId, ICollection<string> favorites)
-        {
-            if (!Guid.TryParse(userId, out Guid guidUserId))
-            {
-
-            }
-
+        private async Task AddToFavoritesAsync(Guid userId, ICollection<string> favorites)
+        { 
             ICollection<Favorite> dbFavorites = new List<Favorite>();
             foreach (var productId in favorites)
             {
                 if (!Guid.TryParse(productId, out Guid guidProductId))
                 {
-
+                    throw new InvalidGuidFormatException();
                 }
 
                 if (!await this.repository.AnyAsync<Product>(p => p.Id == guidProductId))
@@ -36,14 +32,14 @@
                 }
 
                 var existingFavorite = await this.repository
-                    .FirstOrDefaultAsync<Favorite>(f => f.ProductId == guidProductId && f.CustomerId == guidUserId);
+                    .FirstOrDefaultAsync<Favorite>(f => f.ProductId == guidProductId && f.CustomerId == userId);
 
                 if (existingFavorite == null)
                 {
                     var favoriteProduct = new Favorite
                     {
                         ProductId = guidProductId,
-                        CustomerId = guidUserId
+                        CustomerId = userId
                     };
 
                     dbFavorites.Add(favoriteProduct);
@@ -60,7 +56,7 @@
             {
                 if (!Guid.TryParse(item.ProductId, out Guid guidProductId))
                 {
-
+                    throw new InvalidGuidFormatException();
                 }
 
                 if (!await this.repository.AnyAsync<Product>(p => p.Id == guidProductId))
@@ -95,7 +91,7 @@
         {
             if (!Guid.TryParse(userId, out Guid guidUserId))
             {
-
+                throw new InvalidGuidFormatException();
             }
 
             if (!await this.repository.AnyAsync<Customer>(c => c.Id == guidUserId))
@@ -105,7 +101,7 @@
 
             if (favorites != null && favorites.Count > 0)
             {
-                await this.AddToFavoritesAsync(userId, favorites);
+                await this.AddToFavoritesAsync(guidUserId, favorites);
             }
 
             if (cart != null && cart.Count > 0)

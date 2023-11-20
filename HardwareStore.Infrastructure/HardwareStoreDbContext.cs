@@ -1,4 +1,4 @@
-﻿namespace HardwareStore.Infrastructure.Data
+﻿namespace HardwareStore.Infrastructure
 {
     using HardwareStore.Infrastructure.Configurations;
     using Microsoft.AspNetCore.Identity;

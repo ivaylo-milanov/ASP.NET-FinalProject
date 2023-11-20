@@ -1,6 +1,7 @@
 ﻿namespace HardwareStore.Core.Services
 {
     using HardwareStore.Common;
+    using HardwareStore.Core.Infrastructure.Exceptions;
     using HardwareStore.Core.Services.Contracts;
     using HardwareStore.Core.ViewModels.Order;
     using HardwareStore.Infrastructure.Common;
@@ -59,7 +60,7 @@
         {
             if (!Guid.TryParse(userId, out Guid guidUserId))
             {
-
+                throw new InvalidGuidFormatException();
             }
 
             var customer = await GetOrdersCustomer(userId);
@@ -117,7 +118,7 @@
         {
             if (!Guid.TryParse(userId, out Guid guidUserId))
             {
-
+                throw new InvalidGuidFormatException();
             }
 
             var customer = await this.repository

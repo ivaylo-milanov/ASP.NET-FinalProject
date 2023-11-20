@@ -1,6 +1,6 @@
 ﻿namespace HardwareStore.Infrastructure.Common
 {
-    using HardwareStore.Infrastructure.Data;
+    using HardwareStore.Infrastructure;
     using Microsoft.EntityFrameworkCore;
     using System;
     using System.Collections.Generic;

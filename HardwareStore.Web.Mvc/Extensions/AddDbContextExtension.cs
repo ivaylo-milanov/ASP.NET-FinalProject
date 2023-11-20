@@ -1,6 +1,6 @@
 ﻿namespace HardwareStore.Extensions
 {
-    using HardwareStore.Infrastructure.Data;
+    using HardwareStore.Infrastructure;
     using Microsoft.EntityFrameworkCore;
 
     public static class AddDbContextExtension

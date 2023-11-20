@@ -1,7 +1,7 @@
 ﻿namespace HardwareStore.Extensions
 {
     using HardwareStore.Common;
-    using HardwareStore.Infrastructure.Data;
+    using HardwareStore.Infrastructure;
     using HardwareStore.Infrastructure.Models;
 
     public static class ConfigurateIdentityExtension

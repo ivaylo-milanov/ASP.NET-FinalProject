@@ -11,5 +11,6 @@
         public const string CategoryNotFound = "The category is not found.";
         public const string ManufacturerNotFound = "The manufacturer is not found.";
         public const string CharacteristicNameNotFound = "The characteristic name is not found.";
+        public const string InvalidGuidFormat = "The guid format is not valid.";
     }
 }

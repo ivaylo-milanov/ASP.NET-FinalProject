@@ -1,6 +1,7 @@
 ﻿namespace HardwareStore.Core.Services
 {
     using HardwareStore.Common;
+    using HardwareStore.Core.Infrastructure.Exceptions;
     using HardwareStore.Core.Services.Contracts;
     using HardwareStore.Core.ViewModels.Profile;
     using HardwareStore.Infrastructure.Common;
@@ -18,7 +19,12 @@
 
         public async Task<ProfileViewModel> GetProfileModel(string userId)
         {
-            var customer = await this.repository.FindAsync<Customer>(userId);
+            if (!Guid.TryParse(userId, out Guid guidUserId))
+            {
+                throw new InvalidGuidFormatException();
+            }
+
+            var customer = await this.repository.FindAsync<Customer>(guidUserId);
 
             if (customer == null)
             {
