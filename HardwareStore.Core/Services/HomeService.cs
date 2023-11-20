@@ -1,6 +1,7 @@
 ﻿namespace HardwareStore.Core.Services
 {
     using Contracts;
+    using HardwareStore.Core.Contracts;
     using HardwareStore.Core.ViewModels.Home;
     using HardwareStore.Core.ViewModels.Product;
     using HardwareStore.Infrastructure.Common;

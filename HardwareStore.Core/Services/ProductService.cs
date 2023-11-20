@@ -1,9 +1,9 @@
 ﻿namespace HardwareStore.Core.Services
 {
     using HardwareStore.Common;
+    using HardwareStore.Core.Contracts;
     using HardwareStore.Core.Infrastructure.Attributes;
     using HardwareStore.Core.Infrastructure.Enum;
-    using HardwareStore.Core.Services.Contracts;
     using HardwareStore.Core.ViewModels.Product;
     using HardwareStore.Core.ViewModels.Search;
     using HardwareStore.Infrastructure.Common;

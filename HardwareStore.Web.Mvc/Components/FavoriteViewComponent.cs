@@ -1,6 +1,6 @@
 ﻿namespace HardwareStore.Components
 {
-    using HardwareStore.Core.Services.Contracts;
+    using HardwareStore.Core.Contracts;
     using HardwareStore.Core.ViewModels.Details;
     using HardwareStore.Extensions;
     using Microsoft.AspNetCore.Mvc;

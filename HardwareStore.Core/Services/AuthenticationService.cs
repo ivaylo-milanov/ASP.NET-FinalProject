@@ -1,7 +1,7 @@
 ﻿namespace HardwareStore.Core.Services
 {
     using HardwareStore.Common;
-    using HardwareStore.Core.Services.Contracts;
+    using HardwareStore.Core.Contracts;
     using HardwareStore.Core.ViewModels.User;
     using HardwareStore.Infrastructure.Models;
     using Microsoft.AspNetCore.Identity;

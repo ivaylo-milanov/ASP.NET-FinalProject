@@ -1,8 +1,8 @@
 ﻿namespace HardwareStore.Core.Services
 {
     using HardwareStore.Common;
+    using HardwareStore.Core.Contracts;
     using HardwareStore.Core.Infrastructure.Exceptions;
-    using HardwareStore.Core.Services.Contracts;
     using HardwareStore.Core.ViewModels.Details;
     using HardwareStore.Core.ViewModels.Product;
     using HardwareStore.Infrastructure.Common;

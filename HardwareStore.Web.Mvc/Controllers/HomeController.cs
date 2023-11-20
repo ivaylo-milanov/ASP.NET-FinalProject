@@ -1,6 +1,6 @@
 ﻿namespace HardwareStore.Controllers
 {
-    using HardwareStore.Core.Services.Contracts;
+    using HardwareStore.Core.Contracts;
     using HardwareStore.Core.ViewModels;
     using HardwareStore.Core.ViewModels.Home;
     using Microsoft.AspNetCore.Mvc;

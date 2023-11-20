@@ -1,4 +1,4 @@
-﻿namespace HardwareStore.Core.Services.Contracts
+﻿namespace HardwareStore.Core.Contracts
 {
     using HardwareStore.Core.ViewModels.Product;
     using HardwareStore.Core.ViewModels.Search;
