@@ -4,6 +4,7 @@
     using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore;
     using Models;
+    using System.Reflection;
 
     public class HardwareStoreDbContext : IdentityDbContext<Customer, IdentityRole<Guid>, Guid>
     {
@@ -24,7 +25,10 @@
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
-            builder.ApplyConfigurationsFromAssembly(typeof(HardwareStoreDbContext).Assembly);
+            Assembly assembly = Assembly.GetAssembly(typeof(HardwareStoreDbContext)) ??
+                                Assembly.GetExecutingAssembly();
+
+            builder.ApplyConfigurationsFromAssembly(assembly);
 
             base.OnModelCreating(builder);
         }
