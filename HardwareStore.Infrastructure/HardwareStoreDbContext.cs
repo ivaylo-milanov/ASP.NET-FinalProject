@@ -1,6 +1,5 @@
 ﻿namespace HardwareStore.Infrastructure
 {
-    using HardwareStore.Infrastructure.Configurations;
     using Microsoft.AspNetCore.Identity;
     using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore;
@@ -22,11 +21,6 @@
         public DbSet<Manufacturer> Manufacturers { get; set; } = null!;
 
         public DbSet<CharacteristicName> CharacteristicsNames { get; set; } = null!;
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.EnableSensitiveDataLogging();
-        }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
