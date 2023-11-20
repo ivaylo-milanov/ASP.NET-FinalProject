@@ -2,7 +2,6 @@
 {
     using HardwareStore.Core.Contracts;
     using HardwareStore.Core.ViewModels.Details;
-    using HardwareStore.Extensions;
     using Microsoft.AspNetCore.Mvc;
 
     public class ProductController : Controller

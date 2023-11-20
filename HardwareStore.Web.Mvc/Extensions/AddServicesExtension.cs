@@ -1,7 +1,6 @@
 ﻿namespace HardwareStore.Extensions
 {
     using Core.Services;
-    using Core.Services.Contracts;
     using HardwareStore.Core.Contracts;
     using HardwareStore.Infrastructure.Common;
 

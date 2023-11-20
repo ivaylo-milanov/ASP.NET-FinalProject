@@ -2,50 +2,14 @@
 {
     using HardwareStore.Core.Contracts;
     using HardwareStore.Core.ViewModels.Motherboard;
-    using HardwareStore.Core.ViewModels.Product;
-    using Microsoft.AspNetCore.Mvc;
+    using HardwareStore.Web.Mvc.Controllers;
+    using Microsoft.Extensions.Logging;
 
-    public class MotherboardsController : Controller
+    public class MotherboardsController : BaseProductController<MotherboardViewModel, MotherboardFilterOptions>
     {
-        private readonly IProductService productService;
-        private readonly ILogger<MotherboardsController> logger;
-
-        public MotherboardsController(IProductService productService, ILogger<MotherboardsController> logger)
+        public MotherboardsController(IProductService productService, ILogger<CasesController> logger)
+            : base(productService, logger)
         {
-            this.productService = productService;
-            this.logger = logger;
-        }
-
-        public async Task<IActionResult> Index()
-        {
-            ProductsViewModel<MotherboardViewModel> model;
-            try
-            {
-                model = await this.productService.GetModel<MotherboardViewModel>();
-            }
-            catch (ArgumentException ex)
-            {
-                this.logger.LogError(ex, ex.Message);
-                return RedirectToAction("Error", "Home", new { message = ex.Message });
-            }
-
-            return View(model);
-        }
-
-        public IActionResult FilterMotherboards([FromBody] MotherboardFilterOptions filter)
-        {
-            IEnumerable<MotherboardViewModel> filtered;
-            try
-            {
-                filtered = this.productService.FilterProducts<MotherboardViewModel, MotherboardFilterOptions>(filter);
-            }
-            catch (ArgumentNullException ex)
-            {
-                this.logger.LogError(ex, ex.Message);
-                return RedirectToAction("Error", "Home", new { message = ex.Message });
-            }
-
-            return PartialView("_ProductsPartialView", filtered);
         }
     }
 }

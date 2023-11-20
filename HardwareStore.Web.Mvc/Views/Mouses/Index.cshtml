@@ -4,7 +4,7 @@
     <h1>Mouses</h1>
 </div>
 <div class="page-body">
-    <form class="page-layout" method="get" data-url="@Url.Action("FilterMouses", "Mouses")">
+    <form class="page-layout" method="get" data-url="@Url.Action("FilterProducts", "Mouses")">
         <partial name="_FilterPartialView" model="@Model.Filters"/>
         <partial name="_ProductsContentPartialView" model="@Model.Products"/>
     </form>

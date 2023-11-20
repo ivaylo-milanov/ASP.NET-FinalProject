@@ -4,7 +4,7 @@
     <h1>RAM</h1>
 </div>
 <div class="page-body">
-    <form class="page-layout" method="get" data-url="@Url.Action("FilterRam", "Ram")">
+    <form class="page-layout" method="get" data-url="@Url.Action("FilterProducts", "Ram")">
         <partial name="_FilterPartialView" model="@Model.Filters"/>
         <partial name="_ProductsContentPartialView" model="@Model.Products"/>
     </form>

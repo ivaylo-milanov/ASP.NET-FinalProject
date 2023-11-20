@@ -2,50 +2,14 @@
 {
     using HardwareStore.Core.Contracts;
     using HardwareStore.Core.ViewModels.PowerSupply;
-    using HardwareStore.Core.ViewModels.Product;
-    using Microsoft.AspNetCore.Mvc;
+    using HardwareStore.Web.Mvc.Controllers;
+    using Microsoft.Extensions.Logging;
 
-    public class PowerSuppliesController : Controller
+    public class PowerSuppliesController : BaseProductController<PowerSupplyViewModel, PowerSupplyFilterOptions>
     {
-        private readonly IProductService productService;
-        private readonly ILogger<PowerSuppliesController> logger;
-
-        public PowerSuppliesController(IProductService productService, ILogger<PowerSuppliesController> logger)
+        public PowerSuppliesController(IProductService productService, ILogger<CasesController> logger)
+            : base(productService, logger)
         {
-            this.productService = productService;
-            this.logger = logger;
-        }
-
-        public async Task<IActionResult> Index()
-        {
-            ProductsViewModel<PowerSupplyViewModel> model;
-            try
-            {
-                model = await this.productService.GetModel<PowerSupplyViewModel>();
-            }
-            catch (ArgumentException ex)
-            {
-                this.logger.LogError(ex, ex.Message);
-                return RedirectToAction("Error", "Home", new { message = ex.Message });
-            }
-
-            return View(model);
-        }
-
-        public IActionResult FilterPowerSupplies([FromBody] PowerSupplyFilterOptions filter)
-        {
-            IEnumerable<PowerSupplyViewModel> filtered;
-            try
-            {
-                filtered = this.productService.FilterProducts<PowerSupplyViewModel, PowerSupplyFilterOptions>(filter);
-            }
-            catch (ArgumentNullException ex)
-            {
-                this.logger.LogError(ex, ex.Message);
-                return RedirectToAction("Error", "Home", new { message = ex.Message });
-            }
-
-            return PartialView("_ProductsPartialView", filtered);
         }
     }
 }
