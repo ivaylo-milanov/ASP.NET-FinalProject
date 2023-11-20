@@ -1,5 +1,6 @@
 [
   {
+    "productId": "9a1a04b5-f16a-4645-9c8e-a0bd0766ad19",
     "name": "ASROCK AMD RADEON RX 6600 CHALLENGER D 8G",
     "price": 278.44,
     "quantity": 10,
@@ -41,6 +42,7 @@
     ]
   },
   {
+    "productId": "1f1e3a25-1d54-4bca-8da5-226dea269d44",
     "name": "ASROCK AMD RADEON RX 7600 STEEL LEGEND 8GB OC",
     "price": 690.14,
     "quantity": 10,
@@ -82,6 +84,7 @@
     ]
   },
   {
+    "productId": "c096f9aa-448f-42ec-894a-875688f16264",
     "name": "ASROCK RADEON RX 6950 XT PHANTOM GAMING 16GB OC",
     "price": 1357.03,
     "quantity": 10,
@@ -123,6 +126,7 @@
     ]
   },
   {
+    "productId": "94205a90-d5e5-4f5b-96a7-5bd080f7cd18",
     "name": "ASROCK RADEON RX 7900 XTX TAICHI WHITE 24GB OC",
     "price": 2437.45,
     "quantity": 10,
@@ -164,6 +168,7 @@
     ]
   },
   {
+    "productId": "7e0cdafa-a356-4245-9b25-a8864857109b",
     "name": "ASUS DUAL GEFORCE RTX 4060 OC EDITION 8G",
     "price": 750.42,
     "quantity": 10,
@@ -205,6 +210,7 @@
     ]
   },
   {
+    "productId": "8a1ff4a9-d713-49fa-b0b1-233512fa364d",
     "name": "ASUS TUF GAMING GEFORCE RTX 3060 V2 OC EDITION 12G",
     "price": 899.00,
     "quantity": 10,
@@ -246,6 +252,7 @@
     ]
   },
   {
+    "productId": "a08cae7c-b4a7-4398-b830-5ead830ceeab",
     "name": "ASUS DUAL GEFORCE RTX 3060 TI WHITE OC EDITION 8GB",
     "price": 949.00,
     "quantity": 10,
@@ -287,6 +294,7 @@
     ]
   },
   {
+    "productId": "ff53e49d-ae66-4917-8e6d-627b9923d4a0",
     "name": "ASUS ROG STRIX GEFORCE RTX 4070TI 12GB GDDR6X OC EDITION",
     "price": 2399.00,
     "quantity": 10,
@@ -328,6 +336,7 @@
     ]
   },
   {
+    "productId": "e65a3775-78fa-40f0-b7a8-54fc261c2104",
     "name": "GIGABYTE GEFORCE RTX 3050 EAGLE 8G",
     "price": 608.84,
     "quantity": 10,
@@ -369,6 +378,7 @@
     ]
   },
   {
+    "productId": "c2ed628e-08ff-4c88-a481-7f295305cbd9",
     "name": "GIGABYTE GEFORCE RTX 4060 GAMING OC 8GB GDDR6",
     "price": 777.28,
     "quantity": 10,
@@ -410,6 +420,7 @@
     ]
   },
   {
+    "productId": "24c16ce4-ba6f-4662-a6e9-a7d4c26cadad",
     "name": "GIGABYTE GEFORCE GTX 1660 SUPER D6 6G",
     "price": 559.19,
     "quantity": 10,
@@ -451,6 +462,7 @@
     ]
   },
   {
+    "productId": "af2f52a6-5363-4763-aee4-32c7ccbb79b4",
     "name": "GIGABYTE GEFORCE RTX 4070 WINDFORCE OC 12G",
     "price": 1437.94,
     "quantity": 10,
@@ -492,6 +504,7 @@
     ]
   },
   {
+    "productId": "c3abc6f7-3ac0-4f85-b60a-b2e6b6ce59bc",
     "name": "POWERCOLOR FIGHTER RADEON RX 6600 8G",
     "price": 417.29,
     "quantity": 10,
@@ -533,6 +546,7 @@
     ]
   },
   {
+    "productId": "e60add18-4edd-42b4-82ed-cf5c90e2793d",
     "name": "POWERCOLOR FIGHTER AMD RADEON RX 6700 XT 12G",
     "price": 699.08,
     "quantity": 10,
@@ -574,6 +588,7 @@
     ]
   },
   {
+    "productId": "cb23639e-6a7a-42d9-9d89-4ea66534a11f",
     "name": "POWERCOLOR AMD RADEON HELLHOUND RX 7900 XT 20G",
     "price": 2202.61,
     "quantity": 10,
@@ -615,6 +630,7 @@
     ]
   },
   {
+    "productId": "b762e7a3-c6f3-4577-b108-0adbbcaadc38",
     "name": "POWERCOLOR RED DEVIL AMD RADEON RX 7900 XTX 24G",
     "price": 2495.49,
     "quantity": 10,

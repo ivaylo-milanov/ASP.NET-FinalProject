@@ -27,6 +27,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HardwareStore.Web.WebApi", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HardwareStore.Infrastructure.Seed", "HardwareStore.Infrastructure.Seed\HardwareStore.Infrastructure.Seed.csproj", "{FB765779-19D4-41BF-8092-BED14A2BC853}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HardwareStore.Tests", "HardwareStore.Tests\HardwareStore.Tests.csproj", "{8315DEAD-375C-4485-9F8F-5B60948B7508}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{26A103A2-E51E-4D8E-85FF-B3B301F78AAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,10 @@ Global
 		{FB765779-19D4-41BF-8092-BED14A2BC853}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB765779-19D4-41BF-8092-BED14A2BC853}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB765779-19D4-41BF-8092-BED14A2BC853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8315DEAD-375C-4485-9F8F-5B60948B7508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8315DEAD-375C-4485-9F8F-5B60948B7508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8315DEAD-375C-4485-9F8F-5B60948B7508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8315DEAD-375C-4485-9F8F-5B60948B7508}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -82,6 +90,7 @@ Global
 		{C6A6DD2D-B29C-44DA-865A-D0A3F899358E} = {63376DE6-1C4C-42B0-BE22-1AF9C48E71F0}
 		{E3CCC432-FE01-4263-B948-397364C6F619} = {63376DE6-1C4C-42B0-BE22-1AF9C48E71F0}
 		{FB765779-19D4-41BF-8092-BED14A2BC853} = {180827DF-E5CE-4F45-A79E-BFCBA7601A35}
+		{8315DEAD-375C-4485-9F8F-5B60948B7508} = {26A103A2-E51E-4D8E-85FF-B3B301F78AAC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7E1A3754-13E9-413C-A952-019FE3DE5322}

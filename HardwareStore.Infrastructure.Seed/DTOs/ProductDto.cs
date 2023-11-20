@@ -1,8 +1,9 @@
 ﻿namespace HardwareStore.Infrastructure.DTOs
 {
+    using HardwareStore.Infrastructure.Seed.DTOs;
     using Newtonsoft.Json;
 
-    public class ProductDto
+    public class ProductDto : ProductIdDto
     {
         [JsonProperty("name")]
         public string Name { get; set; } = null!;
@@ -30,8 +31,5 @@
 
         [JsonProperty("categoryId")]
         public int CategoryId { get; set; }
-
-        [JsonProperty("characteristics")]
-        public IEnumerable<CharacteristicDto> Characteristics { get; set; } = null!;
     }
 }

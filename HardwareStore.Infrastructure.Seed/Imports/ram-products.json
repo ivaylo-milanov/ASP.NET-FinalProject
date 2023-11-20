@@ -1,5 +1,6 @@
 [
   {
+    "productId": "cb959e58-aa9d-4fec-bbc2-44f6ed71966d",
     "name": "CORSAIR VENGEANCE LPX 16GB (2X8GB) 3200MHZ",
     "price": 100.24,
     "quantity": 10,
@@ -49,6 +50,7 @@
     ]
   },
   {
+    "productId": "0ec80d70-22db-4952-bf93-99105299ca78",
     "name": "CORSAIR VENGEANCE RS RGB BLACK 32GB (2X16GB) 3200MHZ",
     "price": 187.50,
     "quantity": 10,
@@ -98,6 +100,7 @@
     ]
   },
   {
+    "productId": "b3cce4d5-2714-4d4d-95a5-29a1b51122e8",
     "name": "ADATA BLACK 8GB 4800MHZ",
     "price": 81.60,
     "quantity": 10,
@@ -147,6 +150,7 @@
     ]
   },
   {
+    "productId": "1b052fb7-93b8-435e-9a4a-bc2aee57b831",
     "name": "ADATA XPG LANCER BLACK RGB 16GB 5200MHZ",
     "price": 114.00,
     "quantity": 10,
@@ -196,6 +200,7 @@
     ]
   },
   {
+    "productId": "1a65a65b-9ad3-4a5d-8ddb-01fbe008d4a5",
     "name": "KINGSTON FURY BEAST BLACK 32GB (4X8GB) 3600MHZ",
     "price": 199.09,
     "quantity": 10,
@@ -245,6 +250,7 @@
     ]
   },
   {
+    "productId": "7d12cc41-4444-4b4b-be2c-a14e1f7ca383",
     "name": "KINGSTON FURY RENEGADE SILVER RGB 32GB 6000MHZ",
     "price": 278.44,
     "quantity": 10,
@@ -294,6 +300,7 @@
     ]
   },
   {
+    "productId": "9e564d00-7c09-4f84-9ca9-988725d9f3e7",
     "name": "G.SKILL TRIDENT Z RGB 16GB (2X8GB) 3200MHZ",
     "price": 137.18,
     "quantity": 10,
@@ -343,6 +350,7 @@
     ]
   },
   {
+    "productId": "a6a172e1-aec3-475d-af84-754e32ddd378",
     "name": "G.SKILL TRIDENT Z ROYAL 16GB (2X8GB) 4000MHZ",
     "price": 321.58,
     "quantity": 10,
@@ -392,6 +400,7 @@
     ]
   },
   {
+    "productId": "d473ea9e-6f6b-4e3a-ade5-8af43ef1e53e",
     "name": "AORUS RGB MEMORY DDR4 16GB (2X8GB) 3733MHZ",
     "price": 119.32,
     "quantity": 10,
@@ -441,6 +450,7 @@
     ]
   },
   {
+    "productId": "d422037a-9e86-4a44-bb7c-46b4d3d06899",
     "name": "AORUS RGB MEMORY 16GB 3600 MHZ",
     "price": 250.00,
     "quantity": 10,
@@ -490,6 +500,7 @@
     ]
   },
   {
+    "productId": "2403dada-744b-4347-b72a-6df00591f237",
     "name": "T-FORCE VULCAN TUF 16GB (2X8GB) 3200 MHZ",
     "price": 86.24,
     "quantity": 10,
@@ -539,6 +550,7 @@
     ]
   },
   {
+    "productId": "d7602e8a-a62b-4d94-a173-f86c0536938d",
     "name": "T-FORCE XTREEM ARGB WHITE 32GB (2X16GB) 3600MHZ",
     "price": 250.01,
     "quantity": 10,
@@ -588,6 +600,7 @@
     ]
   },
   {
+    "productId": "b02518aa-82d1-408d-9358-bbb4c9ff0d75",
     "name": "SILICON POWER XPOWER ZENITH 8GB 3200MHZ",
     "price": 38.86,
     "quantity": 10,
@@ -637,6 +650,7 @@
     ]
   },
   {
+    "productId": "cf8abdbd-1402-4821-b8cd-b24802e20b5b",
     "name": "SILICON POWER 16GB(2X8GB) 3200MHZ",
     "price": 120.44,
     "quantity": 10,
@@ -686,6 +700,7 @@
     ]
   },
   {
+    "productId": "b40407d5-8b5e-435d-9c0b-f423ff2d6de9",
     "name": "G.SKILL TRIDENT Z ROYAL ELITE 32GB (2X16GB) 4000MHZ",
     "price": 660.14,
     "quantity": 10,
@@ -735,6 +750,7 @@
     ]
   },
   {
+    "productId": "72dd678e-f4ec-45ac-8dac-ed4e197fe1a2",
     "name": "CORSAIR DOMINATOR PLATINUM RGB BLACK 16GB (2X8GB) 3600MHZ",
     "price": 312.04,
     "quantity": 10,

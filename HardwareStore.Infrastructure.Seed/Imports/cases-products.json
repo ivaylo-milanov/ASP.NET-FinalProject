@@ -1,11 +1,12 @@
 [
   {
+    "productId": "15bdecb1-2c5c-463a-96a8-2d64277596ac",
     "name": "ASUS ROG STRIX HELIOS",
     "price": 638.65,
     "quantity": 10,
     "description": "ROG Strix Helios is a premium mid-tower gaming case with three tempered-glass panels, refined aluminum frame and integrated front-panel RGB lighting. Built-in cable management, including a multifunction cover with GPU braces, keeps the interior sharp and tidy. Engineered for expandability and performance, it's ready for an up to EATX motherboard and serious water-cooling setups – making it the perfect choice for a classic ROG showcase build.",
     "warranty": 24,
-    "manufacturerIdId": 1,
+    "manufacturerId": 1,
     "model": "ROG STRIX HELIOS",
     "referenceNumber": "ASUS-ROG-STRIX-HELIOS",
     "categoryId": 12,
@@ -81,12 +82,13 @@
     ]
   },
   {
+    "productId": "7bc68af5-7508-4f78-8be7-902c5bdfaf96",
     "name": "ASUS TUF GAMING GT502",
     "price": 349.00,
     "quantity": 10,
     "description": "Box ASUS TUF Gaming GT502, Mid-Tower, Aura Sync RGB",
     "warranty": 24,
-    "manufacturerIdId": 1,
+    "manufacturerId": 1,
     "model": "TUF GAMING GT502",
     "referenceNumber": "ASUS-TUF-GAMING-GT5O2",
     "categoryId": 12,
@@ -154,12 +156,13 @@
     ]
   },
   {
+    "productId": "7cfe7936-6644-4912-b846-9c5860a35b44",
     "name": "ASUS TUF GAMING GT301",
     "price": 219.00,
     "quantity": 10,
     "description": "Box ASUS TUF Gaming GT301 ARGB, Mid-Tower",
     "warranty": 24,
-    "manufacturerIdId": 1,
+    "manufacturerId": 1,
     "model": "TUF GAMING GT301",
     "referenceNumber": "ASUS-TUF-GAMING-GT301",
     "categoryId": 12,
@@ -231,12 +234,13 @@
     ]
   },
   {
+    "productId": "f29decd2-89a8-44ad-8440-2bd6637ad0dc",
     "name": "COOLER MASTER CMP320",
     "price": 148.99,
     "quantity": 10,
     "description": "Cooler Master CMP 320 Mesh Black ARGB box",
     "warranty": 24,
-    "manufacturerIdId": 4,
+    "manufacturerId": 4,
     "model": "CMP320",
     "referenceNumber": "COOLER-MASTER-CMP320",
     "categoryId": 12,
@@ -312,12 +316,13 @@
     ]
   },
   {
+    "productId": "6493cdac-f50f-45ae-a0ee-15b0c9851916",
     "name": "COOLER MASTER MASTERBOX TD300 MESH",
     "price": 169.00,
     "quantity": 10,
     "description": "Cooler Master MasterBox TD300 Mesh box",
     "warranty": 24,
-    "manufacturerIdId": 4,
+    "manufacturerId": 4,
     "model": "MasterBox TD300 Mesh",
     "referenceNumber": "COOLER-MASTER-MASTERBOX-TD300-MESH",
     "categoryId": 12,
@@ -359,7 +364,7 @@
         "value": "166 mm"
       },
       {
-        "characteristicNameId": 9,
+        "characteristicNameId": 10,
         "value": "344 mm"
       },
       {
@@ -393,12 +398,13 @@
     ]
   },
   {
+    "productId": "4d36d3d0-ca56-48e5-a20a-a216e518922a",
     "name": "COOLER MASTER MASTERBOX MB511 ARGB",
     "price": 199.00,
     "quantity": 10,
     "description": "With the MasterBox MB511 ARGB ATX PC case, systems built for high demand gaming can breathe easily through the Fine Mesh front panel. Along with the aggressive intakes in front, there is also ventilation on the top panel for added thermal support.",
     "warranty": 24,
-    "manufacturerIdId": 4,
+    "manufacturerId": 4,
     "model": "MasterBox MB511 ARGB",
     "referenceNumber": "COOLER-MASTER-MASTERBOX-MB511-ARGB",
     "categoryId": 12,
@@ -440,7 +446,7 @@
         "value": "165 mm"
       },
       {
-        "characteristicNameId": 9,
+        "characteristicNameId": 10,
         "value": "410 mm"
       },
       {
@@ -470,12 +476,13 @@
     ]
   },
   {
+    "productId": "35e09c36-6065-433e-bf7c-3e218aa306fd",
     "name": "COOLER MASTER HAF 500",
     "price": 289.00,
     "quantity": 10,
     "description": "Cooler Master HAF 500 case",
     "warranty": 24,
-    "manufacturerIdId": 4,
+    "manufacturerId": 4,
     "model": "HAF 500",
     "referenceNumber": "COOLER-MASTER-HAF-500",
     "categoryId": 12,
@@ -517,7 +524,7 @@
         "value": "167 mm"
       },
       {
-        "characteristicNameId": 9,
+        "characteristicNameId": 10,
         "value": "410 mm"
       },
       {
@@ -551,12 +558,13 @@
     ]
   },
   {
+    "productId": "9c847a36-b5be-465e-993e-472f1135de58",
     "name": "CORSAIR 4000D TG",
     "price": 237.64,
     "quantity": 10,
     "description": "Corsair 4000D Mid Tower Case, Tempered Glass, White",
     "warranty": 24,
-    "manufacturerIdId": 5,
+    "manufacturerId": 5,
     "model": "4000D",
     "referenceNumber": "CORSAIR-4000D",
     "categoryId": 12,
@@ -598,7 +606,7 @@
         "value": "170 mm"
       },
       {
-        "characteristicNameId": 9,
+        "characteristicNameId": 10,
         "value": "360 mm"
       },
       {
@@ -628,12 +636,13 @@
     ]
   },
   {
+    "productId": "50c92a0d-9e08-4834-8d08-11d443a115ba",
     "name": "CORSAIR ICUE 220T RGB TG",
     "price": 297.78,
     "quantity": 10,
     "description": "Box Corsair iCUE 220T RGB Smart Mid Tower, Tempered Glass, Black",
     "warranty": 24,
-    "manufacturerIdId": 5,
+    "manufacturerId": 5,
     "model": "iCUE 220T RGB",
     "referenceNumber": "CORSAIR-ICUE-220T-RGB",
     "categoryId": 12,
@@ -675,7 +684,7 @@
         "value": "160 mm"
       },
       {
-        "characteristicNameId": 9,
+        "characteristicNameId": 10,
         "value": "300 mm"
       },
       {
@@ -709,12 +718,13 @@
     ]
   },
   {
+    "productId": "ee9e8c36-58e3-43cb-8733-23fade554f76",
     "name": "CORSAIR 5000D AIRFLOW TG",
     "price": 345.00,
     "quantity": 10,
     "description": "Corsair 5000D Airflow Mid Tower Case, Tempered Glass, Black",
     "warranty": 24,
-    "manufacturerIdId": 5,
+    "manufacturerId": 5,
     "model": "5000D Airflow",
     "referenceNumber": "CORSAIR-5000D-AIRFLOW",
     "categoryId": 12,
@@ -756,7 +766,7 @@
         "value": "170 mm"
       },
       {
-        "characteristicNameId": 9,
+        "characteristicNameId": 10,
         "value": "400 mm"
       },
       {
@@ -798,12 +808,13 @@
     ]
   },
   {
+    "productId": "562d56a7-3b3d-4573-8dd6-c66f041f8dc5",
     "name": "LIAN LI LANCOOL 216 RGB",
     "price": 229.00,
     "quantity": 10,
     "description": "Lian-Li LANCOOL 216 RGB Mid-Tower Box, Tempered Glass, White",
     "warranty": 24,
-    "manufacturerIdId": 3,
+    "manufacturerId": 3,
     "model": "LANCOOL 216 RGB",
     "referenceNumber": "LIAN-LI-LANCOOL-216-RGB",
     "categoryId": 12,
@@ -845,7 +856,7 @@
         "value": "180.5 mm"
       },
       {
-        "characteristicNameId": 9,
+        "characteristicNameId": 10,
         "value": "392 mm"
       },
       {
@@ -883,12 +894,13 @@
     ]
   },
   {
+    "productId": "61b407d1-483b-4958-8d5d-0f01b2da56c3",
     "name": "LIAN LI PC-O11 DYNAMIC",
     "price": 319.00,
     "quantity": 10,
     "description": "Box Lian Li PC-O11 Dynamic Mid-Tower, Tempered Glass, White",
     "warranty": 24,
-    "manufacturerIdId": 3,
+    "manufacturerId": 3,
     "model": "PC-O11 Dynamic",
     "referenceNumber": "LIAN-LI-PC-O11-DYNAMIC",
     "categoryId": 12,
@@ -930,7 +942,7 @@
         "value": "155 mm"
       },
       {
-        "characteristicNameId": 9,
+        "characteristicNameId": 10,
         "value": "420 mm"
       },
       {
@@ -964,12 +976,13 @@
     ]
   },
   {
+    "productId": "2f5ec2d2-fae1-4d21-8c9a-30bbd87d6a40",
     "name": "LIAN LI PC-O11 DYNAMIC RAZER EDITION",
     "price": 339.00,
     "quantity": 10,
     "description": "Case Lian Li PC-O11 Dynamic Razer Edition Mid-Tower, Tempered Glass, Black",
     "warranty": 24,
-    "manufacturerIdId": 3,
+    "manufacturerId": 3,
     "model": "PC-O11 Dynamic Razer Edition",
     "referenceNumber": "LIAN-LI-PC-O11-DYNAMIC-RAZER-EDITION",
     "categoryId": 12,
@@ -1011,7 +1024,7 @@
         "value": "155 mm"
       },
       {
-        "characteristicNameId": 9,
+        "characteristicNameId": 10,
         "value": "420 mm"
       },
       {
@@ -1045,12 +1058,13 @@
     ]
   },
   {
+    "productId": "8f9bc461-f386-4aa1-9b06-243da34f831f",
     "name": "KOLINK VOID",
     "price": 139.00,
     "quantity": 10,
     "description": "Box Kolink Void Midi-Tower black Window ATX",
     "warranty": 24,
-    "manufacturerIdId": 2,
+    "manufacturerId": 2,
     "model": "Void",
     "referenceNumber": "KOLING-VOID",
     "categoryId": 12,
@@ -1092,7 +1106,7 @@
         "value": "160 mm"
       },
       {
-        "characteristicNameId": 9,
+        "characteristicNameId": 10,
         "value": "310 mm"
       },
       {
@@ -1118,12 +1132,13 @@
     ]
   },
   {
+    "productId": "32987f00-ee05-40bf-aecd-e13297d74532",
     "name": "KOLINK OBSERVATORY LITE MESH ARGB WHITE",
     "price": 178.99,
     "quantity": 10,
     "description": "Kolink Observatory Lite Mesh RGB Mid-Tower Box, White",
     "warranty": 24,
-    "manufacturerIdId": 2,
+    "manufacturerId": 2,
     "model": "Observatory Lite Mesh RGB",
     "referenceNumber": "KOLING-OBSERVATORY-LITE-MESH-RGB",
     "categoryId": 12,
@@ -1165,7 +1180,7 @@
         "value": "160 mm"
       },
       {
-        "characteristicNameId": 9,
+        "characteristicNameId": 10,
         "value": "335 mm"
       },
       {
@@ -1191,12 +1206,13 @@
     ]
   },
   {
+    "productId": "89b6221e-d046-4e6e-a4a0-c4076c8852f5",
     "name": "KOLINK VOID RIFT",
     "price": 199.00,
     "quantity": 10,
     "description": "Box Kolink Void Rift RGB TG Midi-Tower Black Window ATX",
     "warranty": 24,
-    "manufacturerIdId": 2,
+    "manufacturerId": 2,
     "model": "Void Rift RGB",
     "referenceNumber": "KOLING-OBSERVATORY-LITE-MESH-RGB",
     "categoryId": 12,
@@ -1238,7 +1254,7 @@
         "value": "165 mm"
       },
       {
-        "characteristicNameId": 9,
+        "characteristicNameId": 10,
         "value": "355 mm"
       },
       {

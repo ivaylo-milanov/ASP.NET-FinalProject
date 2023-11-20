@@ -1,5 +1,6 @@
 [
   {
+    "productId": "7d6be4cd-f068-424f-a1e6-b730ee95ad9f",
     "name": "ARCTIC FREEZER I35",
     "price": 55.12,
     "quantity": 10,
@@ -45,6 +46,7 @@
     ]
   },
   {
+    "productId": "1dba4642-7292-4b4a-aca2-0927966cbc6f",
     "name": "ARCTIC FREEZER 34 ESPORTS DUO",
     "price": 90.76,
     "quantity": 10,
@@ -98,6 +100,7 @@
     ]
   },
   {
+    "productId": "fb36b717-5bf3-4648-8839-e66018ec1523",
     "name": "ARCTIC LIQUID FREEZER II 240",
     "price": 195.28,
     "quantity": 10,
@@ -143,6 +146,7 @@
     ]
   },
   {
+    "productId": "a63730e3-657f-4615-a181-ddf28a4f7ccb",
     "name": "ARCTIC LIQUID FREEZER II - 240 A-RGB",
     "price": 237.24,
     "quantity": 10,
@@ -188,6 +192,7 @@
     ]
   },
   {
+    "productId": "bfdd573d-93a7-467c-9da0-cc0b8a369434",
     "name": "ASUS ROG STRIX LC II 240",
     "price": 329.00,
     "quantity": 10,
@@ -233,6 +238,7 @@
     ]
   },
   {
+    "productId": "221245d9-e8d1-4d83-b950-889ac825d869",
     "name": "ASUS ROG STRIX LC II 280 ARGB",
     "price": 379.00,
     "quantity": 10,
@@ -278,6 +284,7 @@
     ]
   },
   {
+    "productId": "ab49d775-a5e5-4722-b998-7c84f552bc1f",
     "name": "ASUS ROG RYUJIN 360",
     "price": 425.60,
     "quantity": 10,
@@ -323,6 +330,7 @@
     ]
   },
   {
+    "productId": "f82aa81c-4c7f-4ae8-9376-db83866aff70",
     "name": "ASUS ROG RYUJIN III 360",
     "price": 849.00,
     "quantity": 10,
@@ -368,6 +376,7 @@
     ]
   },
   {
+    "productId": "5c3f04e7-4504-40f5-a510-ff81490bd11c",
     "name": "COOLER MASTER HYPER 212 BLACK EDITION LGA1700",
     "price": 88.99,
     "quantity": 10,
@@ -417,6 +426,7 @@
     ]
   },
   {
+    "productId": "a17622b2-2710-4c88-83a2-477d1292400c",
     "name": "COOLER MASTER HYPER 212 HALO BLACK",
     "price": 99.00,
     "quantity": 10,
@@ -466,6 +476,7 @@
     ]
   },
   {
+    "productId": "77016fe5-8c13-4c30-b972-227c232cbe2a",
     "name": "COOLER MASTER MASTERLIQUID ML240 ILLUSION",
     "price": 199.00,
     "quantity": 10,
@@ -511,6 +522,7 @@
     ]
   },
   {
+    "productId": "834cb7ed-d351-4bed-a458-1e1f49e6aa60",
     "name": "COOLER MASTER MASTERLIQUID 360L CORE ARGB WHITE",
     "price": 268.99,
     "quantity": 10,
@@ -556,6 +568,7 @@
     ]
   },
   {
+    "productId": "0d741fb7-9163-4eb1-a898-75316c2dd01b",
     "name": "CORSAIR ICUE H100I ELITE CAPELLIX",
     "price": 371.56,
     "quantity": 10,
@@ -601,6 +614,7 @@
     ]
   },
   {
+    "productId": "a2e48daa-85f0-4bce-be53-2120c8c587c1",
     "name": "CORSAIR ICUE H115I ELITE CAPELLIX LIQUID CPU COOLER",
     "price": 431.65,
     "quantity": 10,
@@ -646,6 +660,7 @@
     ]
   },
   {
+    "productId": "47ae397f-8a33-49dc-bd02-ff78941f7702",
     "name": "CORSAIR ICUE H150I ELITE CAPELLIX XT",
     "price": 565.90,
     "quantity": 10,
@@ -691,6 +706,7 @@
     ]
   },
   {
+    "productId": "2be6399b-9a9a-4f94-a0eb-edd72f07e2f6",
     "name": "CORSAIR ICUE H170I ELITE CAPELLIX XT LIQUID CPU COOLER",
     "price": 644.32,
     "quantity": 10,

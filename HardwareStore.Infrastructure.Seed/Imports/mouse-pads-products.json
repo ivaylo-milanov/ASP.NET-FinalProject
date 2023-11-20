@@ -1,5 +1,6 @@
 [
   {
+    "productId": "107c6981-c785-4eaa-a77f-fad669d5e58a",
     "name": "LOGITECH MOUSE PAD STUDIO SERIES",
     "price": 15.00,
     "quantity": 10,
@@ -41,6 +42,7 @@
     ]
   },
   {
+    "productId": "23b6fca6-c7ac-41e6-b3d0-54153a7783d4",
     "name": "BLOODY BP-50L",
     "price": 18.00,
     "quantity": 10,
@@ -82,6 +84,7 @@
     ]
   },
   {
+    "productId": "fd0efca2-99f8-45ed-833d-e7cd83b1c6c5",
     "name": "STEELSERIES QCK S",
     "price": 19.99,
     "quantity": 10,
@@ -123,6 +126,7 @@
     ]
   },
   {
+    "productId": "25ac0de5-8071-4d5a-9119-a6110ae90dd6",
     "name": "LOGITECH DESK MAT STUDIO SERIES",
     "price": 29.00,
     "quantity": 10,
@@ -164,6 +168,7 @@
     ]
   },
   {
+    "productId": "223d4ad5-af03-4ebf-88f6-a2515df284d7",
     "name": "HYPERX FURY S SPEED M",
     "price": 29.89,
     "quantity": 10,
@@ -205,6 +210,7 @@
     ]
   },
   {
+    "productId": "a6569dfe-6133-4573-86b7-603e0dfffbaf",
     "name": "SPARTAN GEAR ARES RGB",
     "price": 34.99,
     "quantity": 10,
@@ -246,6 +252,7 @@
     ]
   },
   {
+    "productId": "91aa1a0b-6a57-413b-acb8-68207fc919a2",
     "name": "GLORIOUS L WHITE",
     "price": 37.09,
     "quantity": 10,
@@ -287,6 +294,7 @@
     ]
   },
   {
+    "productId": "eb94ca5e-f7e2-41f0-9027-26f6f5d618e6",
     "name": "ZOWIE P-SR",
     "price": 39.00,
     "quantity": 10,
@@ -328,6 +336,7 @@
     ]
   },
   {
+    "productId": "9ccfcbea-ce7f-4eff-b489-863cf18ad539",
     "name": "COOLER MASTER MP511 XL",
     "price": 49.00,
     "quantity": 10,
@@ -369,6 +378,7 @@
     ]
   },
   {
+    "productId": "0384abf9-33a2-42c6-9621-d17db2e1f23d",
     "name": "LOGITECH G440",
     "price": 58.99,
     "quantity": 10,
@@ -410,6 +420,7 @@
     ]
   },
   {
+    "productId": "3d3e4282-32cf-4674-b081-80cdb8cba456",
     "name": "BLIZZARD DIABLO - LILITH MOUSEPAD",
     "price": 59.00,
     "quantity": 10,
@@ -451,6 +462,7 @@
     ]
   },
   {
+    "productId": "265e805c-664e-470d-93fc-b89ed1fbfbac",
     "name": "WORLD OF WARCRAFT SHADOWLANDS - BOLVAR MOUSEPAD, XL",
     "price": 59.00,
     "quantity": 10,
@@ -492,6 +504,7 @@
     ]
   },
   {
+    "productId": "a419e6f9-50f6-4407-9225-43fbc75dfbf3",
     "name": "WORLD OF WARCRAFT CLASSIC - RAGNAROS MOUSEPAD, XL",
     "price": 59.00,
     "quantity": 10,
@@ -533,6 +546,7 @@
     ]
   },
   {
+    "productId": "e3eb50d0-b7f2-4c83-920f-d8c497a2f625",
     "name": "LOGITECH G840 XL K/DA",
     "price": 79.00,
     "quantity": 10,
@@ -574,6 +588,7 @@
     ]
   },
   {
+    "productId": "6debfaa8-a45f-476d-9ff8-444092581c8d",
     "name": "XTRFY GPZ1",
     "price": 79.00,
     "quantity": 10,
@@ -615,6 +630,7 @@
     ]
   },
   {
+    "productId": "30d0b9ae-fcc7-401f-af91-84fd84585ce3",
     "name": "STEELSERIES QCK PRISM CLOTH XL",
     "price": 119.00,
     "quantity": 10,

@@ -12,7 +12,6 @@
     {
         public Product()
         {
-            this.Id = Guid.NewGuid();
             this.Characteristics = new HashSet<Characteristic>();
             this.ProductsOrders = new HashSet<ProductOrder>();
             this.ShoppingCartItems = new HashSet<ShoppingCartItem>();

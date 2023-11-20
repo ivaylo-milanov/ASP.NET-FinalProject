@@ -10,35 +10,6 @@
     {
         public void Configure(EntityTypeBuilder<Product> builder)
         {
-            var products = GetProducts();
-
-            foreach (var product in products)
-            {
-                builder.HasData(new
-                {
-                    product.Name,
-                    product.ReferenceNumber,
-                    AddDate = DateTime.Now,
-                    product.CategoryId,
-                    product.ManufacturerId,
-                    product.Description,
-                    product.Quantity,
-                    product.Warranty,
-                    product.Model,
-                    product.Price
-                });
-
-                builder.OwnsMany<Characteristic>("Characteristics", c =>
-                {
-                    c.HasData(product.Characteristics.Select(characteristic => new
-                    {
-                        ProductId = product.Id,
-                        characteristic.CharacteristicNameId,
-                        characteristic.Value
-                    }));
-                });
-            }
-
             builder.HasData(GetProducts());
         }
 
@@ -63,6 +34,7 @@
             var products = productDtos
                 .Select(p => new Product
                 {
+                    Id = Guid.Parse(p.ProductId),
                     Name = p.Name,
                     ReferenceNumber = p.ReferenceNumber,
                     AddDate = DateTime.Now,
@@ -72,14 +44,7 @@
                     Quantity = p.Quantity,
                     Warranty = p.Warranty,
                     Model = p.Model,
-                    Price = p.Price,
-                    Characteristics = p.Characteristics
-                        .Select(chr => new Characteristic
-                        {
-                            CharacteristicNameId = chr.CharacteristicNameId,
-                            Value = chr.Value
-                        })
-                        .ToList()
+                    Price = p.Price
                 });
 
             return products;

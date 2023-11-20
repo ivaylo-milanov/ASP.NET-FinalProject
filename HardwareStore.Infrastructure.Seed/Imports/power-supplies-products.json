@@ -1,5 +1,6 @@
 [
   {
+    "productId": "cdf75419-d5f9-4119-beba-9765a822918d",
     "name": "SEASONIC PRIME TX-1600 1600W",
     "price": 1024.78,
     "quantity": 10,
@@ -45,6 +46,7 @@
     ]
   },
   {
+    "productId": "b95b0c3d-fb4f-4ff8-b6db-15318e844524",
     "name": "GIGABYTE AORUS P1200W 80+ PLATINUM",
     "price": 739.18,
     "quantity": 10,
@@ -90,6 +92,7 @@
     ]
   },
   {
+    "productId": "cbf96c4e-fd3f-44fb-9534-ab0490ba8be0",
     "name": "ASUS ROG-STRIX-850G-WHITE",
     "price": 421.08,
     "quantity": 10,
@@ -135,6 +138,7 @@
     ]
   },
   {
+    "productId": "395d8881-b8b4-489e-9604-2bf814cfa6d6",
     "name": "KOLINK CORE 600W",
     "price": 88.57,
     "quantity": 10,
@@ -180,6 +184,7 @@
     ]
   },
   {
+    "productId": "68e4ea47-65f9-46a4-8b96-ee14917c480e",
     "name": "FSP GROUP HYPER K PRO 500W",
     "price": 109.48,
     "quantity": 10,
@@ -225,6 +230,7 @@
     ]
   },
   {
+    "productId": "5e3767b6-1a2e-4629-be24-c20cdf356470",
     "name": "COOLER MASTER ELITE NEX WHITE 600W",
     "price": 124.99,
     "quantity": 10,
@@ -270,6 +276,7 @@
     ]
   },
   {
+    "productId": "689b3a84-261c-4512-904c-c7fed46365be",
     "name": "CORSAIR CV650W",
     "price": 155.41,
     "quantity": 10,
@@ -315,6 +322,7 @@
     ]
   },
   {
+    "productId": "34226a99-4efb-49f0-9bdd-2d2b4630c36d",
     "name": "FSP HYDRO K PRO 750W",
     "price": 158.60,
     "quantity": 10,
@@ -360,6 +368,7 @@
     ]
   },
   {
+    "productId": "6e2fdae2-ee0c-407d-8660-ae5d8a81c536",
     "name": "SEASONIC FOCUS PLUS 650 GOLD 650W",
     "price": 225.16,
     "quantity": 10,
@@ -405,6 +414,7 @@
     ]
   },
   {
+    "productId": "7a04d99f-54cb-4dcb-8dd7-1671a3066fdf",
     "name": "SEASONIC FOCUS PLUS 850W GOLD",
     "price": 343.62,
     "quantity": 10,
@@ -450,6 +460,7 @@
     ]
   },
   {
+    "productId": "5bfc84bb-26cc-4f50-97b6-d0bab38e189e",
     "name": "ASUS TUF GAMING 850W GOLD",
     "price": 323.29,
     "quantity": 10,
@@ -495,6 +506,7 @@
     ]
   },
   {
+    "productId": "3b75374e-3205-40aa-b951-2ae6ced3fcbe",
     "name": "THERMALTAKE THOUGHPOWER GF2 ARGB 750W",
     "price": 273.90,
     "quantity": 10,
@@ -540,6 +552,7 @@
     ]
   },
   {
+    "productId": "5a6c197e-b93c-428c-85dc-b90e5980d91a",
     "name": "NZXT C650 BRONZE",
     "price": 181.15,
     "quantity": 10,
@@ -585,6 +598,7 @@
     ]
   },
   {
+    "productId": "59d0b2df-20ff-4c14-94db-dec1c2c8dfd1",
     "name": "BE QUIET PURE POWER 12 650W",
     "price": 236.00,
     "quantity": 10,
@@ -630,6 +644,7 @@
     ]
   },
   {
+    "productId": "44952150-1557-40cd-b81d-0601ce3eb1c7",
     "name": "BE QUIET SYSTEM POWER 10 750W",
     "price": 165.00,
     "quantity": 10,
@@ -675,6 +690,7 @@
     ]
   },
   {
+    "productId": "a625e07c-1465-4218-a6cd-aeeab4fd7372",
     "name": "COOLER MASTER V850 GOLD - V2 (WHITE EDITION) 850W",
     "price": 319.00,
     "quantity": 10,

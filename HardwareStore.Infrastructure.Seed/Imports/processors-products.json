@@ -1,5 +1,6 @@
 [
   {
+    "productId": "120c1ebd-bdf6-4da8-8399-69026daa9d03",
     "name": "INTEL PENTIUM GOLD G5600F",
     "price": 182.05,
     "quantity": 10,
@@ -45,6 +46,7 @@
     ]
   },
   {
+    "productId": "ba51dae1-3cec-41d8-b34f-efb6ef2dd2fe",
     "name": "INTEL CORE I3-10100F",
     "price": 177.19,
     "quantity": 10,
@@ -94,6 +96,7 @@
     ]
   },
   {
+    "productId": "71835245-ee6b-477c-9f7f-a4552f497e5b",
     "name": "AMD RYZEN 5 5500",
     "price": 215.20,
     "quantity": 10,
@@ -143,6 +146,7 @@
     ]
   },
   {
+    "productId": "87139a76-a325-4046-a973-e5dc072dc258",
     "name": "INTEL CORE I3-13100F",
     "price": 250.97,
     "quantity": 10,
@@ -192,6 +196,7 @@
     ]
   },
   {
+    "productId": "84efb0de-b1df-42d3-b9ae-e64a7db810ed",
     "name": "INTEL CORE I5-11400F",
     "price": 289.84,
     "quantity": 10,
@@ -241,6 +246,7 @@
     ]
   },
   {
+    "productId": "4330fb51-f627-405a-8f6c-10aa5f65a99c",
     "name": "AMD RYZEN 5 5600G",
     "price": 273.54,
     "quantity": 10,
@@ -290,6 +296,7 @@
     ]
   },
   {
+    "productId": "fab242ac-113e-42ca-9363-d362efbcb394",
     "name": "INTEL CORE I5-12400F",
     "price": 333.82,
     "quantity": 10,
@@ -339,6 +346,7 @@
     ]
   },
   {
+    "productId": "dff4da58-9f47-483b-91b8-efaac5c609a1",
     "name": "AMD RYZEN 7 5700G",
     "price": 451.19,
     "quantity": 10,
@@ -388,6 +396,7 @@
     ]
   },
   {
+    "productId": "01ed6ef9-2722-4172-aeb5-8e997a11643c",
     "name": "INTEL CORE I5-12600KF",
     "price": 522.10,
     "quantity": 10,
@@ -437,6 +446,7 @@
     ]
   },
   {
+    "productId": "06d80050-9408-43cb-8d3e-8760ddb4613a",
     "name": "AMD RYZEN 5 7600",
     "price": 543.05,
     "quantity": 10,
@@ -486,6 +496,7 @@
     ]
   },
   {
+    "productId": "125d9fda-502a-4214-85ac-f746276bbb12",
     "name": "AMD RYZEN 9 5900X",
     "price": 703.30,
     "quantity": 10,
@@ -535,6 +546,7 @@
     ]
   },
   {
+    "productId": "6ec72ed3-5a7f-4f86-a486-dc98f46b20be",
     "name": "AMD RYZEN 7 7700",
     "price": 784.92,
     "quantity": 10,
@@ -584,6 +596,7 @@
     ]
   },
   {
+    "productId": "92089877-a384-404f-b813-f02236406a7e",
     "name": "INTEL CORE I7-13700F",
     "price": 856.63,
     "quantity": 10,
@@ -634,6 +647,7 @@
     ]
   },
   {
+    "productId": "e76539b9-89a9-4e5b-a60e-a7429323f761",
     "name": "INTEL CORE I9-12900K",
     "price": 981.20,
     "quantity": 10,
@@ -683,6 +697,7 @@
     ]
   },
   {
+    "productId": "3163767e-f433-4fa4-b5f5-ced4fbf7e96c",
     "name": "INTEL CORE I9-13900KF",
     "price": 1274.40,
     "quantity": 10,
@@ -732,6 +747,7 @@
     ]
   },
   {
+    "productId": "06c3cb01-b579-4d74-85e5-5e40297702f6",
     "name": "AMD RYZEN THREADRIPPER PRO 5965WX",
     "price": 5818.57,
     "quantity": 10,

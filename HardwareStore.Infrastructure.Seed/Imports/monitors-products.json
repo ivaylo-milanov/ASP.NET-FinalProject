@@ -1,5 +1,6 @@
 [
   {
+    "productId": "730dd1ab-67ce-4901-9e23-c0bbb4890e07",
     "name": "BENQ GL2480",
     "price": 259.85,
     "quantity": 10,
@@ -57,7 +58,8 @@
     ]
   },
   {
-    "namevvv": "ASUS TUF GAMING VG246H1A",
+    "productId": "9d1fc184-5111-405f-bc08-686cf2086357",
+    "name": "ASUS TUF GAMING VG246H1A",
     "price": 309.00,
     "quantity": 10,
     "description": "Monitor ASUS TUF GAMING VG246H1A 23.8\" IPS Full HD 1920 x 1080, Frameless, 0.5 ms MPRT, 100Hz FreeSync, ELMB",
@@ -118,6 +120,7 @@
     ]
   },
   {
+    "productId": "796faaca-ca93-4081-9a23-b90191c6c28c",
     "name": "SAMSUNG S31C 27\"",
     "price": 319.00,
     "quantity": 10,
@@ -179,6 +182,7 @@
     ]
   },
   {
+    "productId": "6a5dec5e-c220-4ea9-9e0e-1b74b1afd2e5",
     "name": "SAMSUNG 24AG320 ODYSSEY G3",
     "price": 388.99,
     "quantity": 10,
@@ -240,6 +244,7 @@
     ]
   },
   {
+    "productId": "effc1fb1-a282-4562-b209-9a29f8d94fb4",
     "name": "LG 32MP60G-B",
     "price": 469.00,
     "quantity": 10,
@@ -301,6 +306,7 @@
     ]
   },
   {
+    "productId": "190bfc58-58f2-4aa4-bfb2-56610eb70a6f",
     "name": "ZOWIE XL2411K",
     "price": 491.30,
     "quantity": 10,
@@ -358,6 +364,7 @@
     ]
   },
   {
+    "productId": "661acb6b-83fb-4039-bb91-098f97aa394a",
     "name": "GIGABYTE M27F A",
     "price": 562.50,
     "quantity": 10,
@@ -415,6 +422,7 @@
     ]
   },
   {
+    "productId": "d74f185f-fa18-4945-a84f-aaab038ba2b9",
     "name": "ASROCK PG32QF2B",
     "price": 748.99,
     "quantity": 10,
@@ -476,6 +484,7 @@
     ]
   },
   {
+    "productId": "9dbc4281-e1c3-4e2a-a1fa-2fb4c4e00233",
     "name": "ASUS ROG STRIX XG249CM",
     "price": 769.00,
     "quantity": 10,
@@ -533,6 +542,7 @@
     ]
   },
   {
+    "productId": "47b4250a-85b5-4b6e-b56f-a4ba36edcab7",
     "name": "HYPERX ARMADA 25\"",
     "price": 779.02,
     "quantity": 10,
@@ -594,6 +604,7 @@
     ]
   },
   {
+    "productId": "bc21439d-7c9d-4183-812f-bc3ac468c20a",
     "name": "ASUS PROART DISPLAY PA278QV",
     "price": 789.00,
     "quantity": 10,
@@ -651,6 +662,7 @@
     ]
   },
   {
+    "productId": "39bc4103-3f11-481b-a859-f2eb720649ba",
     "name": "EIZO FLEXSCAN EV2460",
     "price": 841.37,
     "quantity": 10,
@@ -708,6 +720,7 @@
     ]
   },
   {
+    "productId": "8d4089ec-9f65-450b-9f74-337390c86144",
     "name": "NEC EA271F",
     "price": 955.20,
     "quantity": 10,
@@ -765,6 +778,7 @@
     ]
   },
   {
+    "productId": "59a0140a-ca95-40d1-9e51-ea6e491b3943",
     "name": "ASUS ZENSCREEN OLED MQ16AH",
     "price": 1039.00,
     "quantity": 10,
@@ -822,6 +836,7 @@
     ]
   },
   {
+    "productId": "cd979606-d482-40f8-a2e2-a81c1dfcce5c",
     "name": "ZOWIE XL2746K",
     "price": 1239.70,
     "quantity": 10,
@@ -879,6 +894,7 @@
     ]
   },
   {
+    "productId": "7e546395-0e5b-4bbf-a083-be5505a56ee0",
     "name": "ASUS ROG SWIFT OLED PG27AQDM",
     "price": 2349.00,
     "quantity": 10,

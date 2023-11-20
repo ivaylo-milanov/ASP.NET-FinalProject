@@ -1,5 +1,6 @@
 [
   {
+    "productId": "15ec5003-6f40-4c31-97df-5ef24cd7b3a0",
     "name": "LOGITECH G102 LIGHTSYNC",
     "price": 58.99,
     "quantity": 10,
@@ -53,6 +54,7 @@
     ]
   },
   {
+    "productId": "637d8089-3235-4896-a213-2b85771393c5",
     "name": "STEELSERIES RIVAL 3",
     "price": 78.96,
     "quantity": 12,
@@ -106,6 +108,7 @@
     ]
   },
   {
+    "productId": "6f05799c-c64f-4bbd-870a-682feea0a5d6",
     "name": "XTRFY M4 RGB STREET",
     "price": 88.99,
     "quantity": 9,
@@ -159,6 +162,7 @@
     ]
   },
   {
+    "productId": "71fd642b-51bf-412c-b383-c49fc3e948ad",
     "name": "HYPERX PULSEFIRE FPS PRO",
     "price": 99.00,
     "quantity": 6,
@@ -212,6 +216,7 @@
     ]
   },
   {
+    "productId": "36581cdd-c605-40c1-8e23-78cd02fb5070",
     "name": "HYPERX PULSEFIRE HASTE",
     "price": 118.99,
     "quantity": 17,
@@ -265,6 +270,7 @@
     ]
   },
   {
+    "productId": "b98a0d2b-36ea-441f-a191-733ead645f18",
     "name": "LOGITECH G305 WH",
     "price": 119.00,
     "quantity": 10,
@@ -314,6 +320,7 @@
     ]
   },
   {
+    "productId": "98322a27-9cbc-4666-8392-0f245afb62aa",
     "name": "GLORIOUS MODEL O (GLOSSY BLACK)",
     "price": 129.00,
     "quantity": 10,
@@ -367,6 +374,7 @@
     ]
   },
   {
+    "productId": "67fd9e91-b4bc-42d5-8b7d-43eee2c97a49",
     "name": "GLORIOUS MODEL D (MATTE WHITE)",
     "price": 129.00,
     "quantity": 10,
@@ -420,6 +428,7 @@
     ]
   },
   {
+    "productId": "3405e1e6-53c7-411b-8c88-c9ffcfd45981",
     "name": "LOGITECH G502 HERO",
     "price": 138.00,
     "quantity": 10,
@@ -473,6 +482,7 @@
     ]
   },
   {
+    "productId": "9025ef3b-286f-4880-83f1-6abb8ce9eb02",
     "name": "ZOWIE EC3-C",
     "price": 149.00,
     "quantity": 10,
@@ -526,6 +536,7 @@
     ]
   },
   {
+    "productId": "1208439d-df39-4445-9bdb-cce86277842b",
     "name": "STEELSERIES SENSEI TEN",
     "price": 159.00,
     "quantity": 10,
@@ -579,6 +590,7 @@
     ]
   },
   {
+    "productId": "cf2d9535-fdb8-4819-ab61-d58a60603cba",
     "name": "COOLER MASTER MM730",
     "price": 88.99,
     "quantity": 10,
@@ -632,6 +644,7 @@
     ]
   },
   {
+    "productId": "07087f6f-31ed-462a-aa44-63d515cfbbb2",
     "name": "LOGITECH G502X",
     "price": 178.99,
     "quantity": 10,
@@ -685,6 +698,7 @@
     ]
   },
   {
+    "productId": "4911caa3-a307-4f59-baba-0dd6616ef6dd",
     "name": "LOGITECH G703",
     "price": 189.00,
     "quantity": 10,
@@ -734,6 +748,7 @@
     ]
   },
   {
+    "productId": "02c200a6-74ae-4aba-baa2-2b77f2d7b6f1",
     "name": "ASUS TUF GAMING M4 AIR",
     "price": 93.56,
     "quantity": 10,
@@ -783,6 +798,7 @@
     ]
   },
   {
+    "productId": "176d8c2e-8942-4732-a677-29c670c0c091",
     "name": "LOGITECH G PRO",
     "price": 259.00,
     "quantity": 10,

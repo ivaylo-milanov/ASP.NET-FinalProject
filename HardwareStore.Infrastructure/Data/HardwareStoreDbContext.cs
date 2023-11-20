@@ -1,9 +1,9 @@
 ﻿namespace HardwareStore.Infrastructure.Data
 {
+    using HardwareStore.Infrastructure.Configurations;
     using Microsoft.AspNetCore.Identity;
     using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore;
-    using Microsoft.Extensions.Options;
     using Models;
 
     public class HardwareStoreDbContext : IdentityDbContext<Customer, IdentityRole<Guid>, Guid>
@@ -31,7 +31,7 @@
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.ApplyConfigurationsFromAssembly(typeof(HardwareStoreDbContext).Assembly);
-            
+
             base.OnModelCreating(builder);
         }
     }
